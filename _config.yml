@@ -1,5 +1,5 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ddubny.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -33,3 +33,6 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+
+remote_theme : artemsheludko/zolan
