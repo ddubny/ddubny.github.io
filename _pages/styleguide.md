@@ -15,19 +15,20 @@ image: 08.jpg
 
 # Research Expereince 
 
-- (2021~2023) Undergraduate Research Assistant. JBNU Emolab
-              Department of Psychology, Jeonbuk National University, Jeonju, Korea
-              Advisor : JW.Kim, phD
+- (2021~2023) Undergraduate Research Assistant. JBNU Emolab \r\n
+              Department of Psychology, Jeonbuk National University, Jeonju, Korea \r\n
+              Advisor : J.W.Kim, phD
 
 - (2022) 한국심리학회지 연차학술대회 학부생 포스터 발표 [Korean Psychology Association]
-         한국어 단어에 대한 
+         한국어 단어 목록에 대한 정서평정 메타분석 연구 (#데이터분석, #클러스터링, #단어정서)
 
 - (2022.12~2023) Undergrauate Research Assistatn. JBNU SSK 포용적경제연구팀
                  Department of Economics, Jeonbuk National University, Jeonju, Korea
-                 Advisor : sm.Moon, phD
-              
+                 Advisor : S.M.Moon, phD
 
+- (2023 진행중) 
 
+- (2023 진행중) 
 
 
 # professional experience 
