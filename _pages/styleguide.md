@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Style Guide
-permalink: /styleguide/
+title: Career
+permalink: /career/
 image: 08.jpg
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+부학생회장직을 역임하며, 학생회를 이끌 당시 "전주시 독서대전"에 부스 참여하여 사회 봉사를 하였음. 
+뿐 만 아니라 해당대회에 참여하며 느꼈던 데이터 괸리 및 보안에 대한 제안점을 공모하여 '독서대전 공모전'에서 수상하였음.  
 
 ***
 
