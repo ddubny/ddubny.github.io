@@ -5,7 +5,11 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+안녕하세요? 만나서 반갑습니다. 저는 데이터 전문가가 되고픈 서수빈 학생입니다. 
+하지만 이제는 모든 분야에 데이터 분석이 활용되며, 단순히 데이터 전문가가 되고 싶다고 말하는 것이 약간은 허무맹랑한 시대가 되고 있습니다. 
+따라서 저는 현재 어떤 Domain Knowlege와 Research Background를 쌓을 지에 집중하며 다양한 경험을 쌓고자 노력하고 있습니다. 이와 더불어 도전과 경험을 즐기자는 마인드는 저를 지치지 않게 만드는 삶의 원동력입니다. 
+그래서인지 하고자 결심한 것에 대해선 일을 하는데도 에너지를 뿜어내고, 주도적으로 이끌어나가는 추진력이 제 장점입니다. 
+제가 어떤 활동에 관심이 많은 지, 또 무슨 일을 해왔는 지 궁금하시다면 블로그를 꼼꼼히 읽어주세요!!
 
 ***
 
