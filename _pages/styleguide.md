@@ -33,35 +33,49 @@ image: 08.jpg
 
 # professional experience 
 
+- (2018.11~2019.03) 러쉬코리아 강남역점 - CX보조
+- (2022 summer) 멘탈 헬스케어 어플리케이션 'Trost' 비즈니스 인턴 
 
 
 # certificates and awards
 
 - (2020) KSA 한국표준협회 콘텐츠 크리에이터 우수상
-- (2022) 신한금융그룹X빅데이터혁신 공유 사업단 장려상
-- (2022) 전주시 공공데이터 분석 공모전 장려상
+- (2022) 전북대학교 성적 우수 총장상 
+- (2022) <strong>신한금융그룹X빅데이터혁신 공유 사업단 장려상 </strong>
+- (2022) <strong>전주시 공공데이터 분석 공모전 장려상 </strong>
+- (2022) 전북대학교 문헌정보학과 도서관 서비스 개선 공모안 우수상 
 - (2023) 빅데이터 혁신 공유대학 메타버스 왕중왕전 참가
-- (2023) KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 방법 개발 참가
-- (2023) 공모전 우수상 하나 있으면 좋겠다....ㅎ휴ㅠㅠㅠ
+- (2023) <strong>KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 및 프로토타입 개발 대회참가</strong>
+- (2023) 공모전 하나 더 하면 딱일듯~!! 
+- (2023) 정보처리기사 준비중!!
+- (2023) 자격증 더 준비해야지 올해는 !!! (ex. 사조사/)
 
 
 # activity 
 
+- (2019) 신입생 학과 대표자
+- (2020) 전북대학교 문헌정보학과 부학생회장
+- (2021) 사회봉사활동 
+- (2022 상반기 ) 고려대학교 심리학연구반 '심연' clinical psychology 스터디장 
+- (2023) 전북대학교 인문대학 글로벌 원정대 - 미국 LA & SANFRAN 탐방 
+- (2023) 멋쟁이사자처럼 동아리 
+
+
 # technical skills
 
 {% highlight markdown %}
-Python for data science (data visualization, Machine Learning, NLP or back-end) -> HIGH LEVEL 
+#### Python for data science (data visualization, Machine Learning, NLP or back-end) -> HIGH LEVEL 
 {% endhighlight %}
 
 {% highlight markdown %}
-R / Matlab for Research study (Research Data analysis) -> MIDDLE LEVEL
+#### R / Matlab for Research study (Research Data analysis) -> MIDDLE LEVEL
 {% endhighlight %}
 
 {% highlight markdown %}
-C / JAVA for self-education -> LOW LEVEL 
+#### C / JAVA for self-education -> LOW LEVEL 
 {% endhighlight %}
 
-My main Language is python (파이썬은 절대 죽지 않는다...!!!)
+My main Language is <strong>Python</strong> (파이썬은 절대 죽지 않는다...!!!)
 
 
 
