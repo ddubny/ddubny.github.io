@@ -1,26 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: SUBIN's record
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: This is the record of my own experience and thinking. 
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Subin Seo 
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: 반가워요! <strong>서수빈</strong>입니다. 
+  bio: research, study, and create something with <strong>data (plus information)</strong>, <strong>psychology</strong>, <strong>economics</strong>, and dev. I have three majors that is information science & psychology & statistics and plus taking a 2 microdgree about big data. Loves <a href="#">travel</a> & taking a group activity.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+# twitter: https://twitter.com/ # Add your Twitter handle
+# facebook: https://facebook.com/ # Add your Facebook handle
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+# instagram: https://instagram.com/ # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
