@@ -15,8 +15,8 @@ image: 08.jpg
 
 # Research Expereince 
 
-- (2021~2023) Undergraduate Research Assistant. JBNU Emolab \r\n
-              Department of Psychology, Jeonbuk National University, Jeonju, Korea \r\n
+- (2021~2023) Undergraduate Research Assistant. JBNU Emolab 
+              Department of Psychology, Jeonbuk National University, Jeonju, Korea
               Advisor : J.W.Kim, phD
 
 - (2022) 한국심리학회지 연차학술대회 학부생 포스터 발표 [Korean Psychology Association]
@@ -33,12 +33,35 @@ image: 08.jpg
 
 # professional experience 
 
+
+
 # certificates and awards
+
+- (2020) KSA 한국표준협회 콘텐츠 크리에이터 우수상
+- (2022) 신한금융그룹X빅데이터혁신 공유 사업단 장려상
+- (2022) 전주시 공공데이터 분석 공모전 장려상
+- (2023) 빅데이터 혁신 공유대학 메타버스 왕중왕전 참가
+- (2023) KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 방법 개발 참가
+- (2023) 공모전 우수상 하나 있으면 좋겠다....ㅎ휴ㅠㅠㅠ
 
 
 # activity 
 
 # technical skills
+
+{% highlight markdown %}
+Python for data science (data visualization, Machine Learning, NLP or back-end) -> HIGH LEVEL 
+{% endhighlight %}
+
+{% highlight markdown %}
+R / Matlab for Research study (Research Data analysis) -> MIDDLE LEVEL
+{% endhighlight %}
+
+{% highlight markdown %}
+C / JAVA for self-education -> LOW LEVEL 
+{% endhighlight %}
+
+My main Language is python (파이썬은 절대 죽지 않는다...!!!)
 
 
 
