@@ -1,16 +1,50 @@
 ---
 layout: page
-title: Career
-permalink: /career/
+title: CV
+permalink: /cv/
 image: 08.jpg
 ---
 
-부학생회장직을 역임하며, 학생회를 이끌 당시 "전주시 독서대전"에 부스 참여하여 사회 봉사를 하였음. 
-뿐 만 아니라 해당대회에 참여하며 느꼈던 데이터 괸리 및 보안에 대한 제안점을 공모하여 '독서대전 공모전'에서 수상하였음.  
+학교 생활 중 다양한 활동을 함으로써 적성에 맞는 진로를 찾으려 노력했으며, 관심 분야에 대해서는 심도 있는 활동을 하고자 했습니다. 
 
 ***
 
-### Headings by default:
+# Education
+
+<strong>학점평균 : 4.19</strong> 
+
+# Research Expereince 
+
+- (2021~2023) Undergraduate Research Assistant. JBNU Emolab
+              Department of Psychology, Jeonbuk National University, Jeonju, Korea
+              Advisor : JW.Kim, phD
+
+- (2022) 한국심리학회지 연차학술대회 학부생 포스터 발표 [Korean Psychology Association]
+         한국어 단어에 대한 
+
+- (2022.12~2023) Undergrauate Research Assistatn. JBNU SSK 포용적경제연구팀
+                 Department of Economics, Jeonbuk National University, Jeonju, Korea
+                 Advisor : sm.Moon, phD
+              
+
+
+
+
+# professional experience 
+
+# certificates and awards
+
+
+# activity 
+
+# technical skills
+
+
+
+
+
+
+<!-- ### Headings by default:
 
 # This is the default title
 ## This is the default title
@@ -91,4 +125,4 @@ image: 08.jpg
 ![]({{site.baseurl}}/images/09.jpg)
 *Backyard*
 
-***
+*** -->
