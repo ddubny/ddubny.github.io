@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  Find a connection with the reader
-date:   2018-07-24 15:01:35 +0300
+title:  KPMG Ideathon Review 
+date:   2023-02-28 15:01:35 +0300
 image:  02.jpg
 tags:   Resources
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
+우리는 한 달간 참여했던 2023 KPMG 아이디어톤에서 본선까지 올라갔지만, 최종적으로 3위 안에 들지 못했다. 결과보단 과정이 중요하다지만, 막상 결과가 만족스럽지 못하니 나 뿐 만 아니라 팀원들도 후련함보다는 아쉬운 마음이 앞서는 듯 했다. 
 
-## Are you crazy? I can't swallow that.
+그렇지만 결과에만 일희일비하다간, 발전은 없고 찌질함만 남는다. 
+아쉽다면 그 만큼 뭔가 부족함이 있었다는 뜻이니, 오늘은 스스로 **약점 분석**을 해보려구 한다. 
+
+# Are you crazy? I can't swallow that.
 
 Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
 
@@ -17,35 +19,20 @@ Oh, I don't have time for this. I have to go and buy a single piece of fruit wit
 2. Fry, we have a crate to deliver.
 3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
-### Why not indeed!
+### What did you do as a team leader?
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
+나는 팀장으로서 무엇을 했나...?에 대해 깊은 고찰이 필요한 시점이라는 생각이 들었다. 
 
-* Shinier than yours, meatbag.
-* This is the worst part. The calm before the battle.
-* Ooh, name it after me!
+이번 KPMG 아이디어톤의 경우 뉴페이스들과 합을 맞추었기 때문에 기존의 다른 조직들에 대한 리드와는 성격이 달랐던 것 같다. 그래서 업무적 소통을 할 때도 서로에 대한 과한 배려나 눈치때문에 필요한 전달까지 누락되었던 것 같다. 
 
-Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we walk! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Ow, my spirit! Who's brave enough to fly into something we all keep calling a death sphere?
+* 프론트/백엔드 개발자들과의 소통을 위해 개발적 프로세스까지 대략적으로 파악할 것.  
+개발자들은 정해진 루트와 확고한 지시사항을 통해서만 움직인다고 한다. 공대 출신 교수님께 전해 들을 때는 설마 설마 했던 부분이었는데, 이번에 협업해보니 실제로도 그랬다. 프로젝트의 전체적인 관점에서 목표를 
 
-Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
+* 사람의 성격에 따라 각자 다른 피드백 전달 방법을 사용할 것. 
 
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
 
-Ummm…to eBay? But I know you in the future. I cleaned your poop. I'm just glad my fat, ugly mama isn't alive to see this day. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
+* 미꾸라지 한 마리가 온 웅덩이를 흐린다. 
+팀원 중에 백엔드 개발자가 필요해서, 어렵게 한 사람을 구해서 데려왔는데
 
-Your best is an idiot! Fry, you can't just sit here in the dark listening to classical music. And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!
-
-You, a bobsleder!? That I'd like to see! I'm Santa Claus! There's no part of that sentence I didn't like! Noooooo! I can explain. It's very valuable.
-
-I'm Santa Claus! Is the Space Pope reptilian!? Who's brave enough to fly into something we all keep calling a death sphere? I had more, but you go ahead.
-
-It doesn't look so shiny to me. Kif might! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.
-
-Check it out, y'all. Everyone who was invited is here. Anyone who laughs is a communist! You're going to do his laundry? Michelle, I don't regret this, but I both rue and lament it.
-
-Bender, we're trying our best. I daresay that Fry has discovered the smelliest object in the known universe! Oh, you're a dollar naughtier than most. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
-
-You, a bobsleder!? That I'd like to see! No! The kind with looting and maybe starting a few fires! Good news, everyone! There's a report on TV with some very bad news! When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film. But if I did make it, you can bet there would have been more topless women on motorcycles. Roll film!
-
-Eeeee! Now say "nuclear wessels"! Why did you bring us here? Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." That's the ONLY thing about being a slave.
+![]({{ site.baseurl }}/images/02.jpg)
+*우리 팀 회의 장면*
