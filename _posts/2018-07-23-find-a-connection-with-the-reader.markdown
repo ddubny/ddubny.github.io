@@ -12,7 +12,7 @@ tags:   Resources
 아쉽다면 그 만큼 뭔가 부족함이 있었다는 뜻이니, 오늘은 스스로 **약점 분석**을 해보려구 한다. 
 
 <center><img src="/images/021.jpg" width="300" height="300"></center>
-*본선까지 진출했지만,,,수상은 못함 ㅠㅠ*
+<center>*본선까지 진출했지만,,,수상은 못함 ㅠㅠ*</center>
 
 # Are you crazy? I can't swallow that.
 
@@ -20,18 +20,18 @@ tags:   Resources
 2. Fry, we have a crate to deliver.
 3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
-### 프로들은 feature enginerring을 어떻게 할까?
+### How do PRO does feature engineering?
 
 
 
 
 
-### 한국어 자연어 처리 분석에 대한 관심 !!!  
+### Become interested in koNLP
 
 본전공인 문헌정보학은 나의 내면 속에서 가장 홀대받는 전공이다.  
 그렇지만 요새 데이터 분석 쪽으로 진로를 정하며, 새롭게 관심이 생기고 있다. 자연어를 자유자재로, 또 문서마다 고유의 특징에 맞게 인간이 전달하고자 하는 의미를 정확히 분석할 수 만 있다면 잠재적 활용도와 기대 가치가 굉장한 분야라고 생각이 든다. **단적인 예시로, 최근 chatGPT가 대중의 이목을 끌었던 것만 보아도 그렇다.** 
 
-# Domain Konwledge에 대한 중요성! 
+# Improtance of Domain Konwledge!!
 
 
 ### What did you do as a team leader? 😖
