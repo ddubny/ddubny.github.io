@@ -11,14 +11,8 @@ tags:   Resources
 그렇지만 결과에만 일희일비하다간, 발전은 없고 찌질함만 남는다. 
 아쉽다면 그 만큼 뭔가 부족함이 있었다는 뜻이니, 오늘은 스스로 **약점 분석**을 해보려구 한다. 
 
-.center {
-  display: block;
-  margin: auto;
-}
-![]({{ site.baseurl }}/images/021.jpg){: width="300" height="300"){: .center}
-*본선까지 진출했지만,,,수상은 못함 ㅠㅠ*
-
 <center><img src="/images/021.jpg" width="300" height="300"></center>
+*본선까지 진출했지만,,,수상은 못함 ㅠㅠ*
 
 # Are you crazy? I can't swallow that.
 
