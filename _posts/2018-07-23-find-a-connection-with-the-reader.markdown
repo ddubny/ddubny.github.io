@@ -11,15 +11,34 @@ tags:   Resources
 그렇지만 결과에만 일희일비하다간, 발전은 없고 찌질함만 남는다. 
 아쉽다면 그 만큼 뭔가 부족함이 있었다는 뜻이니, 오늘은 스스로 **약점 분석**을 해보려구 한다. 
 
-![]({{ site.baseurl }}/images/02.jpg){: width="300" height="300"){: .center}
+.center {
+  display: block;
+  margin: auto;
+}
+![]({{ site.baseurl }}/images/021.jpg){: width="300" height="300"){: .center}
 *본선까지 진출했지만,,,수상은 못함 ㅠㅠ*
 
+<center><img src="/images/021.jpg" width="300" height="300"></center>
 
 # Are you crazy? I can't swallow that.
 
 1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
 2. Fry, we have a crate to deliver.
 3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
+
+### 프로들은 feature enginerring을 어떻게 할까?
+
+
+
+
+
+### 한국어 자연어 처리 분석에 대한 관심 !!!  
+
+본전공인 문헌정보학은 나의 내면 속에서 가장 홀대받는 전공이다.  
+그렇지만 요새 데이터 분석 쪽으로 진로를 정하며, 새롭게 관심이 생기고 있다. 자연어를 자유자재로, 또 문서마다 고유의 특징에 맞게 인간이 전달하고자 하는 의미를 정확히 분석할 수 만 있다면 잠재적 활용도와 기대 가치가 굉장한 분야라고 생각이 든다. **단적인 예시로, 최근 chatGPT가 대중의 이목을 끌었던 것만 보아도 그렇다.** 
+
+# Domain Konwledge에 대한 중요성! 
+
 
 ### What did you do as a team leader? 😖
 
@@ -34,20 +53,7 @@ tags:   Resources
 이번 KPMG 아이디어톤의 경우 뉴페이스들과 합을 맞추었기 때문에 기존의 다른 조직들에 대한 리드와는 성격이 달랐던 것 같다. 그래서 업무적 소통을 할 때도 서로에 대한 과한 배려나 눈치때문에 필요한 전달까지 누락되었던 것 같다. 
 
 * **미꾸라지 한 마리가 온 웅덩이를 흐린다.**  
-참가 인원 수를 충족하기 위해 함께 하는 팀원 한 분이 
-
-
-### 프로들은 feature enginerring을 어떻게 할까?
-
-
-
-
-
-### 한국어 자연어 처리 분석에 대한 관심 !!!  
-
-본전공인 문헌정보학은 나의 내면 속에서 가장 홀대받는 전공이다.  
-그렇지만 요새 데이터 분석 쪽으로 진로를 정하며, 새롭게 관심이 생기고 있다. 자연어를 자유자재로, 또 문서마다 고유의 특징에 맞게 인간이 전달하고자 하는 의미를 정확히 분석할 수 만 있다면 잠재적 활용도와 기대 가치가 굉장한 분야라고 생각이 든다. **단적인 예시로, 최근 chatGPT가 대중의 이목을 끌었던 것만 보아도 그렇다.** 
-
+참가 인원 수를 충족하기 위해 함께 하게된 개발자 한 분이 프로젝트 자체에 온전히 집중할 수 없음을 밝히고, 연락이 두절되거나 필참해야 하는 행사에 무단으로 불참을 하는 일이 있었다. 이러한 일들이 반복되다 보니 다른 개발자들도 자연스럽게 우리 프로젝트에 대한 애정과 관심이 낮아진 것 같다. 앞으로는 무성의함으로 문제가 되는 팀원은 아예 데리고 가지 않는 것이 여러모로 더 낫다고 느꼈다. 
 
 ![]({{ site.baseurl }}/images/02.jpg)
 *회의장면*
