@@ -13,26 +13,33 @@ tags:   Resources
 
 # Are you crazy? I can't swallow that.
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
+
+
+![]({{ site.baseurl }}/images/021.jpg)
+*우리 팀 회의 장면*
 
 1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
 2. Fry, we have a crate to deliver.
 3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
-### What did you do as a team leader?
+### What did you do as a team leader? :confounded:
 
 나는 팀장으로서 무엇을 했나...?에 대해 깊은 고찰이 필요한 시점이라는 생각이 들었다. 
+그래서 이번 팀을 리드하면서 어떤 점이 문제가 되었는 지 곰곰이 생각해보았다. 
 
-이번 KPMG 아이디어톤의 경우 뉴페이스들과 합을 맞추었기 때문에 기존의 다른 조직들에 대한 리드와는 성격이 달랐던 것 같다. 그래서 업무적 소통을 할 때도 서로에 대한 과한 배려나 눈치때문에 필요한 전달까지 누락되었던 것 같다. 
 
 * 프론트/백엔드 개발자들과의 소통을 위해 개발적 프로세스까지 대략적으로 파악할 것.  
 개발자들은 정해진 루트와 확고한 지시사항을 통해서만 움직인다고 한다. 공대 출신 교수님께 전해 들을 때는 설마 설마 했던 부분이었는데, 이번에 협업해보니 실제로도 그랬다. 프로젝트의 전체적인 관점에서 목표를 
 
 * 사람의 성격에 따라 각자 다른 피드백 전달 방법을 사용할 것. 
-
+이번 KPMG 아이디어톤의 경우 뉴페이스들과 합을 맞추었기 때문에 기존의 다른 조직들에 대한 리드와는 성격이 달랐던 것 같다. 그래서 업무적 소통을 할 때도 서로에 대한 과한 배려나 눈치때문에 필요한 전달까지 누락되었던 것 같다. 
 
 * 미꾸라지 한 마리가 온 웅덩이를 흐린다. 
 팀원 중에 백엔드 개발자가 필요해서, 어렵게 한 사람을 구해서 데려왔는데
+
+
+### 
+
 
 ![]({{ site.baseurl }}/images/02.jpg)
 *우리 팀 회의 장면*
