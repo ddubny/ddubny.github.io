@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "chatGPT에 대한    경외감과 의문"
+title:  "chatGPT에 대한 경외감과 의문"
 date:   2023-03-07 09:00:00 +0900
 image:  02.jpg
 categories: jekyll update
@@ -49,7 +49,7 @@ chatGPT의 대답은 꽤나 그럴듯했는데,
   
 <center><img src="/images/emoji-1.png" width="300" height="300"></center>
   
-<center> 그런데 가만 있어 보자.</center>  
+<center> 잠깐 !! 가만 있어 보자</center>  
 <center>이런 카페가 있었던가....?<center>   
 
 
