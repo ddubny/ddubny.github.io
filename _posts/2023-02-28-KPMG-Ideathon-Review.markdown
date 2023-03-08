@@ -2,7 +2,7 @@
 layout: post
 title:  KPMG Ideathon Review 
 date:   2023-02-28 15:01:35 +0300
-image:  02.jpg
+image:  10.jpeg
 tags:   Resources
 ---
 
