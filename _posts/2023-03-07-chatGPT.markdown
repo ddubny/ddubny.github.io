@@ -2,7 +2,7 @@
 layout: post
 title:  "chatGPT에 대한 경외감과 의문"
 date:   2023-03-07 09:00:00 +0900
-image:  11.jpg
+image:  11.png
 categories: jekyll update
 ---
 
@@ -14,7 +14,7 @@ KPMG 아이디어톤에 참여하면서 이것 저것 자연어 처리 모델들
 그래서 나도 한 번 !! chatGPT에 대해 제대로 알아보고 사용해보았다. 
 
 
-# what the fuxx ! 
+# what the fuxx !
 '자연어 처리'는 그 동안 약간....뭐랄까? 불모지 같았다.  
 자연어 처리에 관심이 있다고 하면, ㅎㅎㅎ 찐따가 소신 발언 하는 듯한 느낌이었다. 
 
