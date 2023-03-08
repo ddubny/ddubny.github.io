@@ -2,7 +2,7 @@
 layout: post
 title:  "chatGPT에 대한 경외감과 의문"
 date:   2023-03-07 09:00:00 +0900
-image:  02.jpg
+image:  11.jpg
 categories: jekyll update
 ---
 
