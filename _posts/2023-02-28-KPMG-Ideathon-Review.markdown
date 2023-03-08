@@ -13,9 +13,10 @@ tags:   Resources
 
 <center><img src="/images/021.jpg" width="500" height="500"></center>
 <center>*본선까지 진출했지만,,,수상은 못함 ㅠㅠ*</center>
-  
-  
-  
+<br/>  
+<br/>  
+<br/>    
+
 ## 문제 정의 및 목표 설정 
 **1. Feature engineering을 자유자재로 할 수 있도록 전문적인 소양을 기르자!**  
 **2. 문서 특징에 맞는 자연어 처리 분석법을 적용할 수 있도록 다양한**  
