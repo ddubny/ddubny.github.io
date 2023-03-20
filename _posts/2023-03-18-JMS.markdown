@@ -91,11 +91,19 @@ JMS의 사례를 중심으로 조사해보고자 한다.
 결정세액 6천만 이상 8천만 이하의 사람은 1인당 평균적으로 약 49만원의 가치를 가지고 있다. 
   
 만약 결정세액이 1억원을 초과한다면 평균적으로 약 78만원의 경제적 가치를 가진다고 볼 수 있다. 
-
-
-
-
-참고문헌
+  
+  
+-----
+# 우리 사회는 어떤 노력을 할 수 있을까?
+  
+<center><img src="/images/JMS_1.png" width="500" height="500"></center>  
+  
+  
+전북대학교 JMS 동아리 테루아를 뿌리 뽑았던 사례와 같이 우리 사회가 적극적으로 적발하고 도움을 주려는 사회적 노력이 필요하다.   
+  
+  
+-----
+참고문헌  
 Allport, G. W., & Ross, J. M. (1967). Personal religious orientation and prejudice. Journal of Personality and Social Psychology, 5, 432-443.
 
 Ellis, A. (1962). Reason and emotion in psychotherapy. New York, NY: Lyle Stuart & Citadel Books.
