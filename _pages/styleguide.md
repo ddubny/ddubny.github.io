@@ -4,15 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
-# Subin Seo 
-```MARKDOWN
-- Email contact : stm01@naver.com  
-** < Bachelor student > **
-- Library and Information science
-- Psychology
-- Statistics 
-```
-
+### Subin Seo _ <span style="background-color:yellow"> stm01@naver.com </span>
+- **phone contact : (+82)10-6282-4600**
+- **< Current position >**
+**Bachelor student in JBNU, jeonju, Korea**
+**-> Library and Information science**
+**-> Psychology**
+**-> Statistics** 
 
 # <span style="color:gray"> Project Experience </span>
 -------
