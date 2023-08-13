@@ -85,7 +85,7 @@ pre {
   overflow: auto;
   padding: 15px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 18px;
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
@@ -93,7 +93,7 @@ pre {
 
 img,
 .zoom-img-wrap {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   vertical-align: middle;
   &+em {
