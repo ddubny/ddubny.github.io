@@ -22,7 +22,7 @@ permalink: /cv/
       
   + JeonJu city Public data Analysis contest
       -> < Medical system Modeling Analysis in JeonJu city >
-      -> `<span style="color:gray">GIS analysis for transport system</span>`, `<span style="color:gray">Improving the healthcare environment</span>`, `<span style="color:gray"> Modeling simulation</span>` 
+      -> <span style="color:gray">`GIS analysis for transport system`</span>, <span style="color:gray">`Improving the healthcare environment`</span>, <span style="color:gray"> `Modeling simulation`</span>  
   + Text Information Analysis Capston project - **< Analysis of Influence Level of Media and Social Media for Legislation >** 
   + KPMG Ideathon - Digital Transformation - < Development of Chatbot services for corporate activities using NLP >
   + Data Driven understnading of Society - < >
