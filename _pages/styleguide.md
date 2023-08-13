@@ -5,25 +5,27 @@ permalink: /cv/
 ---
 
 ### Subin Seo 
-✉️ Email contact : stm01@naver.com 
+✉️ Email contact : stm01@naver.com  
 📱 Phone contact : (+82)10-6282-4600   
   
 ========= < Current position > =========   
 **: Bachelor student** in JBNU, Jeonju, Korea  
-1️⃣ Library and Information science *(Main)*  
-2️⃣ Psychology *(Double)*   
-3️⃣ Statistics *(Minor)*     
+1️⃣ Library and Information science  
+2️⃣ Psychology    
+3️⃣ Statistics       
   
 -----
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
   + ShinHan card big-data Analysis contest - < Meta consumption platform sugeestion with Consumer Data-Analysis >
-  + JeonJu city Public data Analysis contest - < Medical system Modeling Analysis in JeonJu city >
-      -> `GIS analysis for transport system`, `Improving the healthcare environment`, `Modeling simulation` 
+      
+  + JeonJu city Public data Analysis contest
+      -> < Medical system Modeling Analysis in JeonJu city >
+      -> `<span style="color:gray">GIS analysis for transport system</span>`, `<span style="color:gray">Improving the healthcare environment</span>`, `<span style="color:gray"> Modeling simulation</span>` 
   + Text Information Analysis Capston project - **< Analysis of Influence Level of Media and Social Media for Legislation >** 
-  + KPMG 
-  + 
+  + KPMG Ideathon - Digital Transformation - < Development of Chatbot services for corporate activities using NLP >
+  + Data Driven understnading of Society - < >
 
 ### <span style="background-color:#ffdce0"> Database Administration </span>  
   + Trost(mental health application start-up company) Database Development suggestion project  
