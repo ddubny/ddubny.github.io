@@ -5,15 +5,14 @@ permalink: /cv/
 ---
 
 # Subin Seo 
-- Email contact : stm01@naver.com
-< Bachelor student >
+- Email contact : stm01@naver.com  
+< Bachelor student >  
 - Library and Information science
 - Psychology
 - Statistics 
 
 # <span style="color:gray"> Project Experience </span>
-***
-
+-------
 ### <span style="background-color:#ffdce0"> Data Curation </span>
   + 전주시 공공데이터 분석
   +  
