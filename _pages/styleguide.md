@@ -5,13 +5,14 @@ permalink: /cv/
 image: 08.jpg
 ---
 
-학교 생활 중 다양한 활동을 함으로써 적성에 맞는 진로를 찾으려 노력했으며, 관심 분야에 대해서는 심도 있는 활동을 하고자 했습니다. 
+관심 분야 : **데이터 분석을 통한 인사이트 도출 및 데이터 기반의 의사 결정**
+관련 분야 : AI / ML / 데이터 인문학 / 소비자 심리학 
 
 ***
 
 # Education
 
-<strong>학점평균 : 4.19</strong> 
+<strong>학점평균 : 4.14</strong> 
 
 # Research Expereince 
 
@@ -46,10 +47,12 @@ image: 08.jpg
 - (2022) 전북대학교 문헌정보학과 도서관 서비스 개선 공모안 우수상 
 - (2023) 빅데이터 혁신 공유대학 메타버스 왕중왕전 참가
 - (2023) <strong>KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 및 프로토타입 개발 대회참가</strong>
-- (2023) 공모전 하나 더 하면 딱일듯~!! 
-- (2023) 정보처리기사 준비중!!
-- (2023) 자격증 더 준비해야지 올해는 !!! (ex. 사조사/)
+- (2023) DACON chatGPT 활용 AI 경진대회
 
+- 정보처리기사 실기 시험 준비중
+- TOEIC SPEAKING IM3 LEVEL (130점)
+- New teps 3등급 
+- TOEIC 
 
 # activity 
 
@@ -57,30 +60,20 @@ image: 08.jpg
 - (2020) 전북대학교 문헌정보학과 부학생회장
 - (2021) 사회봉사활동 
 - (2022 상반기 ) 고려대학교 심리학연구반 '심연' clinical psychology 스터디장 
-- (2023) 전북대학교 인문대학 글로벌 원정대 - 미국 LA & SANFRAN 탐방 
-- (2023) 멋쟁이사자처럼 동아리 
+- (2023) 전북대학교 인문대학 글로벌 원정대 - 미국 LA & SANFRAN 어학연수 및 연구분야 탐색 
 
 
 # technical skills
 
 {% highlight markdown %}
-#### Python for data science (data visualization, Machine Learning, NLP or back-end) -> HIGH LEVEL 
+**Python** for data science (data visualization, Machine Learning, NLP or back-end) 
 {% endhighlight %}
+->  HIGH LEVEL 
 
 {% highlight markdown %}
-#### R / Matlab for Research study (Research Data analysis) -> MIDDLE LEVEL
+**R / Matlab** for Research study (Research Data analysis) 
 {% endhighlight %}
-
-{% highlight markdown %}
-#### C / JAVA for self-education -> LOW LEVEL 
-{% endhighlight %}
-
-My main Language is <strong>Python</strong> (파이썬은 절대 죽지 않는다...!!!)
-
-
-
-
-
+-> MIDDLE LEVEL
 
 <!-- ### Headings by default:
 

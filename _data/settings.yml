@@ -10,8 +10,11 @@ description: This is the record of my own experience and thinking.
 author:
   name: Subin Seo 
   image: 01.jpg
-  say-hello: 반가워요! <strong>서수빈</strong>입니다. 
-  bio: research, study, and create something with <strong>data (plus information)</strong>, <strong>psychology</strong>, <strong>economics</strong>, and dev. I have three majors that is information science & psychology & statistics and plus taking a 2 microdgree about big data. Loves <a href="#">travel</a> & taking a group activity.
+  say-hello: Welcome! This is <strong>Subin Seo.</strong>
+  bio: I am a versatile researcher with three academic bases. Find out more about me on this blog! |
+  - Main major ':' <strong>Information and Library science</strong>
+  - Double major ':' <strong>Psychology</strong>
+  - Minor ':' <strong>Statistics</strong> <a href="#">travel</a>
 
 
 #-------------------------------
