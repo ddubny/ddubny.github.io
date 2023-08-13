@@ -2,34 +2,46 @@
 layout: page
 title: CV
 permalink: /cv/
-image: 08.jpg
 ---
-
-관심 분야 : **데이터 분석을 통한 인사이트 도출 및 데이터 기반의 의사 결정**
-관련 분야 : AI / ML / 데이터 인문학 / 소비자 심리학 
-
+Su-bin SEO ( stm01@naver.com )
 ***
 
-# Education
+# <span style="color:gray"> Project Experience </span>
+***
 
-<strong>학점평균 : 4.14</strong> 
+### <span style="background-color:#ffdce0"> Data Curation </span>
+  + 
+
+### <span style="background-color:#ffdce0"> Database Administration </span>
+  + Trost(mental health application start-up company) Database Development suggestion project 
+  + Jeju island Smart Tourism project with Public big-data  < project name : **"1 month in Jeju for Senior"** >- APP Backend Dev 
+
+
+### <span style="background-color:#ffdce0"> Data driven decision making </span> 
+
 
 # Research Expereince 
 
-- (2021~2023) Undergraduate Research Assistant. JBNU Emolab 
-              Department of Psychology, Jeonbuk National University, Jeonju, Korea
-              Advisor : J.W.Kim, phD
+- (2021~2022) Undergraduate Research Assistant. JBNU Emolab 
+             Department of Psychology, Jeonbuk National University, Jeonju, Korea
+             Advisor : Professor J.W.Kim 
 
-- (2022) 한국심리학회지 연차학술대회 학부생 포스터 발표 [Korean Psychology Association]
-         한국어 단어 목록에 대한 정서평정 메타분석 연구 (#데이터분석, #클러스터링, #단어정서)
+- (2022) poster presentation at Annual Academic Conference, Journal of Korean Psychological Association
+             Meta – analysis study of emotional ratings in Korean words
+             keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words 
 
-- (2022.12~2023) Undergrauate Research Assistatn. JBNU SSK 포용적경제연구팀
-                 Department of Economics, Jeonbuk National University, Jeonju, Korea
-                 Advisor : S.M.Moon, phD
+- (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas 
+             Computer Science, University of Las Vegas, Las vegas, Nevada 
+             Director : Professor Mingon Kang
+             Superviser : Sai Kosaraju 
 
-- (2023 진행중) 
+- Post Research Area => **Information Behavior with behavior & cognitive measurement**
 
-- (2023 진행중) 
+# Education
+***
+### <span style="background-color:#ffdce0"> Jeonbuk National University </span> Mar.2019 to Feb.2023
+Bachelor Degrees in Library and Information science, Psychology, Statistics, Jeonju, Korea  
+( Total GPA : 4.15 / 4.5 )
 
 
 # professional experience 
