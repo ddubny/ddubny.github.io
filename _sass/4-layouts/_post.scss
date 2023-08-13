@@ -77,10 +77,10 @@
 }
 
 .post {
-  margin: 10px auto;
+  margin: 1px auto;
 
   &.post-no-image {
-    margin: 0 auto 10px; 
+    margin: 0 auto 1px; 
   }
 
   @media only screen and (max-width: $mobile) {
