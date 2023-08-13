@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CV
+title: Subin Seo's Curriculum Vitae
 permalink: /cv/
 ---
-<text-right>Su-bin Seo ( stm01@naver.com )</text-right>
+<right>Su-bin Seo ( stm01@naver.com )</right>
 
 # <span style="color:gray"> Project Experience </span>
 ***
