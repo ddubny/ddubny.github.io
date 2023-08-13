@@ -19,12 +19,12 @@
   }
 
   &:after {
-    width: 100px;
+    width: calc(50% - 70px);
     left: 0;
   }
 
   &:before {
-    width: 100px;
+    width: calc(50% - 70px);
     right: 0;
   }
 
