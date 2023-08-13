@@ -3,18 +3,18 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-Su-bin SEO ( stm01@naver.com )
-***
+<center>Su-bin Seo ( stm01@naver.com )</center>
 
 # <span style="color:gray"> Project Experience </span>
 ***
 
 ### <span style="background-color:#ffdce0"> Data Curation </span>
-  + 
+  + 전주시 공공데이터 분석
+  +  
 
-### <span style="background-color:#ffdce0"> Database Administration </span>
-  + Trost(mental health application start-up company) Database Development suggestion project 
-  + Jeju island Smart Tourism project with Public big-data  < project name : **"1 month in Jeju for Senior"** >- APP Backend Dev 
+### <span style="background-color:#ffdce0"> Database Administration </span>  
+  + Trost(mental health application start-up company) Database Development suggestion project  
+  + Jeju island Smart Tourism project with Public big-data  < project name : **"1 month in Jeju for Senior"** >- APP Backend Dev  
 
 
 ### <span style="background-color:#ffdce0"> Data driven decision making </span> 
@@ -23,17 +23,17 @@ Su-bin SEO ( stm01@naver.com )
 # Research Expereince 
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab 
-             Department of Psychology, Jeonbuk National University, Jeonju, Korea
-             Advisor : Professor J.W.Kim 
+             Department of Psychology, Jeonbuk National University, Jeonju, Korea  
+             Advisor : Professor J.W.Kim   
 
-- (2022) poster presentation at Annual Academic Conference, Journal of Korean Psychological Association
-             Meta – analysis study of emotional ratings in Korean words
-             keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words 
+- (2022) poster presentation at Annual Academic Conference, Journal of Korean Psychological Association  
+             Meta – analysis study of emotional ratings in Korean words  
+             keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words   
 
-- (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas 
-             Computer Science, University of Las Vegas, Las vegas, Nevada 
-             Director : Professor Mingon Kang
-             Superviser : Sai Kosaraju 
+- (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas   
+             Computer Science, University of Las Vegas, Las vegas, Nevada   
+             Director : Professor Mingon Kang  
+             Superviser : Sai Kosaraju   
 
 - Post Research Area => **Information Behavior with behavior & cognitive measurement**
 
