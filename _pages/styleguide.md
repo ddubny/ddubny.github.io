@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-### Subin Seo _ <span style="background-color:yellow"> stm01@naver.com </span>
+### Subin Seo _ <span style="background-color:#fff5b1"> stm01@naver.com </span>
 - **phone contact : (+82)10-6282-4600**  
 - **< Current position >**  
 **Bachelor student in JBNU, jeonju, Korea**  
