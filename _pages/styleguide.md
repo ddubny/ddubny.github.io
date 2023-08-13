@@ -6,21 +6,22 @@ permalink: /cv/
 
 ### Subin Seo 
 ✉️ Email contact : <span style="background-color:#fff5b1"> stm01@naver.com </span>  
-☎️ Phone contact : (+82)10-6282-4600   
+📱 Phone contact : (+82)10-6282-4600   
   
-====== < Current position > ======   
-**: Bachelor student in JBNU, Jeonju, Korea**  
-1️⃣ Library and Information science  
-2️⃣ Psychology  
-3️⃣ Statistics   
+========= < Current position > =========   
+**: Bachelor student** in JBNU, Jeonju, Korea  
+1️⃣ Library and Information science *(Main)*  
+2️⃣ Psychology *(Double)*   
+3️⃣ Statistics *(Minor)*     
   
 -----
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
-  + 신한카드 빅데이터 분석 
-  + 전주시 공공데이터 분석
-  + 신한카드 빅데이터 분석 
+  + ShinHan card big-data Analysis contest - < Meta consumption platform sugeestion with Consumer Data-Analysis >
+  + JeonJu city Public data Analysis contest - < Medical system Modeling Analysis in JeonJu city >
+      -> `GIS analysis for transport system`, `Improving the healthcare environment`, `Modeling simulation` 
+  + 법감정분석
   + 
 
 ### <span style="background-color:#ffdce0"> Database Administration </span>  
@@ -31,11 +32,15 @@ permalink: /cv/
 ### <span style="background-color:#ffdce0"> Data driven decision making </span> 
 
 
+
+-----
 # <span style="color:gray"> Research Expereince </span>
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab 
              Department of Psychology, Jeonbuk National University, Jeonju, Korea  
              Advisor : Professor J.W.Kim   
+
+- (2022 상반기 ) 고려대학교 심리학연구반 '심연' clinical psychology 스터디장 
 
 - (2022) poster presentation at Annual Academic Conference, Journal of Korean Psychological Association  
              Meta – analysis study of emotional ratings in Korean words  
@@ -48,17 +53,19 @@ permalink: /cv/
 
 - Post Research Area => **Information Behavior with behavior & cognitive measurement**
 
-# Education
-***
-### <span style="background-color:#ffdce0"> Jeonbuk National University </span> Mar.2019 to Feb.2023
-Bachelor Degrees in Library and Information science, Psychology, Statistics, Jeonju, Korea  
+-----
+# <span style="color:gray"> Education </span>  
+Jeonbuk National University, Jeonju, Korea - Mar.2019 to Feb.2023
+Bachelor Degrees in Library and Information science, Psychology, Statistics
 ( Total GPA : 4.15 / 4.5 )
 
 
-# professional experience 
-
-- (2018.11~2019.03) 러쉬코리아 강남역점 - CX보조
+#  <span style="color:gray"> Extra Curricular Activities  </span>  
+- (2019) 신입생 대표
+- (2020) 학과 부학생 회장 , 단과대 학칙 개정 위원회 부위원장 
+- (2021) 사회봉사활동 
 - (2022 summer) 멘탈 헬스케어 어플리케이션 'Trost' 비즈니스 인턴 
+- (2023 summer) 전북대학교 인문대학 글로벌 원정대 - 미국 LA & SANFRAN 어학연수 및 연구분야 탐색 
 
 
 # certificates and awards
@@ -77,14 +84,6 @@ Bachelor Degrees in Library and Information science, Psychology, Statistics, Jeo
 - New teps 3등급 
 - TOEIC 
 
-# activity 
-
-- (2019) 신입생 학과 대표자
-- (2020) 전북대학교 문헌정보학과 부학생회장
-- (2021) 사회봉사활동 
-- (2022 상반기 ) 고려대학교 심리학연구반 '심연' clinical psychology 스터디장 
-- (2023) 전북대학교 인문대학 글로벌 원정대 - 미국 LA & SANFRAN 어학연수 및 연구분야 탐색 
-
 
 # technical skills
 
@@ -97,86 +96,3 @@ Bachelor Degrees in Library and Information science, Psychology, Statistics, Jeo
 **R / Matlab** for Research study (Research Data analysis) 
 {% endhighlight %}
 -> MIDDLE LEVEL
-
-<!-- ### Headings by default:
-
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
-
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
-
-***
-
-### Lists
-
-#### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-***
-
-### Images
-
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
-
-*** -->
