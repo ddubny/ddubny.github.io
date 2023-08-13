@@ -5,11 +5,14 @@ permalink: /cv/
 ---
 
 # Subin Seo 
+```MARKDOWN
 - Email contact : stm01@naver.com  
-< Bachelor student >  
+** < Bachelor student > **
 - Library and Information science
 - Psychology
 - Statistics 
+```
+
 
 # <span style="color:gray"> Project Experience </span>
 -------
