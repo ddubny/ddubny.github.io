@@ -5,18 +5,18 @@ permalink: /cv/
 ---
 
 ### Subin Seo 
-:e-mail: Email contact : <span style="background-color:#fff5b1"> stm01@naver.com </span>  
-:telephone: Phone contact : (+82)10-6282-4600   
-< Current position >    
-**: Bachelor student in JBNU, Jeonju, Korea**  
-:one: Library and Information science  
-:two: Psychology  
-:three: Statistics   
+✉️ Email contact : <span style="background-color:#fff5b1"> stm01@naver.com </span>  
+☎️ Phone contact : (+82)10-6282-4600   
   
+====== < Current position > ======   
+**: Bachelor student in JBNU, Jeonju, Korea**  
+1️⃣ Library and Information science  
+2️⃣ Psychology  
+3️⃣ Statistics   
+  
+-----
 
-
-# <span style="color:gray"> Project Experience </span>
--------
+# <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
   + 신한카드 빅데이터 분석 
   + 전주시 공공데이터 분석
