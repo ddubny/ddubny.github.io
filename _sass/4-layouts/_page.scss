@@ -39,7 +39,7 @@
   margin: 0px auto;
 
   img {
-    margin: 50px 0;
+    margin: 30px 0;
   }
 
   @media only screen and (max-width: $tablet) {
@@ -55,7 +55,7 @@
       display: inline-block;
       margin-left: 10px;
       color: $dark;
-      font-weight: 1000;
+      font-weight: 700;
       &:hover {
         color: $black;
       }
