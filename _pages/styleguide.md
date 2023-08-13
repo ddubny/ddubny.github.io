@@ -28,7 +28,7 @@ permalink: /cv/
 ### <span style="background-color:#ffdce0"> Data driven decision making </span> 
 
 
-# Research Expereince 
+# <span style="color:gray"> Research Expereince </span>
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab 
              Department of Psychology, Jeonbuk National University, Jeonju, Korea  
