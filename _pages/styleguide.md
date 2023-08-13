@@ -5,18 +5,22 @@ permalink: /cv/
 ---
 
 ### Subin Seo _ <span style="background-color:yellow"> stm01@naver.com </span>
-- **phone contact : (+82)10-6282-4600**
-- **< Current position >**
-**Bachelor student in JBNU, jeonju, Korea**
-**-> Library and Information science**
-**-> Psychology**
-**-> Statistics** 
+- **phone contact : (+82)10-6282-4600**  
+- **< Current position >**  
+**Bachelor student in JBNU, jeonju, Korea**  
+**-> Library and Information science**  
+**-> Psychology**  
+**-> Statistics**  
+  
+
 
 # <span style="color:gray"> Project Experience </span>
 -------
-### <span style="background-color:#ffdce0"> Data Curation </span>
+### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
+  + 신한카드 빅데이터 분석 
   + 전주시 공공데이터 분석
-  +  
+  + 신한카드 빅데이터 분석 
+  + 
 
 ### <span style="background-color:#ffdce0"> Database Administration </span>  
   + Trost(mental health application start-up company) Database Development suggestion project  
