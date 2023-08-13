@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Subin Seo's Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
-<right>Su-bin Seo ( stm01@naver.com )</right>
+
+# Subin Seo 
+- Email contact : stm01@naver.com
+< Bachelor student >
+- Library and Information science
+- Psychology
+- Statistics 
 
 # <span style="color:gray"> Project Experience </span>
 ***
