@@ -9,42 +9,53 @@ Thank you for your visit !
   
 I am Subin !  
   
-I'm a very active, creative, and constantly improving person. 
-This personality helps me move forward ! 
-I have been doing a lot of activities while attending undergraduate, so finally, I got to know myself well.    
+
+I'm a very active, creative, and constantly improving person.  
+This personality helps me move forward !  
+I have been doing a lot of activities while attending undergraduate, so finally, I got to know myself well.      
+Let me introduce myself, LET'S GO~ !!!       
     
-  
-#### 1. Leadership
+   
+   
+#### 1.  <span style="color:red"> Leadership </span> 
 I am a highly dirven person - capable of anything. I revitalize the team and plan for each step.
 
-#### 2. Sociability
+#### 2. <span style="color:yellowgreen"> Sociability</span> 
 
 
-#### 3. Creativity and Adaptability
+#### 3. <span style="color:blueviolet"> Creativity and Adaptability</span> 
 Sometimes, or often, knowledge supports productivity.  
 Since I have 3 majors, I have the interdisciplinary power to fuse various fields freely. 
 
 
-#### 4. Resilience
+#### 4. <span style="color:orange"> Resilience</span> 
 Have you ever heard about Resilience ? then, how about the Distress Tolerance ??  
 Actually, It is a psychology term which refers to the ability to recover and grow again in spite of adversity and hardships.
 Everyone has a hard time. **The important thing is how to get out of that period and overcome it.**  
 
-Once, I have an experience that the project was canceled on the way to wrapping up, as the partner ghosted me. 
+Once, I have an experience that the project was canceled on the way to wrapping up, as the partner ghosted EVERYONE !!  
 I was very desperate because there was nothing I could do for him. It makes me impotent.  
 Soon I also lost my will, and fell into a sense of loss. That was the start of **Burn-out**.   
   
 When I found out that I had something psychological problems, I went on a trip straight away alone.  
 And I thought a lot while traveling.  
-In that time, I gave another meaning to the things that I had thought to have failed.  
+In that time, **I gave another meaning to the things that I had thought to have failed. (Redefining)**  
 I did not think that It's just a waste of time, but I tried to think that it's a kind of learning and growth of time.
 
+The reason why I suddenly went on a trip was that lots of my friends comforted me, but I thought I was the only one who could really console me.
+So I needed time to face myself honestly, that's why I needed a new place.  
+The result is..... It was working well, and I got back my Positive power.   
 
-하지만 이제는 모든 분야에 데이터 분석이 활용되며, 단순히 데이터 전문가가 되고 싶다고 말하는 것이 약간은 허무맹랑한 시대가 되고 있습니다. 
-따라서 저는 현재 어떤 Domain Knowlege와 Research Background를 쌓을 지에 집중하며 관심 있는 여러 학문에 대해 융합적 소양을 기르고자 노력하고 있습니다. 이와 더불어 도전과 경험을 즐기자는 마인드는 저를 지치지 않게 만드는 삶의 원동력입니다. 
-그래서인지 하고자 결심한 것에 대해선 일을 하는데도 에너지를 뿜어내고, 주도적으로 이끌어나가는 추진력이 제 장점입니다. 
-제가 어떤 활동에 관심이 많은 지, 또 무슨 일을 해왔는 지 궁금하시다면 블로그를 꼼꼼히 읽어주세요!!
-
+Plus honestly, Now I'm telling you, this is how I decided to be a researcher.  
+( Before that, I wanted to be a politician like real congressman. and...The ghosted partner was my running mate for election.) 
+I felt lost at that time, but now I've found my aptitude, and I'm on a roll now.  
+  
+**It is what Redefining is !! - the key way to overcome trauma.**
+Every failure has learning and growth, and I trust myself. 
+  
+This is the secret of how am i becoming **an tumbling doll-like person who can overcome anything well.**
+  
+  
 ***
 
 #### 본전공은 문헌정보학!
