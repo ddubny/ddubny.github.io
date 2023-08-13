@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: blank
 ---
 
 Hello! Welcom to my Page!   
@@ -11,7 +10,7 @@ Thank you for your visit !
 I am Subin !  
   
 I'm a very active, creative, and constantly improving person. 
-This personality helps me with the direction that I want to study Information Science !  
+This personality helps me move forward ! 
 I have been doing a lot of activities while attending undergraduate, so finally, I got to know myself well.    
     
   
@@ -29,7 +28,17 @@ Since I have 3 majors, I have the interdisciplinary power to fuse various fields
 #### 4. Resilience
 Have you ever heard about Resilience ? then, how about the Distress Tolerance ??  
 Actually, It is a psychology term which refers to the ability to recover and grow again in spite of adversity and hardships.
-Everyone has a hard time. The important thing is how to get out of that period and overcome it.
+Everyone has a hard time. **The important thing is how to get out of that period and overcome it.**  
+
+Once, I have an experience that the project was canceled on the way to wrapping up, as the partner ghosted me. 
+I was very desperate because there was nothing I could do for him. It makes me impotent.  
+Soon I also lost my will, and fell into a sense of loss. That was the start of **Burn-out**.   
+  
+When I found out that I had something psychological problems, I went on a trip straight away alone.  
+And I thought a lot while traveling.  
+In that time, I gave another meaning to the things that I had thought to have failed.  
+I did not think that It's just a waste of time, but I tried to think that it's a kind of learning and growth of time.
+
 
 하지만 이제는 모든 분야에 데이터 분석이 활용되며, 단순히 데이터 전문가가 되고 싶다고 말하는 것이 약간은 허무맹랑한 시대가 되고 있습니다. 
 따라서 저는 현재 어떤 Domain Knowlege와 Research Background를 쌓을 지에 집중하며 관심 있는 여러 학문에 대해 융합적 소양을 기르고자 노력하고 있습니다. 이와 더불어 도전과 경험을 즐기자는 마인드는 저를 지치지 않게 만드는 삶의 원동력입니다. 
