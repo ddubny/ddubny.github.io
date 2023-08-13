@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<center>Su-bin Seo ( stm01@naver.com )</center>
+<right>Su-bin Seo ( stm01@naver.com )</right>
 
 # <span style="color:gray"> Project Experience </span>
 ***
