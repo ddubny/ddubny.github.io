@@ -2,10 +2,35 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: blank
 ---
 
-안녕하세요? 만나서 반갑습니다. 저는 데이터 전문가가 되고픈 서수빈 학생입니다. 
+Hello! Welcom to my Page!   
+Thank you for your visit !  
+  
+I am Subin !  
+  
+I'm a very active, creative, and constantly improving person. 
+This personality helps me with the direction that I want to study Information Science !  
+I have been doing a lot of activities while attending undergraduate, so finally, I got to know myself well.    
+    
+  
+#### 1. Leadership
+I am a highly dirven person - capable of anything. I revitalize the team and plan for each step.
+
+#### 2. Sociability
+
+
+#### 3. Creativity and Adaptability
+Sometimes, or often, knowledge supports productivity.  
+Since I have 3 majors, I have the interdisciplinary power to fuse various fields freely. 
+
+
+#### 4. Resilience
+Have you ever heard about Resilience ? then, how about the Distress Tolerance ??  
+Actually, It is a psychology term which refers to the ability to recover and grow again in spite of adversity and hardships.
+Everyone has a hard time. The important thing is how to get out of that period and overcome it.
+
 하지만 이제는 모든 분야에 데이터 분석이 활용되며, 단순히 데이터 전문가가 되고 싶다고 말하는 것이 약간은 허무맹랑한 시대가 되고 있습니다. 
 따라서 저는 현재 어떤 Domain Knowlege와 Research Background를 쌓을 지에 집중하며 관심 있는 여러 학문에 대해 융합적 소양을 기르고자 노력하고 있습니다. 이와 더불어 도전과 경험을 즐기자는 마인드는 저를 지치지 않게 만드는 삶의 원동력입니다. 
 그래서인지 하고자 결심한 것에 대해선 일을 하는데도 에너지를 뿜어내고, 주도적으로 이끌어나가는 추진력이 제 장점입니다. 
