@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ### Subin Seo 
-✉️ Email contact : <span style="background-color:#fff5b1"> stm01@naver.com </span>  
+✉️ Email contact : stm01@naver.com 
 📱 Phone contact : (+82)10-6282-4600   
   
 ========= < Current position > =========   
@@ -21,16 +21,13 @@ permalink: /cv/
   + ShinHan card big-data Analysis contest - < Meta consumption platform sugeestion with Consumer Data-Analysis >
   + JeonJu city Public data Analysis contest - < Medical system Modeling Analysis in JeonJu city >
       -> `GIS analysis for transport system`, `Improving the healthcare environment`, `Modeling simulation` 
-  + 법감정분석
+  + Text Information Analysis Capston project - **< Analysis of Influence Level of Media and Social Media for Legislation >** 
+  + KPMG 
   + 
 
 ### <span style="background-color:#ffdce0"> Database Administration </span>  
   + Trost(mental health application start-up company) Database Development suggestion project  
-  + Jeju island Smart Tourism project with Public big-data  < project name : **"1 month in Jeju for Senior"** >- APP Backend Dev  
-
-
-### <span style="background-color:#ffdce0"> Data driven decision making </span> 
-
+  + Jeju island Smart Tourism project with Public big-data  < One month in Jeju for Senior - APP Backend Dev >   
 
 
 -----
