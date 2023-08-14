@@ -19,14 +19,25 @@ permalink: /cv/
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
-  + ShinHan card big-data Analysis contest - < Meta consumption platform sugeestion with Consumer Data-Analysis >
+  + ShinHan card big-data Analysis contest 
+     < Meta consumption platform sugeestion with Consumer Data-Analysis >
+     -> Data driven decision making, customer research, consumption big-data
       
   + JeonJu city Public data Analysis contest
-      -> < Medical system Modeling Analysis in JeonJu city >
-      -> <span style="color:gray">`GIS analysis for transport system`</span>, <span style="color:gray">`Improving the healthcare environment`</span>, <span style="color:gray"> `Modeling simulation`</span>  
-  + Text Information Analysis Capston project - **< Analysis of Influence Level of Media and Social Media for Legislation >** 
-  + KPMG Ideathon - Digital Transformation - < Development of Chatbot services for corporate activities using NLP >
-  + Data Driven understnading of Society - < >
+     < Medical system Modeling Analysis in JeonJu city >
+      -> GIS analysis for transport system, Improving the healthcare environment, Modeling simulation 
+
+  + Text Information Analysis Capston project  
+     < Analysis of Influence Level of Media and Social Media for Legislation >  
+     ->   
+
+  + KPMG Ideathon - Digital Transformation 
+     < Development of Chatbot services for corporate activities using NLP >  
+     ->     
+
+  + Data Driven understnading of Society 
+      < >  
+     ->    
 
 ### <span style="background-color:#ffdce0"> Database Administration </span>  
   + Trost(mental health application start-up company) Database Development suggestion project  
@@ -65,14 +76,16 @@ Bachelor Degrees in Library and Information science, Psychology, Statistics
 
 
 #  <span style="color:gray"> Extra Curricular Activities  </span>  
-- (2019) 신입생 대표
-- (2020) 학과 부학생 회장 , 단과대 학칙 개정 위원회 부위원장 
-- (2021) 사회봉사활동 
-- (2022 summer) 멘탈 헬스케어 어플리케이션 'Trost' 비즈니스 인턴 
-- (2023 summer) 전북대학교 인문대학 글로벌 원정대 - 미국 LA & SANFRAN 어학연수 및 연구분야 탐색 
+- (2019) Freshman representative in the Department of Library and Information Science
+- (2020) Vice President in the Department of Library and Information Science
+- (2020) Vice-Chairman of TF Team for Amendment to the School Regulations, in the college of Humanities 
+- (2021 Spring) Volunteer work -  Information Services for children in Small library 
+- (2022 summer) Trost(Mental health application company) - Business Internship 
+- (2023 summer) Global Expedition - A visit to the U.S. library and Request an interview  
+                in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ] 
 
 
-# certificates and awards
+# <span style="color:gray"> certificates and awards </span>
 
 - (2020) KSA 한국표준협회 콘텐츠 크리에이터 우수상
 - (2022) 전북대학교 성적 우수 총장상 
@@ -86,8 +99,7 @@ Bachelor Degrees in Library and Information science, Psychology, Statistics
 - 정보처리기사 실기 시험 준비중
 
 
-
-# technical skills
+# <span style="color:gray"> technical skills </span>
 
 {% highlight markdown %}
 **Python** for data science (data visualization, Machine Learning, NLP or back-end) 
