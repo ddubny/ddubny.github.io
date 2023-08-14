@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 ### Subin Seo 
+{% endhighlight %}
 ✉️ Email contact : stm01@naver.com  
 📱 Phone contact : (+82)10-6282-4600   
   
@@ -13,7 +14,7 @@ permalink: /cv/
 1️⃣ Library and Information science  
 2️⃣ Psychology    
 3️⃣ Statistics       
-  
+{% endhighlight %}
 -----
 
 # <span style="color:gray"> Project Experience </span> 
@@ -36,17 +37,21 @@ permalink: /cv/
 # <span style="color:gray"> Research Expereince </span>
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab 
-             Department of Psychology, Jeonbuk National University, Jeonju, Korea  
-             Advisor : Professor J.W.Kim   
+             Department of Psychology, Jeonbuk National University, Jeonju, Korea
+             **Behaviral & Physiological Data Analyst**
+             Director : Professor J.W.Kim   
 
-- (2022 상반기 ) 고려대학교 심리학연구반 '심연' clinical psychology 스터디장 
+- (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea. 
+             Team Leader of Clinical Psychology, **< Digital counseling in ChatBot >**
+             Director : Professor H.J.Kim 
 
-- (2022) poster presentation at Annual Academic Conference, Journal of Korean Psychological Association  
-             Meta – analysis study of emotional ratings in Korean words  
+- (July, 2022) Poster Presentation at Annual Conference, Korean Psychological Association  
+             **< Meta – analysis study of emotional ratings in Korean words >** 
              keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words   
 
 - (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas   
-             Computer Science, University of Las Vegas, Las vegas, Nevada   
+             Computer Science, University of Las Vegas, Las vegas, Nevada
+             **< Applied Machine Learning to big-data by Generating the MapReduce >**   
              Director : Professor Mingon Kang  
              Superviser : Sai Kosaraju   
 
@@ -71,17 +76,15 @@ Bachelor Degrees in Library and Information science, Psychology, Statistics
 
 - (2020) KSA 한국표준협회 콘텐츠 크리에이터 우수상
 - (2022) 전북대학교 성적 우수 총장상 
-- (2022) <strong>신한금융그룹X빅데이터혁신 공유 사업단 장려상 </strong>
-- (2022) <strong>전주시 공공데이터 분석 공모전 장려상 </strong>
+- (2022) 신한금융그룹X빅데이터혁신 공유 사업단 장려상 
+- (2022) 전주시 공공데이터 분석 공모전 장려상 
 - (2022) 전북대학교 문헌정보학과 도서관 서비스 개선 공모안 우수상 
 - (2023) 빅데이터 혁신 공유대학 메타버스 왕중왕전 참가
-- (2023) <strong>KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 및 프로토타입 개발 대회참가</strong>
+- (2023) KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 및 프로토타입 개발 본선 참가
 - (2023) DACON chatGPT 활용 AI 경진대회
 
 - 정보처리기사 실기 시험 준비중
-- TOEIC SPEAKING IM3 LEVEL (130점)
-- New teps 3등급 
-- TOEIC 
+
 
 
 # technical skills
