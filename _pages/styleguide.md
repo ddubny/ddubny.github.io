@@ -7,16 +7,15 @@ permalink: /cv/
 <div style="background-color: #DCFFE4">
  ✉️ Email contact : <u> stm01@naver.com </u><br></div>   
 <div style="background-color: #DCFFE4"> 
-📱Phone contact : (+82)10-6282-4600 </div>  
-   
+📱Phone contact : (+82)10-6282-4600 </div>     
 &nbsp;  
-&nbsp;   
+ 
 ## <center> SuBin Seo </center>  
   
 <center>Current position : Bachelor student in JBNU, Jeonju, Korea </center>   
 <center>1️⃣ Library and Information science </center>    
-<center>2️⃣ Psychology </center>    
-<center>3️⃣ Statistics </center>    
+<center>2️⃣ Psychology                      </center>    
+<center>3️⃣ Statistics                      </center>    
 &nbsp;            
 
 -----
