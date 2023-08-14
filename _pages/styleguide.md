@@ -11,7 +11,7 @@ permalink: /cv/
 📱 Phone contact : (+82)10-6282-4600   </div>  
 
 <div style="background-color: #FFFF00">  
-   <div style="text-align: right">< Current position > </div>
+   <div style="text-align: right">< Current position > </div></div>
 <div style="background-color: #FFFF00">
    <div style="text-align: right">Bachelor student in JBNU, Jeonju, Korea</div> </div>  
 <div style="background-color: #FFFF00">
