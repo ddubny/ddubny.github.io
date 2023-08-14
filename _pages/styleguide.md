@@ -3,24 +3,20 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+
+### <div style="background-color: #FFFF00">Subin Seo </div> 
 <div style="background-color: #FFFF00">
-### Subin Seo </div> 
-<div style="background-color: #FFFF00">
-✉️ Email contact : stm01@naver.com </div>   
+✉️ Email contact : <u> stm01@naver.com </u><br> </div>   
 <div style="background-color: #FFFF00"> 
 📱 Phone contact : (+82)10-6282-4600   </div>  
-
-<div style="background-color: #FFFF00">  
-   <div style="text-align: right">< Current position > </div></div>
-<div style="background-color: #FFFF00">
-   <div style="text-align: right">Bachelor student in JBNU, Jeonju, Korea</div> </div>  
-<div style="background-color: #FFFF00">
-      <div style="text-align: right"> Library and Information science 1️⃣</div></div>
-<div style="background-color: #FFFF00">  
-      <div style="text-align: right"> Psychology 2️⃣</div> </div>    
-<div style="background-color: #FFFF00">
-      <div style="text-align: right"> Statistics 3️⃣</div> </div>       
-
+  
+< Current position >   
+Bachelor student in JBNU, Jeonju, Korea  
+1️⃣Library and Information science   
+2️⃣Psychology   
+3️⃣Statistics   
+&nbsp;            
+&nbsp;  
 -----
 
 # <span style="color:gray"> Project Experience </span> 
