@@ -19,7 +19,20 @@ Let me introduce myself, LET'S GO~ !!!
        
 #### 1. <span style="color:red"> Leadership </span> 
 I am **a highly dirven** person - capable of anything. I revitalize the team and plan for each step.
-S
+From now on, I leaded lots of teams composed of undergradute students as me.  
+The colors of members were all different, some are much passionate, the others are a little passive.  
+Sometimes, I am in a dilemma that how could i take a balance with them..!  
+I can regualate the passive member by using penalties or some disciplines, but obviously it's not the best way.   
+  
+So I tried to understand why they don't want to do active actions in team.   
+The most common reason that i met is "the lack of confidence and experiences".  
+They don't know their potential power and often they think that their participation will be a hindrance to others.
+At this point, I should tell them their role in detail, and always review the team's goal and our current location while giving them courage. 
+At a first glance, It seems to being a teacher, not a leader, but it's needed to lead a passive member. 
+    
+I can't gurantee it's the best way, however it makes sense at lesat for my case. 
+   
+   
 #### 2. <span style="color:yellowgreen"> Sociability </span> 
 
 
