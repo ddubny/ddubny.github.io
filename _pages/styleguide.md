@@ -9,15 +9,16 @@ permalink: /cv/
 <center> ✉️ Email contact : <u> stm01@naver.com </u><br> </center></div>   
 <div style="background-color: #DCFFE4"> 
 <center> 📱Phone contact : (+82)10-6282-4600 </center> </div>  
-&nbsp;
-&nbsp;
-< Current position >   
-Bachelor student in JBNU, Jeonju, Korea  
-1️⃣ Library and Information science   
-2️⃣ Psychology   
-3️⃣ Statistics   
-&nbsp;            
+   
 &nbsp;  
+&nbsp;   
+
+<center>< Current position > </center>   
+<center>Bachelor student in JBNU, Jeonju, Korea </center>   
+<center>1️⃣ Library and Information science </center>    
+<center>2️⃣ Psychology </center>    
+<center>3️⃣ Statistics </center>    
+&nbsp;            
 
 -----
 
