@@ -12,15 +12,17 @@ I am Subin !
     
 I'm a very active, creative, and constantly improving person.  
 This personality helps me move forward !  
-I have been doing a lot of activities while attending undergraduate, so finally, I got to know myself well.      
-Let me introduce myself, LET'S GO~ !!!       
-           
-          
-       
+  
+I am very colorful person ! like a rainbow🌈 !     
+Let me introduce my colors ! ❤️💚💜💛   
+&nbsp;            
+&nbsp;          
+&nbsp; 
+&nbsp;        
 #### 1. <span style="color:red"> Leadership </span> 
 I am **a highly dirven** person - capable of anything. I revitalize the team and plan for each step.
 From now on, I leaded lots of teams composed of undergradute students as me.  
-The colors of members were all different, some are much passionate, the others are a little passive.  
+The personalities of members were all different, some are much passionate, the others are a little passive.  
 Sometimes, I am in a dilemma that how could i take a balance with them..!  
 I can regualate the passive member by using penalties or some disciplines, but obviously it's not the best way.   
   
@@ -70,13 +72,15 @@ This is the secret of how am i becoming **an tumbling doll-like person who can o
   
   
 ***
-    
-# < Story about my triple majors ! >
-   
-## Q : What is the feature of each major ? 
 
-<span style="background-color:#fff5b1"> **library and Information science** </span> is my first major at university.   
-Even though it is not an engineering school, I attracted to thing thtat i can learn information technology such as programming.  
+# < Story about my triple majors ! >
+&nbsp;   
+## Q : What is the feature of each major ? 
+&nbsp; 
+👉 <span style="background-color:#fff5b1"> **library and Information science** </span> is my first major at university.   
+Even though it is not an engineering program, I can learn information technologies. And It fascinated me ! 
+
+
 
 
 
@@ -98,32 +102,8 @@ This is because, It can be useful in social media analysis or data curation.
 
 ## Q : What is my plan to applying these three ? 
 
-#### 본전공은 문헌정보학!
-<small>2019 - 2023</small>
-
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
-
-#### 복수전공은 심리학!
-<small>2020 - 2023</small>
-
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
-
-#### 부전공은 통계학!
-<small>2021 - 2023</small>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
-
-#### 마이크로디그리까지~~
-
-졸업 시 신청가능한 "빅데이터 큐레이션"과 "데이터 소프트웨어엔지니어" 마이크로디그리를 위해 관련 과목을 수강하고 있습니다. 
-
-- 빅데이터 큐레이션 학위 : 데이터 기반 사회의 이해, 
-- 데이터 소프트웨어엔지니어
-
-#### 연구활동
-<small>정서심리학</small>
-
-
-#### 연구활동
-<small>소비자연구경제학</small>
+## Q : What is my next step ?? 
+I am preparing to enter the M.L.I.S(master of library and information science) program, now.  
+It was hard to choose the direction what to study more. This is because I really like all of my majors, and these 3 majors are complementary each other to research what i want.  
+**If it's possible, I wanna make use of all my majors and carry out an interdisciplinary study.**
+This is the reason why i choose the MLIS program **which welcome the convergence and respect the diversity.** 
