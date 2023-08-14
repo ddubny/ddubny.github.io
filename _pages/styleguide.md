@@ -4,19 +4,21 @@ title: CV
 permalink: /cv/
 ---
 
-### Subin Seo 
+## <center> SuBin Seo </center>
 <div style="background-color: #DCFFE4">
-✉️ Email contact : <u> stm01@naver.com </u><br> </div>   
+<center> ✉️ Email contact : <u> stm01@naver.com </u><br> </center></div>   
 <div style="background-color: #DCFFE4"> 
-📱 Phone contact : (+82)10-6282-4600   </div>  
-  
+<center> 📱Phone contact : (+82)10-6282-4600 </center> </div>  
+&nbsp;
+&nbsp;
 < Current position >   
 Bachelor student in JBNU, Jeonju, Korea  
-1️⃣Library and Information science   
-2️⃣Psychology   
-3️⃣Statistics   
+1️⃣ Library and Information science   
+2️⃣ Psychology   
+3️⃣ Statistics   
 &nbsp;            
 &nbsp;  
+
 -----
 
 # <span style="color:gray"> Project Experience </span> 
