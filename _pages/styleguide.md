@@ -50,23 +50,23 @@ permalink: /cv/
 # <span style="color:gray"> Research Expereince </span>
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab  
-　　　　　　　　Department of Psychology, Jeonbuk National University, Jeonju, Korea  
-　　　　　　　　<strong> Behaviral & Physiological Data Analyst </strong>
-　　　　　　　　Director : Professor J.W.Kim     
+　　　　　　Department of Psychology, Jeonbuk National University, Jeonju, Korea   
+　　　　　　<strong> Behaviral & Physiological Data Analyst </strong>  
+　　　　　　Director : Professor J.W.Kim     
 
 - (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea.   
-　　　　　　　　　Team Leader of Clinical Psychology, <strong> < Digital counseling in ChatBot > </strong>   
-　　　　　　　　　Director : Professor H.J.Kim    
+　　　　　　Team Leader of Clinical Psychology, <strong> < Digital counseling in ChatBot > </strong>   
+　　　　　　Director : Professor H.J.Kim    
 
 - (July, 2022) Poster Presentation at Annual Conference, Korean Psychological Association    
-　　　　　　　　<strong>< Meta – analysis study of emotional ratings in Korean words ></strong>     
-　　　　　　　　keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words    
+　　　　　　<strong>< Meta – analysis study of emotional ratings in Korean words ></strong>     
+　　　　　　keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words    
 
 - (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas    
-　　　　　　　　Computer Science, University of Las Vegas, Las vegas, Nevada  
-　　　　　　　　<strong> < Applied Machine Learning to big-data by Generating the MapReduce ></strong>     
-　　　　　　　　Director : Professor Mingon Kang    
-　　　　　　　　Superviser : Sai Kosaraju   
+　　　　　　Computer Science, University of Las Vegas, Las vegas, Nevada  
+　　　　　　<strong> < Applied Machine Learning to big-data by Generating the MapReduce ></strong>     
+　　　　　　Director : Professor Mingon Kang    
+　　　　　　Superviser : Sai Kosaraju   
 
 - Post Research Area => **Information Behavior with behavior & cognitive measurement**  
 
