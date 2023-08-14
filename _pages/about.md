@@ -33,16 +33,26 @@ At this point, I should tell them their role in detail, and always review the te
 At a first glance, It seems to being a teacher, not a leader, but it's really needed to lead a passive member. 
     
 I can't gurantee it's the best way, however it makes sense at lesat for my case. 
-   
-   
+&nbsp; 
+&nbsp;
+&nbsp;  
 #### 2. <span style="color:yellowgreen"> Sociability </span> 
 
 
+
+
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
 #### 3. <span style="color:blueviolet"> Creativity and Adaptability</span> 
+
 Sometimes, or often, knowledge supports productivity.  
 Since I have 3 majors, I have the interdisciplinary power to fuse various fields freely. 
 
-
+&nbsp; 
+&nbsp; 
+&nbsp; 
 #### 4. <span style="color:orange"> Resilience</span> 
 Have you ever heard about Resilience ?  
 Actually, It is a psychology term which refers to the ability to recover and grow again in spite of adversity and hardships.
@@ -69,9 +79,11 @@ I felt lost at that time, but now I've found my aptitude, and I'm on a roll now.
 Every failure has learning and growth, and I trust myself. 
   
 This is the secret of how am i becoming **an tumbling doll-like person who can overcome anything well.**
-  
-  
-***
+&nbsp; 
+&nbsp; 
+&nbsp;  
+---------------------
+
 
 #<center> < Story about my triple majors !😲 > </center>
 &nbsp;   

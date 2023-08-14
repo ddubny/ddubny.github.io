@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ### Subin Seo 
-{% endhighlight %}
+{% highlight markdown %}
 ✉️ Email contact : stm01@naver.com  
 📱 Phone contact : (+82)10-6282-4600   
   
