@@ -12,9 +12,9 @@ permalink: /cv/
 ## <center> SuBin Seo </center>  
   
 <center><strong> Current position : Bachelor student in JBNU, Jeonju, Korea </strong> </center>   
-<center><strong> 1️⃣ Library and Information science</strong> </center>    
-<center><strong> 2️⃣ Psychology                     </strong> </center>    
-<center><strong> 3️⃣ Statistics                     </strong> </center>    
+<center><strong> - Library and Information science</strong> </center>    
+<center><strong> - Psychology                     </strong> </center>    
+<center><strong> - Statistics                     </strong> </center>    
 &nbsp;            
 
 -----
@@ -50,23 +50,23 @@ permalink: /cv/
 # <span style="color:gray"> Research Expereince </span>
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab  
-             Department of Psychology, Jeonbuk National University, Jeonju, Korea  
-             **Behaviral & Physiological Data Analyst**  
-             Director : Professor J.W.Kim     
+　　　　　　　　Department of Psychology, Jeonbuk National University, Jeonju, Korea  
+　　　　　　　　<strong> Behaviral & Physiological Data Analyst </strong>
+　　　　　　　　Director : Professor J.W.Kim     
 
 - (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea.   
-             Team Leader of Clinical Psychology, **< Digital counseling in ChatBot >**  
-             Director : Professor H.J.Kim    
+　　　　　　　　　Team Leader of Clinical Psychology, <strong> < Digital counseling in ChatBot > </strong>   
+　　　　　　　　　Director : Professor H.J.Kim    
 
 - (July, 2022) Poster Presentation at Annual Conference, Korean Psychological Association    
-             **< Meta – analysis study of emotional ratings in Korean words >**   
-             keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words    
+　　　　　　　　<strong>< Meta – analysis study of emotional ratings in Korean words ></strong>     
+　　　　　　　　keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words    
 
 - (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas    
-             Computer Science, University of Las Vegas, Las vegas, Nevada  
-             **< Applied Machine Learning to big-data by Generating the MapReduce >**     
-             Director : Professor Mingon Kang    
-             Superviser : Sai Kosaraju   
+　　　　　　　　Computer Science, University of Las Vegas, Las vegas, Nevada  
+　　　　　　　　<strong> < Applied Machine Learning to big-data by Generating the MapReduce ></strong>     
+　　　　　　　　Director : Professor Mingon Kang    
+　　　　　　　　Superviser : Sai Kosaraju   
 
 - Post Research Area => **Information Behavior with behavior & cognitive measurement**  
 
@@ -83,7 +83,7 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 - (2021 Spring) Volunteer work -  Information Services for children in Small library   
 - (2022 summer) Trost(Mental health application company) - Business Internship   
 - (2023 summer) Global Expedition - A visit to the U.S. library and Request an interview    
-                in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
+　　　　　　　　　　in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
 
 
 # <span style="color:gray"> certificates and awards </span>
