@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-### <div style="background-color: #FFFF00">Subin Seo </div> 
+### Subin Seo 
 <div style="background-color: #FFFF00">
 ✉️ Email contact : <u> stm01@naver.com </u><br> </div>   
 <div style="background-color: #FFFF00"> 
