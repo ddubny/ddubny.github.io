@@ -67,12 +67,13 @@ Even though it is not an engineering school, I attracted to thing thtat i can le
 
 
 
-<span style="background-color:#fff5b1"> **Statistics** </span> makes me study easy.  
+<span style="background-color:#fff5b1"> **Statistics** </span> makes me study anything much easier.  
 Basically, I learn research methodologies, furthermore, I learn many statistical techniques.  
 That's why It is highly connected to other disciplines, like LIS and PSY.  
 For example, information search used in LIS is the application of supervised learning and unsupervised learning.  
-
-
+And no need to mention the connection between psychology and statistics.  
+I like data Visualization and text mining in statistics !!  
+This is because, It can be useful in social media analysis or data curation.  
 
 
 
