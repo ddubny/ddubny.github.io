@@ -19,27 +19,27 @@ permalink: /cv/
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
-  + ShinHan card big-data Analysis contest 
-     < Meta consumption platform sugeestion with Consumer Data-Analysis >
-     -> Data driven decision making, customer research, consumption big-data
+  + ShinHan card big-data Analysis contest   
+     < Meta consumption platform sugeestion with Consumer Data-Analysis >  
+     -> Data driven decision making, customer research, consumption big-data  
       
-  + JeonJu city Public data Analysis contest
-     < Medical system Modeling Analysis in JeonJu city >
-      -> GIS analysis for transport system, Improving the healthcare environment, Modeling simulation 
+  + JeonJu city Public data Analysis contest  
+     < Medical system Modeling Analysis in JeonJu city >  
+      -> GIS analysis for transport system, Improving the healthcare environment, Modeling simulation   
 
-  + Text Information Analysis Capston project  
-     < Analysis of Influence Level of Media and Social Media for Legislation >  
+  + Text Information Analysis Capston project    
+     < Analysis of Influence Level of Media and Social Media for Legislation >   
      ->   
 
-  + KPMG Ideathon - Digital Transformation 
-     < Development of Chatbot services for corporate activities using NLP >  
+  + KPMG Ideathon - Digital Transformation   
+     < Development of Chatbot services for corporate activities using NLP >   
      ->     
 
   + Data Driven understnading of Society 
       < >  
      ->    
 
-### <span style="background-color:#ffdce0"> Database Administration </span>  
+### <span style="background-color:#ffdce0"> Database Administration </span>   
   + Trost(mental health application start-up company) Database Development suggestion project  
   + Jeju island Smart Tourism project with Public big-data  < One month in Jeju for Senior - APP Backend Dev >   
 
@@ -47,42 +47,42 @@ permalink: /cv/
 -----
 # <span style="color:gray"> Research Expereince </span>
 
-- (2021~2022) Undergraduate Research Assistant. JBNU Emolab 
-             Department of Psychology, Jeonbuk National University, Jeonju, Korea
-             **Behaviral & Physiological Data Analyst**
-             Director : Professor J.W.Kim   
+- (2021~2022) Undergraduate Research Assistant. JBNU Emolab  
+             Department of Psychology, Jeonbuk National University, Jeonju, Korea  
+             **Behaviral & Physiological Data Analyst**  
+             Director : Professor J.W.Kim     
 
-- (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea. 
-             Team Leader of Clinical Psychology, **< Digital counseling in ChatBot >**
-             Director : Professor H.J.Kim 
+- (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea.   
+             Team Leader of Clinical Psychology, **< Digital counseling in ChatBot >**  
+             Director : Professor H.J.Kim    
 
-- (July, 2022) Poster Presentation at Annual Conference, Korean Psychological Association  
-             **< Meta – analysis study of emotional ratings in Korean words >** 
-             keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words   
+- (July, 2022) Poster Presentation at Annual Conference, Korean Psychological Association    
+             **< Meta – analysis study of emotional ratings in Korean words >**   
+             keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words    
 
-- (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas   
-             Computer Science, University of Las Vegas, Las vegas, Nevada
-             **< Applied Machine Learning to big-data by Generating the MapReduce >**   
-             Director : Professor Mingon Kang  
+- (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas    
+             Computer Science, University of Las Vegas, Las vegas, Nevada  
+             **< Applied Machine Learning to big-data by Generating the MapReduce >**     
+             Director : Professor Mingon Kang    
              Superviser : Sai Kosaraju   
 
-- Post Research Area => **Information Behavior with behavior & cognitive measurement**
+- Post Research Area => **Information Behavior with behavior & cognitive measurement**  
 
 -----
 # <span style="color:gray"> Education </span>  
-Jeonbuk National University, Jeonju, Korea - Mar.2019 to Feb.2023
-Bachelor Degrees in Library and Information science, Psychology, Statistics
+Jeonbuk National University, Jeonju, Korea - Mar.2019 to Feb.2023  
+Bachelor Degrees in Library and Information science, Psychology, Statistics  
 ( Total GPA : 4.15 / 4.5 )
 
 
-#  <span style="color:gray"> Extra Curricular Activities  </span>  
-- (2019) Freshman representative in the Department of Library and Information Science
-- (2020) Vice President in the Department of Library and Information Science
-- (2020) Vice-Chairman of TF Team for Amendment to the School Regulations, in the college of Humanities 
-- (2021 Spring) Volunteer work -  Information Services for children in Small library 
-- (2022 summer) Trost(Mental health application company) - Business Internship 
-- (2023 summer) Global Expedition - A visit to the U.S. library and Request an interview  
-                in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ] 
+#  <span style="color:gray"> Extra Curricular Activities  </span>   
+- (2019) Freshman representative in the Department of Library and Information Science  
+- (2020) Vice President in the Department of Library and Information Science  
+- (2020) Vice-Chairman of TF Team for Amendment to the School Regulations, in the college of Humanities   
+- (2021 Spring) Volunteer work -  Information Services for children in Small library   
+- (2022 summer) Trost(Mental health application company) - Business Internship   
+- (2023 summer) Global Expedition - A visit to the U.S. library and Request an interview    
+                in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
 
 
 # <span style="color:gray"> certificates and awards </span>
