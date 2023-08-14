@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Su-bin Seo 
+title: SuBin Seo 
 logo: logo.svg # You can add own logo.
 description: Subin's lifelog blog ! 
 
@@ -10,7 +10,7 @@ description: Subin's lifelog blog !
 author:
   name: Subin Seo 
   image: 01.jpg
-  say-hello: Welcome! This is **Su-bin Seo.**
+  say-hello: Welcome! This is <strong>SuBin Seo.</strong>
   bio: |
    I am a versatile researcher with three academic bases.  
    Find out more about me on this blog!  

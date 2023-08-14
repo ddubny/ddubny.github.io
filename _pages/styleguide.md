@@ -72,8 +72,8 @@ permalink: /cv/
 
 -----
 # <span style="color:gray"> Education </span>  
-Jeonbuk National University, Jeonju, Korea - Mar.2019 to Feb.2023  
-Bachelor Degrees in <span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>. 
+Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]       
+Bachelor Degrees in <span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.    
 ( Total GPA : 4.15 / 4.5 )
 
 #  <span style="color:gray"> Extra Curricular Activities  </span>   
