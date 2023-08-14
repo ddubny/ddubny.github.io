@@ -3,10 +3,9 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-
-<div style="background-color: #DCFFE4">
+<div style="background-color: #F5F5F5">
  ✉️ Email contact : <u> stm01@naver.com </u><br></div>   
-<div style="background-color: #DCFFE4"> 
+<div style="background-color: #F5F5F5"> 
 📱Phone contact : (+82)10-6282-4600 </div>     
 &nbsp;  
  
