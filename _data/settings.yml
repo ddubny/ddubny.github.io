@@ -10,20 +10,16 @@ description: Subin's lifelog blog !
 author:
   name: Subin Seo 
   image: 01.jpg
-  say-hello: Welcome! This is <strong>SuBin Seo.</strong>\n
-  bio: I am a versatile researcher with three academic bases.\n  
-   Find out more about me on this blog!\n
-   I have <a href="#">triple</a> bachelor's degrees.\n  
-   - Main major:Information and Library science\n 
-   - Double major:Psychology\n
-   - Minor:Statistics\n 
+  say-hello: Welcome! This is <strong>SuBin Seo.</strong>
+  bio: I am a versatile researcher with three kinds of academic bases. I have <a href="#">triple</a> bachelor's degrees , Information and Library science ,Psychology and Statistics. Find out more about me on this blog!
 
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle 
+instagram: https://instagram.com/ # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
