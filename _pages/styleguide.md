@@ -5,9 +5,9 @@ permalink: /cv/
 ---
 
 ### Subin Seo 
-<div style="background-color: #FFFF00">
+<div style="background-color: #DCFFE4">
 ✉️ Email contact : <u> stm01@naver.com </u><br> </div>   
-<div style="background-color: #FFFF00"> 
+<div style="background-color: #DCFFE4"> 
 📱 Phone contact : (+82)10-6282-4600   </div>  
   
 < Current position >   
