@@ -1,26 +1,26 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
 Hello! Welcom to my Page!   
 Thank you for your visit !  
-  
+     
 I am Subin !  
-  
-
+     
+    
 I'm a very active, creative, and constantly improving person.  
 This personality helps me move forward !  
 I have been doing a lot of activities while attending undergraduate, so finally, I got to know myself well.      
 Let me introduce myself, LET'S GO~ !!!       
-    
-   
-   
-#### 1.  <span style="color:red"> Leadership </span> 
-I am a highly dirven person - capable of anything. I revitalize the team and plan for each step.
-
-#### 2. <span style="color:yellowgreen"> Sociability</span> 
+           
+          
+       
+#### 1. <span style="color:red"> Leadership </span> 
+I am **a highly dirven** person - capable of anything. I revitalize the team and plan for each step.
+S
+#### 2. <span style="color:yellowgreen"> Sociability </span> 
 
 
 #### 3. <span style="color:blueviolet"> Creativity and Adaptability</span> 
@@ -29,16 +29,16 @@ Since I have 3 majors, I have the interdisciplinary power to fuse various fields
 
 
 #### 4. <span style="color:orange"> Resilience</span> 
-Have you ever heard about Resilience ? then, how about the Distress Tolerance ??  
+Have you ever heard about Resilience ?  
 Actually, It is a psychology term which refers to the ability to recover and grow again in spite of adversity and hardships.
 Everyone has a hard time. **The important thing is how to get out of that period and overcome it.**  
 
-Once, I have an experience that the project was canceled on the way to wrapping up, as the partner ghosted EVERYONE !!  
-I was very desperate because there was nothing I could do for him. It makes me impotent.  
+Once, I have an experience that the project was canceled on the way to wrapping up, as the partner ghosted EVERYONE !!
+I was very desperate because there was nothing I could do for him. It makes me impotent.
 Soon I also lost my will, and fell into a sense of loss. That was the start of **Burn-out**.   
   
 When I found out that I had something psychological problems, I went on a trip straight away alone.  
-And I thought a lot while traveling.  
+And I thought a lot while traveling.
 In that time, **I gave another meaning to the things that I had thought to have failed. (Redefining)**  
 I did not think that It's just a waste of time, but I tried to think that it's a kind of learning and growth of time.
 
@@ -50,13 +50,39 @@ Plus honestly, Now I'm telling you, this is how I decided to be a researcher.
 ( Before that, I wanted to be a politician like real congressman. and...The ghosted partner was my running mate for election.) 
 I felt lost at that time, but now I've found my aptitude, and I'm on a roll now.  
   
-**It is what Redefining is !! - the key way to overcome trauma.**
+**It is what Redefining is !! - the key way to overcome trauma.**  
 Every failure has learning and growth, and I trust myself. 
   
 This is the secret of how am i becoming **an tumbling doll-like person who can overcome anything well.**
   
   
 ***
+    
+# < Story about my triple majors ! >
+   
+## Q : What is the feature of each major ? 
+
+<span style="background-color:#fff5b1"> **library and Information science** </span> is my first major at university.   
+Even though it is not an engineering school, I attracted to thing thtat i can learn information technology such as programming.  
+
+
+
+<span style="background-color:#fff5b1"> **Statistics** </span> makes me study easy.  
+Basically, I learn research methodologies, furthermore, I learn many statistical techniques.  
+That's why It is highly connected to other disciplines, like LIS and PSY.  
+For example, information search used in LIS is the application of supervised learning and unsupervised learning.  
+
+
+
+
+
+
+
+
+## Q : How I get this collection ? 
+
+
+## Q : What is my plan to applying these three ? 
 
 #### 본전공은 문헌정보학!
 <small>2019 - 2023</small>
