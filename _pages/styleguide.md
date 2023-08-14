@@ -11,10 +11,10 @@ permalink: /cv/
  
 ## <center> SuBin Seo </center>  
   
-<center>Current position : Bachelor student in JBNU, Jeonju, Korea </center>   
-<center>1️⃣ Library and Information science </center>    
-<center>2️⃣ Psychology                      </center>    
-<center>3️⃣ Statistics                      </center>    
+<center><strong> Current position : Bachelor student in JBNU, Jeonju, Korea </strong> </center>   
+<center><strong> 1️⃣ Library and Information science</strong> </center>    
+<center><strong> 2️⃣ Psychology                     </strong> </center>    
+<center><strong> 3️⃣ Statistics                     </strong> </center>    
 &nbsp;            
 
 -----
