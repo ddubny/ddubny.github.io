@@ -124,7 +124,7 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
 　　　　┖  Pyspark - Big data analysis  
 　　　　┖  Data Visualization   
    
-### <span style="background-color:#F5F5F5"> `R` </span>　　　　⭐️⭐️⭐️⭐️⭐️   
+### <span style="background-color:#F5F5F5"> `R` </span>　　　⭐️⭐️⭐️⭐️⭐️   
 　　　　┖  EDA ( Exploratory data analysis )   
         
 ### <span style="background-color:#F5F5F5"> `Matlab` </span>　⭐️⭐️⭐️   
