@@ -73,8 +73,8 @@ permalink: /cv/
 -----
 # <span style="color:gray"> Education </span>  
 Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]       
-Bachelor Degrees in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
-Microdgree in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basics</u>,　<u>Bigdata Software Engineer</u></strong>    
+<span style="color:red">Bachelor Degrees</span> in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
+<span style="color:red">Microdgree</span> in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basics</u>,　<u>Bigdata Software Engineer</u></strong>    
     
 ( Total GPA : 4.15 / 4.5 )  
    
@@ -97,7 +97,7 @@ Microdgree in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basic
 - (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆   
 - (2022) Improving library services Project, Library and Information science, JBNU - Excellence prize🏆   
 - (2023) KPMG (Accounting Firm) Ideathon - participation prize    
-　　　　　Analysis of corporate activities using natural language models (Digital Transformation)    
+　　　　Analysis of corporate activities using natural language models (Digital Transformation)    
   
   
 # <span style="color:gray"> Skills </span>
