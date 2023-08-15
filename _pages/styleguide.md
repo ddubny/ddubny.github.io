@@ -85,7 +85,7 @@ Bachelor Degrees in **<span style="background-color:#fff5b1">Library and Informa
 - (2021 Spring) Volunteer work -  Information Services for children in Small library   
 - (2022 summer) Trost(Mental health application company) - Business Internship   
 - (2023 summer) Global Expedition - A visit to the U.S. library and Request an interview    
-　　　　　　　　　　in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
+　　　　　　　in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
   
   
 # <span style="color:gray"> Honors and Awards </span>  
