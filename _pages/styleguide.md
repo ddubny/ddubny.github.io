@@ -97,10 +97,8 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 
 
 # <span style="color:gray"> Skills </span>
-**[Programming Language]**   
-   
-&nbsp;       
-### <span style="background-color:#F5F5F5"> `Python` </span>　　　⭐️⭐️⭐️⭐️⭐️  
+       
+### <span style="background-color:#F5F5F5"> `Python` </span>　⭐️⭐️⭐️⭐️⭐️  
 　　　　┖ * Machine Learning   
 　　　　┖ * Deep Learning & Reinforce Learning  
 　　　　┖ * Natural Language Process & Text Mining  
@@ -110,10 +108,10 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 ### <span style="background-color:#F5F5F5"> `R` </span>　　　　⭐️⭐️⭐️⭐️⭐️   
 　　　　┖ * EDA ( Exploratory data analysis )   
         
-### <span style="background-color:#F5F5F5"> `Matlab` </span>　　⭐️⭐️⭐️   
+### <span style="background-color:#F5F5F5"> `Matlab` </span>　⭐️⭐️⭐️   
 　　　　┖ * Psychology LAB - Behavioral & Physiological Data Analysis  
 　　　　┖ * Social Research / Survey Analysis   
     
-### <span style="background-color:#F5F5F5"> `SPSS`</span>　　　⭐️⭐️⭐️   
+### <span style="background-color:#F5F5F5"> `SPSS`</span>　　⭐️⭐️⭐️   
 　　　　┖ * Survey Analysis    
   
