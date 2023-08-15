@@ -73,10 +73,10 @@ permalink: /cv/
 -----
 # <span style="color:gray"> Education </span>  
 Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]       
-Bachelor Degrees in <span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.      
-* <strong> Microdgree in progress => <u> Big-Data Curation, Big Data Basics, Bigdata Software Engineer</u></strong>  
-( Total GPA : 4.15 / 4.5 )
-
+Bachelor Degrees in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
+* <strong> Microdgree in progress => <u> Big-Data Curation,　Big Data Basics,　Bigdata Software Engineer</u></strong>   
+( Total GPA : 4.15 / 4.5 )  
+  
 #  <span style="color:gray"> Extra Curricular Activities  </span>   
 - (2019) Freshman representative in the Department of Library and Information Science  
 - (2020) Vice President in the Department of Library and Information Science  
@@ -89,12 +89,14 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 
 # <span style="color:gray"> Honors and Awards </span>
 
-- (2020) KSA 한국표준협회 콘텐츠 크리에이터 우수상
-- (2022) 전북대학교 성적 우수 총장상 
-- (2022) 신한금융그룹X빅데이터혁신 공유 사업단 장려상 
-- (2022) 전주시 공공데이터 분석 공모전 장려상 
-- (2022) 전북대학교 문헌정보학과 도서관 서비스 개선 공모안 우수상 
-- (2023) KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 및 프로토타입 개발 본선 참가
+- (2020) KSA (Korea Standards Association) Contents Creator - Excellence prize🏆
+- (2022) President's Award, JBNU - Academic achievement Excellence Award🏆
+- (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate (Team Learder) 
+- (2022) ShinHan Financial Group Bigdata Hackathon - Encouragement Award🏆
+- (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆
+- (2022) Improving library services Project, Library and Information science, JBNU - Excellence prize🏆
+- (2023) KPMG (Accounting Firm) Ideathon - participation prize 
+　　　　　Analysis of corporate activities using natural language models (Digital Transformation) 
 
 
 # <span style="color:gray"> Skills </span>
