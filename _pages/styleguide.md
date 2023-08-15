@@ -74,7 +74,7 @@ permalink: /cv/
 # <span style="color:gray"> Education </span>  
 Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]       
 <span style="color:red">Bachelor Degrees</span> in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
-<span style="color:red">Microdgree</span> in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basics</u>,　<u>Bigdata Software Engineer</u></strong>    
+<span style="color:red">Bachelor Microdgree</span> in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basics</u>,　<u>Bigdata Software Engineer</u></strong>    
     
 ( Total GPA : 4.15 / 4.5 )  
    
@@ -91,13 +91,28 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
 # <span style="color:gray"> Honors and Awards </span>  
   
 - (2020) KSA (Korea Standards Association) Contents Creator - Excellence prize🏆     
+         - Position : Team Leader 
+         - Role :   
+         
 - (2022) President's Award, JBNU - Academic achievement Excellence Award🏆     
-- (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate (Team Learder)     
+  
+- (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate    
+  
 - (2022) ShinHan Financial Group Bigdata Hackathon - Encouragement Award🏆   
-- (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆   
+         - Position : Team Leader 
+         - Role :   
+          
+- (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆  
+         - Position : Team Leader 
+         - Role :    
+          
 - (2022) Improving library services Project, Library and Information science, JBNU - Excellence prize🏆   
+         - Contents : Suggestions for improving User data collection and management methods  
+           
 - (2023) KPMG (Accounting Firm) Ideathon - participation prize    
 　　　　Analysis of corporate activities using natural language models (Digital Transformation)    
+         - Position : Team Leader 
+         - Role : Plannig for Software Development, Communicate and connect between Development part and Data Analysis part, NLP with BERT & Topic Modeling 
   
   
 # <span style="color:gray"> Skills </span>
