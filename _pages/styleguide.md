@@ -86,28 +86,34 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 　　　　　　　　　　in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
 
 
-# <span style="color:gray"> certificates and awards </span>
+# <span style="color:gray"> Honors and Awards </span>
 
 - (2020) KSA 한국표준협회 콘텐츠 크리에이터 우수상
 - (2022) 전북대학교 성적 우수 총장상 
 - (2022) 신한금융그룹X빅데이터혁신 공유 사업단 장려상 
 - (2022) 전주시 공공데이터 분석 공모전 장려상 
 - (2022) 전북대학교 문헌정보학과 도서관 서비스 개선 공모안 우수상 
-- (2023) 빅데이터 혁신 공유대학 메타버스 왕중왕전 참가
 - (2023) KPMG 아이디어톤 : 자연어 모델로 기업 활동에 관련된 분석 및 프로토타입 개발 본선 참가
-- (2023) DACON chatGPT 활용 AI 경진대회
-
-- 정보처리기사 실기 시험 준비중
 
 
-# <span style="color:gray"> technical skills </span>
+# <span style="color:gray"> Skills </span>
 
-{% highlight markdown %}
-**Python** for data science (data visualization, Machine Learning, NLP or back-end) 
-{% endhighlight %}
-->  HIGH LEVEL 
+**[Programming Language]**
+&nbsp; 
+`Python`  ⭐️⭐️⭐️⭐️⭐️
+　　　　┖ * Machine Learning 
+　　　　┖ * Deep Learning & Reinforce Learning
+　　　　┖ * Natural Language Process & Text Mining
+　　　　┖ * Pyspark - Big data analysis
+　　　　┖ * Data Visualization
+&nbsp;   
+`R` ⭐️⭐️⭐️⭐️⭐️
+　　　　┖ * EDA ( Exploratory data analysis ) 
+　　　　┖ * Text Mining
+　　　　┖ * Text Mining
+&nbsp;   
+`Matlab` ⭐️⭐️⭐️
 
-{% highlight markdown %}
-**R / Matlab** for Research study (Research Data analysis) 
-{% endhighlight %}
--> MIDDLE LEVEL
+`SPSS` ⭐️⭐️⭐️
+　　　　┖ * Machine Learning 
+　　　　┖ * Deep Learning & Reinforce Learning
