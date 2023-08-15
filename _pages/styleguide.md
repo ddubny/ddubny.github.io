@@ -74,7 +74,7 @@ permalink: /cv/
 # <span style="color:gray"> Education </span>  
 Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]       
 Bachelor Degrees in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
-<strong> Microdgree in progress => <u> Big-Data Curation,　Big Data Basics,　Bigdata Software Engineer</u></strong>    
+Microdgree in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basics</u>,　<u>Bigdata Software Engineer</u></strong>    
     
 ( Total GPA : 4.15 / 4.5 )  
    
