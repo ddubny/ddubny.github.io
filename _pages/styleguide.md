@@ -106,7 +106,7 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
          - Position : Team Leader + Presenter
          - R&R  : Exploring local community Problems, Creating a user persona, Traffic Pulic data analysis by GIS, Spatial Analysis.         
           
-- (2022) Contest of an improvements in library services, Library and Information science, JBNU - Excellence prize🏆   
+- (2022) Contest of an improvements in library services, LIS dept. JBNU - Excellence prize🏆   
          - Contents : Suggestions for collection and Storage of User Data by Digitization. 
            
 - (2023) KPMG (Accounting Firm) Ideathon - participation prize    
