@@ -91,28 +91,28 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
 # <span style="color:gray"> Honors and Awards </span>  
   
 - (2020) KSA (Korea Standards Association) Contents Creator - Excellence prize🏆     
-　　　　　　- Position : Team Leader    
-　　　　　　- Role : Reproting enterprise services, Proposed Digital Enterprise Services in the Post-COVID Era   
+　　　- Position : Team Leader    
+　　　- Role : Reproting enterprise services, Proposed Digital Enterprise Services in the Post-COVID Era   
          
 - (2022) President's Award, JBNU - Academic achievement Excellence Award🏆      
   
 - (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate    
   
 - (2022) ShinHan Financial Group Bigdata Hackathon - Encouragement Award🏆    
-　　　　　　- Position : Team Leader   
-　　　　　　- R&R  : Data Driven Decision making and Service planning, Data visualiazation, Big-data anlysis        
+　　　- Position : Team Leader   
+　　　- R&R  : Data Driven Decision making and Service planning, Data visualiazation, Big-data anlysis        
           
 - (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆  
-　　　　　　- Position : Team Leader + Presenter   
-　　　　　　- R&R  : Exploring local community Problems, Creating a user persona, Traffic Pulic data analysis by GIS, Spatial Analysis.          
+　　　- Position : Team Leader + Presenter   
+　　　- R&R  : Exploring local community Problems, Creating a user persona, Traffic Pulic data analysis by GIS, Spatial Analysis.          
           
 - (2022) Contest of an improvements in library services, LIS dept. JBNU - Excellence prize🏆    
-　　　　　　- Contents : Suggestions for collection and Storage of User Data by Digitization.   
+　　　- Contents : Suggestions for collection and Storage of User Data by Digitization.   
            
 - (2023) KPMG (Accounting Firm) Ideathon - participation prize      
 　　　┖ Analysis of corporate activities using natural language models (Digital Transformation)     
-　　　　　　- Position : Team Leader & Project Manager(PM) + Presenter    
-　　　　　　- R&R : Plannig for Software Development, Communicate and connect between Development part and Data Analysis part, NLP with BERT & Topic Modeling.  
+　　　- Position : Team Leader & Project Manager(PM) + Presenter    
+　　　- R&R : Plannig for Software Development, Communicate and connect between Development part and Data Analysis part, NLP with BERT & Topic Modeling.  
   
   
 # <span style="color:gray"> Skills </span>
