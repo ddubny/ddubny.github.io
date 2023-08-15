@@ -9,12 +9,12 @@ permalink: /cv/
 📱Phone contact : (+82)10-6282-4600 </div>     
 &nbsp;  
 ----- 
-## <center> SuBin Seo </center>  
+# <center> SuBin Seo </center>  
   
 <center><strong> Current position : Bachelor student in JBNU, Jeonju, Korea </strong> </center>   
 <center><strong> 1. Library and Information science</strong> </center>    
-<center><strong> 2. Psychology　　　　　　　　　　　　</strong> </center>    
-<center><strong> 3. Statistics　　　　　　　　　　　　</strong> </center>    
+<center><strong> 2. Psychology　　　　　　　　　</strong> </center>    
+<center><strong> 3. Statistics　　　　　　　　　</strong> </center>    
 &nbsp;            
 
 -----
