@@ -74,9 +74,10 @@ permalink: /cv/
 # <span style="color:gray"> Education </span>  
 Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]       
 Bachelor Degrees in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
-* <strong> Microdgree in progress => <u> Big-Data Curation,　Big Data Basics,　Bigdata Software Engineer</u></strong>   
+<strong> Microdgree in progress => <u> Big-Data Curation,　Big Data Basics,　Bigdata Software Engineer</u></strong>    
+    
 ( Total GPA : 4.15 / 4.5 )  
-  
+   
 #  <span style="color:gray"> Extra Curricular Activities  </span>   
 - (2019) Freshman representative in the Department of Library and Information Science  
 - (2020) Vice President in the Department of Library and Information Science  
@@ -85,20 +86,20 @@ Bachelor Degrees in **<span style="background-color:#fff5b1">Library and Informa
 - (2022 summer) Trost(Mental health application company) - Business Internship   
 - (2023 summer) Global Expedition - A visit to the U.S. library and Request an interview    
 　　　　　　　　　　in LA & San Francisco, U.S. [ Financial Aid : College of Humanities, JBNU ]   
-
-
-# <span style="color:gray"> Honors and Awards </span>
-
-- (2020) KSA (Korea Standards Association) Contents Creator - Excellence prize🏆
-- (2022) President's Award, JBNU - Academic achievement Excellence Award🏆
-- (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate (Team Learder) 
-- (2022) ShinHan Financial Group Bigdata Hackathon - Encouragement Award🏆
-- (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆
-- (2022) Improving library services Project, Library and Information science, JBNU - Excellence prize🏆
-- (2023) KPMG (Accounting Firm) Ideathon - participation prize 
-　　　　　Analysis of corporate activities using natural language models (Digital Transformation) 
-
-
+  
+  
+# <span style="color:gray"> Honors and Awards </span>  
+  
+- (2020) KSA (Korea Standards Association) Contents Creator - Excellence prize🏆     
+- (2022) President's Award, JBNU - Academic achievement Excellence Award🏆     
+- (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate (Team Learder)     
+- (2022) ShinHan Financial Group Bigdata Hackathon - Encouragement Award🏆   
+- (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆   
+- (2022) Improving library services Project, Library and Information science, JBNU - Excellence prize🏆   
+- (2023) KPMG (Accounting Firm) Ideathon - participation prize    
+　　　　　Analysis of corporate activities using natural language models (Digital Transformation)    
+  
+  
 # <span style="color:gray"> Skills </span>
        
 ### <span style="background-color:#F5F5F5"> `Python` </span>　⭐️⭐️⭐️⭐️⭐️  
