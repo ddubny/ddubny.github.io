@@ -98,8 +98,8 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 
 # <span style="color:gray"> Skills </span>
 
-**[Programming Language]**
-&nbsp; 
+**[Programming Language]**   
+   
 `Python`  ⭐️⭐️⭐️⭐️⭐️
 　　　　┖ * Machine Learning   
 　　　　┖ * Deep Learning & Reinforce Learning  
