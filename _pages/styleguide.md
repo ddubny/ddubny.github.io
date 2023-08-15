@@ -51,7 +51,7 @@ permalink: /cv/
 
 - (2021~2022) Undergraduate Research Assistant. JBNU Emolab  
 　　　　　　Department of Psychology, Jeonbuk National University, Jeonju, Korea   
-　　　　　　<strong>< Behaviral & Physiological Data Analyst ></strong>  
+　　　　　　<strong>< Behaviral & Physiological Data Analyst > </strong>  
 　　　　　　Director : Professor J.W.Kim     
 
 - (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea.   
@@ -110,7 +110,7 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
 　　　　　　- Contents : Suggestions for collection and Storage of User Data by Digitization.   
            
 - (2023) KPMG (Accounting Firm) Ideathon - participation prize      
-　　　Analysis of corporate activities using natural language models (Digital Transformation)     
+　　　┖ Analysis of corporate activities using natural language models (Digital Transformation)     
 　　　　　　- Position : Team Leader & Project Manager(PM) + Presenter    
 　　　　　　- R&R : Plannig for Software Development, Communicate and connect between Development part and Data Analysis part, NLP with BERT & Topic Modeling.  
   
