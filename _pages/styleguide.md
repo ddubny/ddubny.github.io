@@ -104,7 +104,8 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
           
 - (2022) Public data analysis Hackathon in JeonJu - Encouragement Award🏆  
 　　　- Position : Team Leader + Presenter   
-　　　- R&R  : Exploring local community Problems, Creating a user persona, Traffic Pulic data analysis by GIS, Spatial Analysis.          
+　　　- R&R  : Exploring local community Problems, Creating a user persona, 
+　　　　Traffic Pulic data analysis by GIS, Spatial Analysis.          
           
 - (2022) Contest of an improvements in library services, LIS dept. JBNU - Excellence prize🏆    
 　　　- Contents : Suggestions for collection and Storage of User Data by Digitization.   
@@ -112,8 +113,8 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
 - (2023) KPMG (Accounting Firm) Ideathon - participation prize      
 　　　┖ Analysis of corporate activities using natural language models (Digital Transformation)     
 　　　- Position : Team Leader & Project Manager(PM) + Presenter    
-　　　- R&R : Plannig for Software Development, Communicate and connect between Development part and Data Analysis part, NLP with BERT & Topic Modeling.  
-  
+　　　- R&R : Plannig for Software Development, Connect between Dev and Data Analysis part,   
+　　　　NLP with BERT & Topic Modeling.
   
 # <span style="color:gray"> Skills </span>
        
