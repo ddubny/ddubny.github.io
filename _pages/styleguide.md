@@ -8,7 +8,7 @@ permalink: /cv/
 <div style="background-color: #F5F5F5"> 
 📱Phone contact : (+82)10-6282-4600 </div>     
 &nbsp;  
------ 
+-----
 # <center> SuBin Seo </center>  
   
 <center><strong> Current position : Bachelor student in JBNU, Jeonju, Korea </strong> </center>   
