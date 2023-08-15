@@ -101,19 +101,18 @@ Bachelor Degrees in <span style="background-color:#fff5b1">Library and Informati
 **[Programming Language]**
 &nbsp; 
 `Python`  ⭐️⭐️⭐️⭐️⭐️
-　　　　┖ * Machine Learning 
-　　　　┖ * Deep Learning & Reinforce Learning
-　　　　┖ * Natural Language Process & Text Mining
-　　　　┖ * Pyspark - Big data analysis
-　　　　┖ * Data Visualization
+　　　　┖ * Machine Learning   
+　　　　┖ * Deep Learning & Reinforce Learning  
+　　　　┖ * Natural Language Process & Text Mining  
+　　　　┖ * Pyspark - Big data analysis  
+　　　　┖ * Data Visualization  
 &nbsp;   
 `R` ⭐️⭐️⭐️⭐️⭐️
-　　　　┖ * EDA ( Exploratory data analysis ) 
-　　　　┖ * Text Mining
-　　　　┖ * Text Mining
+　　　　┖ * EDA ( Exploratory data analysis )   
 &nbsp;   
 `Matlab` ⭐️⭐️⭐️
+　　　　┖ * Psychology LAB - Behavioral & Physiological Data Analysis  
+　　　　┖ * Social Research / Survey Analysis   
 
 `SPSS` ⭐️⭐️⭐️
-　　　　┖ * Machine Learning 
-　　　　┖ * Deep Learning & Reinforce Learning
+　　　　┖ * Survey Analysis   
