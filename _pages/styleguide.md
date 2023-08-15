@@ -76,7 +76,7 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
 <span style="color:red">Bachelor Degrees</span> in **<span style="background-color:#fff5b1">Library and Information science</span>, <span style="background-color:#FFE6E6">Psychology</span>, <span style="background-color:#E6E6FA">Statistics</span>.**      
 <span style="color:red">Bachelor Microdgree</span> in progress => <strong> <u>Big-Data Curation</u>,　<u>Big Data Basics</u>,　<u>Bigdata Software Engineer</u></strong>    
     
-( Total GPA : 4.15 / 4.5 )  
+( ∴ Total GPA : 4.15 / 4.5 )  
    
 #  <span style="color:gray"> Extra Curricular Activities  </span>   
 - (2019) Freshman representative in the Department of Library and Information Science  
@@ -92,7 +92,7 @@ Jeonbuk National University, Jeonju, Korea - [Mar.2019 to Feb.2023]
   
 - (2020) KSA (Korea Standards Association) Contents Creator - Excellence prize🏆     
 　　　- Position : Team Leader    
-　　　- Role : Reproting enterprise services, Proposed Digital Enterprise Services in the Post-COVID Era   
+　　　- R&R  : Reproting enterprise services, Proposed Digital Enterprise Services in the Post-COVID Era   
 - (2022) President's Award, JBNU - Academic achievement Excellence Award🏆      
 - (2022) Korea University Psychology Research Club, Seoul, Korea - Program Certificate    
 - (2022) ShinHan Financial Group Bigdata Hackathon - Encouragement Award🏆    
