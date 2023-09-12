@@ -29,7 +29,7 @@ So we had to use a method called "MapReduce" to process big data efficiently and
 
 **BUT !! In this project, Data doesn't have a big meaning, it was chosen for its SIZE !!**
 
-<center> <img src="/images/post_5/post_5-02.png"> <img src="/images/post_5/post_5-03.png"> </center>
+<center> <img src="/images/post_5/post_5-02.png" width="600" height="450"> <img src="/images/post_5/post_5-03.png" width="600" height="450"> </center>
 
 Rather than the data itself, we focused on how efficiently we processed big data.    
 MapReduce is the way to dramatically increase the efficiency of processing large scale datasets through distributed parallelism.    
@@ -41,37 +41,39 @@ First, when it comes to "Map" part, we separated the data and mapped the data th
 And then we "reduced" the data size by summing the mapped data.   
 This is how MapReduce works. 
 
-<img src="/images/post_5/post_5-05.png" width="500" height="390"> <img src="/images/post_5/post_5-06.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-05.png" width="600" height="450"> </center>
+<center> <img src="/images/post_5/post_5-06.png" width="600" height="450"> </center>
+  
+We tried 2 ways to implement MapReduce with Python Multiprocessing and Pyspark. 
+
+<center> <img src="/images/post_5/post_5-07.png" width="600" height="450"> <img src="/images/post_5/post_5-08.png" width="600" height="450">  </center>
+Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with 1 CPU.   
+
+<center> <img src="/images/post_5/post_5-09.png" width="600" height="450"> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
 
 
-<img src="/images/post_5/post_5-07.png" width="500" height="390"> <img src="/images/post_5/post_5-08.png" width="500" height="390">
-
-
-<img src="/images/post_5/post_5-09.png" width="500" height="390"> <img src="/images/post_5/post_5-10.png" width="500" height="390">
-
-
-<img src="/images/post_5/post_5-11.png" width="500" height="390"> <img src="/images/post_5/post_5-12.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-11.png" width="600" height="450"> <img src="/images/post_5/post_5-12.png" width="600" height="450"></center>
 
 
 
-<img src="/images/post_5/post_5-13.png" width="500" height="390"> <img src="/images/post_5/post_5-14.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-13.png" width="600" height="450"> <img src="/images/post_5/post_5-14.png" width="600" height="450"></center>
 
 
-<img src="/images/post_5/post_5-15.png" width="500" height="390"> <img src="/images/post_5/post_5-16.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-15.png" width="600" height="450"> <img src="/images/post_5/post_5-16.png" width="600" height="450"></center>
 
-<img src="/images/post_5/post_5-17.png" width="500" height="390"> <img src="/images/post_5/post_5-18.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-17.png" width="600" height="450"> <img src="/images/post_5/post_5-18.png" width="600" height="450"></center>
 
-<img src="/images/post_5/post_5-19.png" width="500" height="390"> <img src="/images/post_5/post_5-20.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-19.png" width="600" height="450"> <img src="/images/post_5/post_5-20.png" width="600" height="450"></center>
 
-<img src="/images/post_5/post_5-21.png" width="500" height="390"> <img src="/images/post_5/post_5-22.png" width="500" height="390">
-
-
-<img src="/images/post_5/post_5-23.png" width="500" height="390"> <img src="/images/post_5/post_5-24.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-21.png" width="600" height="450"> <img src="/images/post_5/post_5-22.png" width="600" height="450"></center>
 
 
-<img src="/images/post_5/post_5-25.png" width="500" height="390"> <img src="/images/post_5/post_5-26.png" width="500" height="390">
+<center> <img src="/images/post_5/post_5-23.png" width="600" height="450"> <img src="/images/post_5/post_5-24.png" width="600" height="450"></center>
 
-<img src="/images/post_5/post_5-27.png" width="500" height="390"> <img src="/images/post_5/post_5-28.png" width="500" height="390">
+
+<center> <img src="/images/post_5/post_5-25.png" width="600" height="450"> <img src="/images/post_5/post_5-26.png" width="600" height="450"></center>
+
+<center> <img src="/images/post_5/post_5-27.png" width="600" height="450"> <img src="/images/post_5/post_5-28.png" width="600" height="450"></center>
 
 {% highlight ruby %}
 def print_hi(name)
