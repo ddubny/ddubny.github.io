@@ -21,29 +21,29 @@ permalink: /cv/
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
-  + ShinHan card big-data Analysis contest   
+  - ShinHan card big-data Analysis contest   
      < Meta consumption platform sugeestion with Consumer Data-Analysis >  
      -> Data driven decision making, customer research, consumption big-data  
       
-  + JeonJu city Public data Analysis contest  
+  - JeonJu city Public data Analysis contest  
      < Medical system Modeling Analysis in JeonJu city >  
       -> GIS analysis for transport system, Improving the healthcare environment, Modeling simulation   
 
-  + Text Information Analysis Capston project    
+  - Text Information Analysis Capston project    
      < Analysis of Influence Level of Media and Social Media for Legislation >   
      ->   
 
-  + KPMG Ideathon - Digital Transformation   
+  - KPMG Ideathon - Digital Transformation   
      < Development of Chatbot services for corporate activities using NLP >   
      ->     
 
-  + Data Driven understnading of Society 
+  - Data Driven understnading of Society 
       < >  
      ->    
 
-### <span style="background-color:#ffdce0"> Database Administration </span>   
-  + Trost(mental health application start-up company) Database Development suggestion project  
-  + Jeju island Smart Tourism project with Public big-data  < One month in Jeju for Senior - APP Backend Dev >   
+### <span style="background-color:#ffdce0"> Database </span>   
+  - Database Development for Capstone Project
+　　　**< Design and Development of Database system suggested for start-up company >**   
 
 
 -----
@@ -55,13 +55,14 @@ permalink: /cv/
 　　　　　　Director : Professor J.W.Kim     
 
 - (Mar-Jun,2022) Research team of psychology, Korea University, Seoul, Korea.   
-　　　　　　Team Leader of Clinical Psychology, <strong> < Digital counseling in ChatBot > </strong>   
+　　　　　　Role : Team Leader of Clinical Psychology Research  
+　　　　　　<strong> < Digital counseling in ChatBot > </strong>   
 　　　　　　Director : Professor H.J.Kim    
 
 - (July, 2022) Poster Presentation at Annual Conference, Korean Psychological Association    
 　　　　　　<strong>< Meta – analysis study of emotional ratings in Korean words ></strong>     
 　　　　　　keywords : #Sentiment Analysis, #Cluster, #Meta-Analysis, #Korean words    
-
+  
 - (July, 2023) Engineering & Business English Workshop in UNLV, Las vegas    
 　　　　　　Computer Science, University of Las Vegas, Las vegas, Nevada  
 　　　　　　<strong> < Applied Machine Learning to big-data by Generating the MapReduce ></strong>     
