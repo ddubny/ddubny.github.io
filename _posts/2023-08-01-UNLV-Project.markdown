@@ -29,7 +29,7 @@ So we had to use a method called "MapReduce" to process big data efficiently and
 
 **BUT !! In this project, Data doesn't have a big meaning, it was chosen for its SIZE !!**
 
-<img src="/images/post_5/post_5-02.png" width="500" height="390"> <img src="/images/post_5/post_5-03.png" width="500" height="390">
+<img src="/images/post_5/post_5-02.png"> <img src="/images/post_5/post_5-03.png">
 
 Rather than the data itself, we focused on how efficiently we processed big data.
 MapReduce is the way to dramatically increase the efficiency of processing large scale datasets through distributed parallelism.   
