@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[UNLV] Big-data Processing "
-date:   2020-11-03 18:05:55 +0300
+date:   2023-08-01 18:05:55 +0300
 image:  post_5_0.png
 tags:   Research_Internship  
 ---
@@ -23,16 +23,13 @@ So Let me introduce my team's project in UNLV !!
 <center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
 <img src="/images/post_5/post_5-02.png" width="400" height="300"> <img src="/images/post_5/post_5-03.png" width="400" height="300">
 
+We use this [data][data] from Kaggle, it was used to determine whether a user was at risk of defaulting on a bank loan. 
+And it was literally "Big-data", becasue it contains 252,000 rows!! About Two hundred fifty thousand !!! 
+So we had to use a method called "MapReduce" to process big data efficiently and quickly. 
 
-I am the vice-president in information and library science department, JBNU.  
 
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -44,6 +41,4 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[data]: https://github.com/ddubny/UNLV_engineering
