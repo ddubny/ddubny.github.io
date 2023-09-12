@@ -21,12 +21,16 @@ So Let me introduce my team's project in UNLV !!
 ## Scalable Data Processing with MapReduce 
 
 <center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
-<center> <img src="/images/post_5/post_5-02.png" width="520" height="390"> <img src="/images/post_5/post_5-03.png" width="520" height="390"> </center>
+<img src="/images/post_5/post_5-02.png" width="520" height="390"> <img src="/images/post_5/post_5-03.png" width="520" height="390">
 
-We use this [data][data] from Kaggle, it was used to determine whether a user was at risk of defaulting on a bank loan. 
-And it was literally "Big-data", becasue it contains 252,000 rows!! About Two hundred fifty thousand !!! 
-So we had to use a method called "MapReduce" to process big data efficiently and quickly. 
+We use this [data][data] from Kaggle, it was used to determine whether a user was at risk of defaulting on a bank loan.    
+And it was literally "Big-data", becasue it contains **252,000 rows**!! About Two hundred fifty thousand !!!    
+So we had to use a method called "MapReduce" to process big data efficiently and quickly.   
 
+( In this project, Data doesn't have a big meaning, it was chosen for its volume )
+( Rather than the data itself, we focused on how efficiently we processed big data. )
+
+<img src="/images/post_5/post_5-02.png" width="520" height="390"> <img src="/images/post_5/post_5-03.png" width="520" height="390"> 
 
 
 
