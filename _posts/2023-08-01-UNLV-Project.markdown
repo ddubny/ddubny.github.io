@@ -21,7 +21,7 @@ So Let me introduce my team's project in UNLV !!
 ## Scalable Data Processing with MapReduce 
 
 <center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
-<img src="/images/post_5/post_5-02.png" width="400" height="300"> <img src="/images/post_5/post_5-03.png" width="400" height="300">
+<center> <img src="/images/post_5/post_5-02.png" width="520" height="390"> <img src="/images/post_5/post_5-03.png" width="520" height="390"> </center>
 
 We use this [data][data] from Kaggle, it was used to determine whether a user was at risk of defaulting on a bank loan. 
 And it was literally "Big-data", becasue it contains 252,000 rows!! About Two hundred fifty thousand !!! 
