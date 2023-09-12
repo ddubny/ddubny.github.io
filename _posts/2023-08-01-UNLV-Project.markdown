@@ -42,12 +42,16 @@ And then we "reduced" the data size by summing the mapped data.
 This is how MapReduce works. 
 
 <center> <img src="/images/post_5/post_5-05.png" width="600" height="450"> </center>
-<center> <img src="/images/post_5/post_5-06.png" width="600" height="450"> </center>
-  
-We tried 2 ways to implement MapReduce with Python Multiprocessing and Pyspark. 
 
-<center> <img src="/images/post_5/post_5-07.png" width="600" height="450"> <img src="/images/post_5/post_5-08.png" width="600" height="450">  </center>
-Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with 1 CPU.   
+We tried 2 ways to implement MapReduce with Python Multiprocessing and Pyspark.   
+
+<center> <img src="/images/post_5/post_5-06.png" width="600" height="450"> </center>
+<center> <img src="/images/post_5/post_5-07.png" width="600" height="450"> </center>
+
+Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with 1 CPU.
+
+<img src="/images/post_5/post_5-08.png" width="600" height="450">  </center>
+   
 
 <center> <img src="/images/post_5/post_5-09.png" width="600" height="450"> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
 
