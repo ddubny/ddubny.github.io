@@ -1,5 +1,5 @@
 # Portfolio Homepage Design 
 
-My homepge link is [link] <- click here !!  
+My homepge link is https://ddubny.github.io/   <- click here !!  
 
-[link] :  https://ddubny.github.io/  
+
