@@ -48,7 +48,7 @@ We tried 2 ways to implement MapReduce with Python Multiprocessing and Pyspark.
 <center> <img src="/images/post_5/post_5-06.png" width="600" height="450"> </center>
 <center> <img src="/images/post_5/post_5-07.png" width="600" height="450"> </center>
 
-Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with local CPU.  
+Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with CPU.  
 
 <center> <img src="/images/post_5/post_5-08.png" width="600" height="450"> </center>
    
@@ -56,14 +56,19 @@ Pool object is a way to pre-create a specified number of processes and run tasks
 
 <center> <img src="/images/post_5/post_5-09.png" width="600" height="450"> </center>
 
-We used **Linear Regression** as a <span style='background-color:#ffdce0'>Machine Learning method</span> to predict the loan defaulter. 
+We used **Linear Regression** as a <span style='background-color:#ffdce0'>Machine Learning method</span> to predict the loan defaulter. This is why the OLS formula was applied to the mapping process. We calclutate the gradients in this process. 
 
 <center> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
 
+And then, we chose one of entire gradients and multiplied by learning rate in reduce process. 
 
-<center> <img src="/images/post_5/post_5-11.png" width="600" height="450"> <img src="/images/post_5/post_5-12.png" width="600" height="450"></center>
+<center> <img src="/images/post_5/post_5-11.png" width="600" height="450"> </center>
 
+We compared processing on the local machine to processing on the server provided by UNLV.   
+Not surprisingly, the multiprocessing I ran on the server was faster. 
 
+<center> <img src="/images/post_5/post_5-12.png" width="600" height="450"></center>
+  
 
 <center> <img src="/images/post_5/post_5-13.png" width="600" height="450"> <img src="/images/post_5/post_5-14.png" width="600" height="450"></center>
 
