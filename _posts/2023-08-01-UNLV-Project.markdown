@@ -14,7 +14,7 @@ And it was still a great experience to me.
 
 So Let me introduce my team's project in UNLV !! 
 
-( note : This is a Final-presentation paper! )
+*( note : you can click the image to zoom-in ~ )*
 
 
 ---
@@ -37,8 +37,8 @@ MapReduce is the way to dramatically increase the efficiency of processing large
 <center> <img src="/images/post_5/plus.jpeg" width="600" height="450"> </center>
 
 It is composed of "Map" and "Reduce" parts.  
-First, when it comes to "Map" part, we separated the data and mapped the data that can be paired together.   
-And then we "reduced" the data size by summing the mapped data.   
+First, when it comes to **"Map"** part, we separated the data and mapped the data that can be paired together.   
+And then we **"reduced"** the data size by summing the mapped data.   
 This is how MapReduce works. 
 
 <center> <img src="/images/post_5/post_5-05.png" width="600" height="450"> </center>
@@ -48,12 +48,17 @@ We tried 2 ways to implement MapReduce with Python Multiprocessing and Pyspark.
 <center> <img src="/images/post_5/post_5-06.png" width="600" height="450"> </center>
 <center> <img src="/images/post_5/post_5-07.png" width="600" height="450"> </center>
 
-Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with 1 CPU.
+Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with local CPU.  
 
-<img src="/images/post_5/post_5-08.png" width="600" height="450">  </center>
+<center> <img src="/images/post_5/post_5-08.png" width="600" height="450"> </center>
    
+Pool object is a way to pre-create a specified number of processes and run tasks on top of them.  
 
-<center> <img src="/images/post_5/post_5-09.png" width="600" height="450"> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
+<center> <img src="/images/post_5/post_5-09.png" width="600" height="450"> </center>
+
+We used **Linear Regression** as a <span style='background-color:#ffdce0'>Machine Learning method</span> to predict the loan defaulter. 
+
+<center> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
 
 
 <center> <img src="/images/post_5/post_5-11.png" width="600" height="450"> <img src="/images/post_5/post_5-12.png" width="600" height="450"></center>
