@@ -15,10 +15,13 @@ And it was still a great experience to me.
 So Let me introduce my team's project in UNLV !! 
 
 ( note : This is a Final-presentation paper! )
------------------------------------------------------------------------
 
-<center> <img src="/images/post_5/post_5-01.png" width="400" height="300"> </center>
-!<img src="/images/post_5/post_5-02.png" width="200" height="150"> |!<img src="/images/post_5/post_5-03.png" width="200" height="150"> --- | --- |
+
+---
+## Scalable Data Processing with MapReduce 
+
+<center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
+<img src="/images/post_5/post_5-02.png" width="400" height="300"> <img src="/images/post_5/post_5-03.png" width="400" height="300">
 
 
 I am the vice-president in information and library science department, JBNU.  

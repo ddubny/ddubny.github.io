@@ -82,34 +82,3 @@ This is the secret of how am i becoming **an tumbling doll-like person who can o
 &nbsp; 
 &nbsp; 
 &nbsp;  
----------------------
-
-
-#<center> < Story about my triple majors !😲 > </center>
-&nbsp;   
-## Q1 : What is the feature of each major ? 
-&nbsp; 
-👉 <span style="background-color:#fff5b1"> **library and Information science** </span> is my first major at university.   
-Even though it is not an engineering program, I can learn information technologies. And It fascinated me ! 
-
-👉 <span style="background-color:#fff5b1"> **Statistics** </span> makes me study anything much easier.  
-Basically, I learn research methodologies, furthermore, I learn many statistical techniques.  
-That's why It is highly connected to other disciplines, like LIS and PSY.  
-For example, information search used in LIS is the application of supervised learning and unsupervised learning. And no need to mention the connection between psychology and statistics.  
-My favorite areas in statistics are data Visualization and text mining !!  
-This is because, It can be useful in social media analysis or data curation.  
-
-
-
-## Q2 : Why am I decided to fuse these 3 major? 
-
-
-
-## Q3 : What is my plan to applying these three ? and what is my interests ??
-
-
-## Q4 : What is my next step ?? 
-I am preparing to enter the M.L.I.S(master of library and information science) program, now.  
-It was hard to choose the direction what to study more. This is because I really like all of my majors, and these 3 majors are complementary each other to research what i want.  
-**If it's possible, I wanna make use of all my majors and carry out an interdisciplinary study.**
-This is the reason why i choose the MLIS program **which welcome the convergence and respect the diversity.** 
