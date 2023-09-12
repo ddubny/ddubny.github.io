@@ -70,7 +70,10 @@ Not surprisingly, the multiprocessing I ran on the server was faster.
 <center> <img src="/images/post_5/post_5-12.png" width="600" height="450"></center>
   
 
-<center> <img src="/images/post_5/post_5-13.png" width="600" height="450"> <img src="/images/post_5/post_5-14.png" width="600" height="450"></center>
+<center> <img src="/images/post_5/post_5-13.png" width="600" height="450"> </center>
+
+
+<center> <img src="/images/post_5/post_5-14.png" width="600" height="450"></center>
 
 
 <center> <img src="/images/post_5/post_5-15.png" width="600" height="450"> <img src="/images/post_5/post_5-16.png" width="600" height="450"></center>
