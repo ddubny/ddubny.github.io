@@ -1,10 +1,26 @@
 ---
 layout: post
-title:  "How do i manage the student council as a vice-president"
+title:  "[UNLV] Big-data Processing "
 date:   2020-11-03 18:05:55 +0300
-image:  post1-1.jpg
-tags:   School Activity 
+image:  post_5_0.png
+tags:   Research_Internship  
 ---
+
+During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
+Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
+I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
+And it was still a great experience to me.     
+
+
+So Let me introduce my team's project in UNLV !! 
+
+( note : This is a Final-presentation paper! )
+-----------------------------------------------------------------------
+
+<center> <img src="/images/post_5/post_5-01.png" width="400" height="300"> </center>
+!<img src="/images/post_5/post_5-02.png" width="200" height="150"> |!<img src="/images/post_5/post_5-03.png" width="200" height="150"> --- | --- |
+
+
 I am the vice-president in information and library science department, JBNU.  
 
 
