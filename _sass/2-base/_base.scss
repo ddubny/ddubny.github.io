@@ -108,14 +108,26 @@ img,
 
 a {
     text-decoration: none;
-    color: $blue;
+    color: $link-color;
     transition: $global-transition;
     &:hover {
-      color: darken($blue, 10%);
+      color: darken($link-color, 10%);
     }
     &:active {
-      color: darken($blue, 20%);
+      color: darken($link-color, 20%);
     }
+}
+
+t {
+  text-decoration: none;
+  color: $blue;
+  transition: $global-transition;
+  &:hover {
+    color: darken($blue, 10%);
+   }
+  &:active {
+    color: darken($blue, 20%);
+   }
 }
 
 hr {
