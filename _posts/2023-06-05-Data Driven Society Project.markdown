@@ -17,6 +17,7 @@ Accordingly, Memories of that time led us to choose this topic !!
 
 
 *( note : you can click the image to zoom-in ~ )*  
+*PPT made by me.*
 
 ---
    
@@ -25,7 +26,21 @@ Accordingly, Memories of that time led us to choose this topic !!
 
 <center> <img src="/images/post_4/post_4-02.png" width="600" height="450"> </center>
 
-<center> <img src="/images/post_4/post_4-03.png" width="600" height="450"> </center>
+Our main message is "please increase the quality of life for commuters by improving their commuting experience."    
+  
+There were **3 Backgrounds** that led us to this message.   
+
+## Background of Research 
+
+<center> <img src="/images/post_4/post_4-03.png" width="600" height="450"> </center>  
+
+First of all, we showed the students' complains about the commute environment throgh the qualitative survey results we received in advance.  
+
+< Students said !! >  
+- Difficult to get home at night due to early last train times. 
+- There is no subway, so we need more buses. 
+- The lack of direct routes is inconvenient
+- Too many people and not enough buses during commute hours. 
 
 <center> <img src="/images/post_4/post_4-04.png" width="600" height="450"> </center>
 
