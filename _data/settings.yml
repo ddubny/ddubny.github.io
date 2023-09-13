@@ -11,6 +11,7 @@ author:
   name: Subin Seo 
   image: 01.jpg
   say-hello: Welcome! This is <strong>SuBin Seo.</strong>
-  bio: I am a versatile researcher with <b href="#">interdisciplinary</b> academic bases. I have <a href="#">triple</a> bachelor's degrees , Information and Library science ,Psychology and Statistics. Find out more about me on this blog!
+  bio: I am a versatile researcher with <b href="#">interdisciplinary</b> academic bases. I have <b href="#">triple</b> bachelor's degrees , Information and Library science ,Psychology and Statistics. 
+  space : Find out more about me on this blog!
 
 
