@@ -43,14 +43,34 @@ First of all, we showed the students' complains about the commute environment th
 
 <center> <img src="/images/post_4/post_4-04.png" width="600" height="450"> </center>
 
-<center> <img src="/images/post_4/post_4-05.png" width="600" height="450"> </center>
+This is something that often comes up as a student government pledge, but we've seen very little improvement.   
+  
+<center> <img src="/images/post_4/post_4-05.png" width="600" height="450"> </center>  
+
+Many students take the city bus. Almost 25% of students use buses to get to school !!  
+
+## Take a survey with commuters. 
 
 <center> <img src="/images/post_4/post_4-06.png" width="600" height="450"> </center>
 
+**< The questionnaire configurations >**
+
+1. Satisfaction with dispatch times by time
+
+2. satisfaction of Last Bus time depending on the region of residence. 
+
+3. Satisfaction of services in bus.
+
+*We surveyed students who commute to school using city buses over a six-day period from May 24 to 29, 2023.*
+
 <center> <img src="/images/post_4/post_4-07.png" width="600" height="450"> </center>
+
+As a result, 36 people responded to the survey, and 24 of whom were students who had used city buses for commuting.   
 
 <center> <img src="/images/post_4/post_4-08.png" width="600" height="450"> </center>
 
+This is the data sheet we collected from the survey responded by 24 students. 
+  
 <center> <img src="/images/post_4/post_4-09.png" width="600" height="450"> </center>
 
 <center> <img src="/images/post_4/post_4-10.png" width="600" height="450"> </center>
