@@ -26,21 +26,20 @@ Accordingly, Memories of that time led us to choose this topic !!
 
 <center> <img src="/images/post_4/post_4-02.png" width="600" height="450"> </center>
 
-Our main message is "please increase the quality of life for commuters by improving their commuting experience."    
-  
-There were **3 Backgrounds** that led us to this message.   
+Our main message is <span style='background-color:#ffdce0'>"please increase the quality of life for commuters by improving their commuting experience." </span>   
 
-## Background of Research 
+## Background of Research   
+There were **3 Backgrounds** that led us to this message.    
 
 <center> <img src="/images/post_4/post_4-03.png" width="600" height="450"> </center>  
 
-First of all, we showed the students' complains about the commute environment throgh the qualitative survey results we received in advance.  
+First of all, we showed the students' complains about the commute environment throgh the qualitative survey we received in advance.  
 
 < Students said !! >  
-- Difficult to get home at night due to early last train times. 
-- There is no subway, so we need more buses. 
-- The lack of direct routes is inconvenient
-- Too many people and not enough buses during commute hours. 
+- Difficult to get home at night due to <u>early last train times.</u>
+- There is no subway, so we <u>need more buses.</u> 
+- <u>The lack of direct routes</u> is inconvenient
+- <u>Too many people</u> and not enough buses during commute hours. 
 
 <center> <img src="/images/post_4/post_4-04.png" width="600" height="450"> </center>
 
