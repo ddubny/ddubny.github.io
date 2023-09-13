@@ -11,15 +11,14 @@ This project is created for school project in course, Data Driven Society superv
 
 This project is focused on the social use and the visualization of data.   
 
-I was the team leader of this project, and our team members including me are from the student government.   
-When I was a vice-president in my department, I've often heard complaints about the commute environment.   
-Accordingly, Memories of that time led us to choose this topic !!   
+I was the team leader of this project, and our team members including me are from the student government.
+When I was a vice-president in my department, I've often heard complaints about the commute environment.  
+Accordingly, Memories of that time led us to choose this topic !!     
 
-
-*( note : you can click the image to zoom-in ~ )*  
-*PPT made by me.*
 
 ---
+
+*( note : you can click the image to zoom-in ~ )*  
    
 
 <center> <img src="/images/post_4/post_4-01.png" width="600" height="450"> </center>
