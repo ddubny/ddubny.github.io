@@ -11,4 +11,11 @@ This page will help you understand me, and hopefully fascinate you.
 
 ---- 
 
-# Experience ! 
+# <center> Research Interest </center>
+
+# Experience 
+
+# Personality 
+
+
+
