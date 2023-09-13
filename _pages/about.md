@@ -11,8 +11,4 @@ This page will help you understand me, and hopefully fascinate you.
 
 ---- 
 
-
-
-     
-
-  
+# Experience ! 
