@@ -30,13 +30,11 @@ permalink: /about/
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 ◾ Library and Information Science
-Digital Curation Computational Social Science. 
+Digital Curation{: .notice--red} Computational Social Science{: .notice--green}
 As a first discipline, this is how I got into information technology. In particular, I am interested in Digital Curation and Computational Social Science. 
 ◾ It started as a way to help a student government partner who was depressed. I currently use it to analyze behavioral and Physiological data. 
 ◾ It will help me design the research. Plus, I can use Big-data analytics and Machine Learning method.   
 ◾ It is a specialized career within informatics. It's about gathering the data what I need, storytelling it, and putting it into meaningful visualizations. 
-
-
 
 
 
