@@ -14,13 +14,17 @@ permalink: /about/
   <div style="flex: 1;">
     <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750">
   </div> 
-  <div style="flex: 2;">
+  <div class="callout" style="flex: 2;">
+  <div class="callout">
     여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
   </div>
 </div>
-{: .notice--yellow}
+
+
+
 ---- 
 
+<br>
 # <center> Academic history </center> 
   
 
