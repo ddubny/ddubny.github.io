@@ -4,10 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-<center> 🖐️ Hello! Welcom to my Page!   
-Thank you for your visit !    
-This page will help you understand me, and hopefully fascinate you.🤗</center>      
-{: .notice--yellow}
+<center> 🖐️ Hello! Welcom to my Page!</center>         
+<center> Thank you for your visit !</center>         
+<center> This page will help you understand me, and hopefully fascinate you.🤗</center>      
    
 <br>
 
@@ -17,6 +16,7 @@ This page will help you understand me, and hopefully fascinate you.🤗</center>
   </div> 
   <div style="flex: 2;">
     여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
+    {: .notice--yellow}
   </div>
 </div>
 

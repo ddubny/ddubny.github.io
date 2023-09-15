@@ -76,6 +76,8 @@
 // Callout
 .notice--red {
 	background-color: #ff3e3e57;
+	padding: 10px; 
+	border-radius: 10px; 
 }
 
 .notice--yellow {
@@ -86,14 +88,26 @@
 
 .notice--pink {
 	background-color:  #ffafe681;
+	padding: 10px; 
+	border-radius: 10px; 
 }
 
 .notice--green {
 	background-color: #a9f55277;
+	padding: 10px; 
+	border-radius: 10px; 
 }
 
 .notice--blue {
 	background-color: #beefff75;
+	padding: 10px; 
+	border-radius: 10px; 
+}
+
+.notice--gray {
+	background-color: #0000001a;
+	padding: 10px; 
+	border-radius: 10px; 
 }
 
 // Lists Reset
