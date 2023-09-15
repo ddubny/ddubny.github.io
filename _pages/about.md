@@ -19,12 +19,12 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     &nbsp;&nbsp;&nbsp; ▶ 　Rebublic of Korea<br>
-     &nbsp;&nbsp;&nbsp; ▶ 　E-mail : stm01@naver.com<br>
-     &nbsp;&nbsp;&nbsp; 🎓　<strong>Three Bachelor's Degrees, JBNU</strong><br>
-     &nbsp;&nbsp;&nbsp; ⭐　<strong>Leadership Experience</strong><br>
-     &nbsp;&nbsp;&nbsp; ⭐　<strong>Data analytics competition winner</strong><br>
-     &nbsp;&nbsp;&nbsp; ⭐　<strong>Global Library Explorer</strong><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Rebublic of Korea<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail : stm01@naver.com<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　<strong>Three Bachelor's Degrees, JBNU</strong><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Leadership Experience</strong><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Data analytics competition winner</strong><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Global Library Explorer</strong><br>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ s
 
 I had a lot of diverse experiences in university, each of which led me to my current career path. 
 
-- 학생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 
+- 학생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결심 
 
 - 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 
 
