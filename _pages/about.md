@@ -18,7 +18,10 @@ permalink: /about/
   <div class="speech-bubble" style="flex: 2;">
      <br>
      <h2><center>Subin Seo</center></h2>
-     <p>🇰🇷 </p>
+     <p> &nbsp;- Rebublic of Korea (South Korea) </p>
+     <p> &nbsp;- Rebublic of Korea (South Korea) </p>
+     <p> &nbsp;- Rebublic of Korea (South Korea) </p>
+     <p> &nbsp;- Rebublic of Korea (South Korea) </p>
   </div>
 </div>
 
