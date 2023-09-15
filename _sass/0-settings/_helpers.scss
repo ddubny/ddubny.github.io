@@ -122,12 +122,11 @@
   .callout::before {
 	content: "";
 	position: absolute;
-	top: 0;
-	left: 50%;
-	transform: translateX(-50%);
+	top: 100%;
+	left: 10px;
 	border-width: 10px;
 	border-style: solid;
-	border-color: transparent transparent #ddd transparent;
+	border-color: transparent transparent #f9f9f9 transparent;
   }
 
 
