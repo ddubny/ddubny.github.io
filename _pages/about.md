@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-<br><br><br>
+<br><br>
 
 <center> 🖐️ Hello! Welcom to my Page!</center>         
 <center> Thank you for your visit !</center>         
@@ -11,7 +11,7 @@ permalink: /about/
    
 <br><br><br>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
   <div style="flex: 1; ">
     <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750">
   </div> 
