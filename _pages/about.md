@@ -21,10 +21,10 @@ permalink: /about/
      <br>
      &nbsp;&nbsp;&nbsp; ▶ 　Rebublic of Korea<br>
      &nbsp;&nbsp;&nbsp; ▶ 　E-mail : stm01@naver.com<br>
-     &nbsp;&nbsp;&nbsp; 🎓　**Three Bachelor's Degrees, JBNU**<br>
-     &nbsp;&nbsp;&nbsp; ⭐　**Leadership Experience**<br>
-     &nbsp;&nbsp;&nbsp; ⭐　**Data analytics competition winner**<br>
-     &nbsp;&nbsp;&nbsp; ⭐　**Global Library Explorer**<br>
+     &nbsp;&nbsp;&nbsp; 🎓　<strong>Three Bachelor's Degrees, JBNU</strong><br>
+     &nbsp;&nbsp;&nbsp; ⭐　<strong>Leadership Experience</strong><br>
+     &nbsp;&nbsp;&nbsp; ⭐　<strong>Data analytics competition winner</strong><br>
+     &nbsp;&nbsp;&nbsp; ⭐　<strong>Global Library Explorer</strong><br>
   </div>
 </div>
 
@@ -39,8 +39,6 @@ permalink: /about/
 
 ◾ **Library and Information Science**    
 As a first discipline, this is how I got into information technology. In particular, I am interested in **Digital Curation** and **Computational Social Science**.   
-
-
 
 ◾ **Psychology**   
 It started as a way to help a student government partner who was depressed. I currently use it to **analyze behavioral and Physiological data.**      
@@ -57,19 +55,18 @@ It is a specialized career within informatics. It's about **gathering** the data
 ### <center> 🖋 Study Area </center>
 
 <br>
-I haven't really decided on a specific research topic yet, but I'd like to do something based on the following. 
+I haven't really decided on a specific research topic yet, but I'd like to do something based on the following.   
 
-▶ Computational Social Science 
+▶ Computational Social Science
+
+Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
+> A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true. 
 {: .notice--gray} 
 
 ▶ Information Behavior 
 
-
+s
 ▶ Data Curation / Visualization
-
-
-
-
 
 * 각 분야별로 인상깊게 읽은 책이나 논문 참고 문헌으로 적기! ㅇ
 * 각 분야별로 연관된 히스토리(프로젝트) 적기 ! 없을 경우, 프로젝트 계획으로
@@ -78,6 +75,9 @@ I haven't really decided on a specific research topic yet, but I'd like to do so
 
 <br> 
 # <center> Experience <center> 
+<br>
+
+I had a lot of diverse experiences in university, each of which led me to my current career path. 
 
 - 학생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 
 
