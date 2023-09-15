@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-🖐️ Hello! Welcom to my Page!   
+<center> 🖐️ Hello! Welcom to my Page!   
 Thank you for your visit !    
-This page will help you understand me, and hopefully fascinate you.🤗      
+This page will help you understand me, and hopefully fascinate you.🤗</center>      
 {: .notice--yellow}
    
 <br>
@@ -22,7 +22,7 @@ This page will help you understand me, and hopefully fascinate you.🤗
 
 ---- 
 
-# <center> Academic history <center> 
+# <center> Academic history </center> 
   
 
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true"  style="height: auto; width: 100%;">
