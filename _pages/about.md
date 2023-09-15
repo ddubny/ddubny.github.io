@@ -18,10 +18,10 @@ permalink: /about/
   <div class="speech-bubble" style="flex: 2;">
      <br>
      <h2><center>Subin Seo</center></h2>
-     &nbsp;<p> - Rebublic of Korea (South Korea) </p>
-     &nbsp;<p> - Rebublic of Korea (South Korea) </p>
-     &nbsp;<p> - Rebublic of Korea (South Korea) </p>
-     &nbsp;<p> - Rebublic of Korea (South Korea) </p>
+     <p> 　　- Rebublic of Korea (South Korea) </p>
+     <p>　　 - Rebublic of Korea (South Korea) </p>
+     <p> 　　- Rebublic of Korea (South Korea) </p>
+     <p> 　　- Rebublic of Korea (South Korea) </p>
   </div>
 </div>
 
@@ -39,11 +39,14 @@ permalink: /about/
 As a first discipline, this is how I got into information technology. In particular, I am interested in <span style='background-color:#ffafe681'> Digital Curation </span> and <span style='background-color:#fffb8267'> Computational Social Science </span>.    
 
 
-◾ **Pychologyt**
+◾ **Psychology**   
 It started as a way to help a student government partner who was depressed. I currently use it to analyze behavioral and Physiological data.   
 
-◾ It will help me design the research. Plus, I can use Big-data analytics and Machine Learning method.     
-◾ It is a specialized career within informatics. It's about gathering the data what I need, storytelling it, and putting it into meaningful visualizations.   
+◾ **Statistics**  
+It will help me design the research. Plus, I can use Big-data analytics and Machine Learning method.     
+
+◾ **Data Curation**  
+It is a specialized career within informatics. It's about gathering the data what I need, storytelling it, and putting it into meaningful visualizations.   
 
 
 
