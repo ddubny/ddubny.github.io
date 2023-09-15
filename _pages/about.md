@@ -15,6 +15,7 @@ permalink: /about/
     <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750">
   </div> 
   <div style="flex: 2;">
+  <H>
     여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
   </div>
   {: .notice--yellow}
@@ -24,7 +25,7 @@ permalink: /about/
 # <center> Academic history </center> 
   
 
-<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true"style="height: auto; width: 100%;">
+<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 As a first discipline, this is how I got into information technology. In particular, I am interested in Digital Curation and Computational Social Science. 
 It started as a way to help a student government partner who was depressed. I currently use it to analyze behavioral and Physiological data. 
