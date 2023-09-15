@@ -13,8 +13,8 @@ This page will help you understand me, and hopefully fascinate you.🤗
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" style="height: auto; width: 100%;">
-  </div>
+    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="100" height="500">
+  </div> 
   <div style="flex: 2;">
     여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
   </div>
@@ -25,7 +25,7 @@ This page will help you understand me, and hopefully fascinate you.🤗
 # <center> Academic history <center> 
   
 
-<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true"  width="1000" height="750">
+<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true"  style="height: auto; width: 100%;">
 
 
 - PPT로 인포그래픽 그려서 삽입하기 
