@@ -25,7 +25,7 @@ permalink: /about/
 # <center> Academic history </center> 
   
 
-<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true"  width="1200" height="900">
+<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true"style="max-width: 100%; max-height: 100%;">
 
 
 - PPT로 인포그래픽 그려서 삽입하기 
