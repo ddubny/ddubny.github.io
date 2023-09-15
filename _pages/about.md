@@ -8,7 +8,8 @@ permalink: /about/
 Thank you for your visit !    
 This page will help you understand me, and hopefully fascinate you.🤗      
 {: .notice--yellow}
-
+   
+<br><br><br>
 
 <div style="display: flex;">
   <div style="flex: 1;">
