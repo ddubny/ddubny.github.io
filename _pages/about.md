@@ -12,18 +12,24 @@ SOP / PS Strike 문장 끼워넣기.
 {: .notice--yellow}
 
 
-| ![이미지 대체 텍스트](https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true) | 텍스트 내용을 여기에 입력하세요. |
-|---|---|
-
 ![이미지 대체 텍스트](https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true){: .img-class}
 텍스트 내용을 여기에 입력하세요.
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true" alt="이미지 대체 텍스트" style="height: auto; width: 100%;">
+  </div>
+  <div style="flex: 2;">
+    여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
+  </div>
+</div>
 
 ---- 
 
 # <center> Academic history <center> 
   
     
-
+https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true 
 
 
 - PPT로 인포그래픽 그려서 삽입하기 
