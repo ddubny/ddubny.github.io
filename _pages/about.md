@@ -3,12 +3,13 @@ layout: page
 title: About me
 permalink: /about/
 ---
+<br><br><br>
 
 <center> 🖐️ Hello! Welcom to my Page!</center>         
 <center> Thank you for your visit !</center>         
 <center> This page will help you understand me, and hopefully fascinate you.🤗</center>      
    
-<br>
+<br><br><br>
 
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -32,8 +33,10 @@ permalink: /about/
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 ◾ Library and Information Science  
-<span style='background-color:#ffafe681'> Digital Curation </span>   <span style='background-color:#fffb8267'> Computational Social Science </span>
+<span style='background-color:#ffafe681'> Digital Curation </span> &nbsp; <span style='background-color:#fffb8267'> Computational Social Science </span> &nbsp;    
 As a first discipline, this is how I got into information technology. In particular, I am interested in Digital Curation and Computational Social Science.   
+
+
 ◾ It started as a way to help a student government partner who was depressed. I currently use it to analyze behavioral and Physiological data.   
 ◾ It will help me design the research. Plus, I can use Big-data analytics and Machine Learning method.     
 ◾ It is a specialized career within informatics. It's about gathering the data what I need, storytelling it, and putting it into meaningful visualizations.   
