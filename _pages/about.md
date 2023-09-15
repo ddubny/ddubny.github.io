@@ -19,12 +19,12 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     &nbsp; ▶ 　Rebublic of Korea<br>
-     &nbsp; ▶ 　E-mail : stm01@naver.com<br>
-     &nbsp; 🎓　**Three Bachelor's Degrees, JBNU**<br>
-     &nbsp; ⭐　**Leadership Experience**<br>
-     &nbsp; ⭐　**Data analytics competition winner**<br>
-     &nbsp; ⭐　**Global Library Explorer**<br>
+     &nbsp;&nbsp;&nbsp; ▶ 　Rebublic of Korea<br>
+     &nbsp;&nbsp;&nbsp; ▶ 　E-mail : stm01@naver.com<br>
+     &nbsp;&nbsp;&nbsp; 🎓　**Three Bachelor's Degrees, JBNU**<br>
+     &nbsp;&nbsp;&nbsp; ⭐　**Leadership Experience**<br>
+     &nbsp;&nbsp;&nbsp; ⭐　**Data analytics competition winner**<br>
+     &nbsp;&nbsp;&nbsp; ⭐　**Global Library Explorer**<br>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ It is a specialized career within informatics. It's about **gathering** the data
 
 <br><br>
 
-### <center> Study Area </center>
+### <center> 🖋 Study Area </center>
 
 <br>
 I haven't really decided on a specific research topic yet, but I'd like to do something based on the following. 
