@@ -74,11 +74,24 @@
 }
 
 // Callout
-.notice--danger {
-	border: 2px solid red;
-	background-color: #ffdddd;
-	color: red;
-	font-weight: bold;
+.notice--red {
+	background-color: #ff3e3e80;
+}
+
+.notice--yellow {
+	background-color :#FFFA82;
+}
+
+.notice--pink {
+	background-color:  #FFAFE6;
+}
+
+.notice--green {
+	background-color: #A8F552;
+}
+
+.notice--blue {
+	background-color: #BEEFFF;
 }
 
 // Lists Reset

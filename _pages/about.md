@@ -9,17 +9,13 @@ Thank you for your visit !
 This page will help you understand me, and hopefully fascinate you.    
 
 SOP / PS Strike 문장 끼워넣기. 
-{: .notice--danger}
+{: .notice--yellow}
 
-
-::: {.notice--danger}
-이곳에 콜아웃 내용을 작성합니다.
-:::
 
 
 ---- 
 
-# <center> Research Interest <center> 
+# <center> Academic history <center> 
 
 - PPT로 인포그래픽 그려서 삽입하기 
 
