@@ -23,8 +23,7 @@ This page will help you understand me, and hopefully fascinate you.🤗
 
 # <center> Academic history <center> 
   
-    
-https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true 
+[![Academic history](https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true)]
 
 
 - PPT로 인포그래픽 그려서 삽입하기 
