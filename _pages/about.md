@@ -12,9 +12,10 @@ SOP / PS Strike 문장 끼워넣기.
 {: .notice--danger}
 
 
-<div class="notice notice--danger">
-   이곳에 콜아웃 내용을 작성합니다.ddd
-</div>
+::: {.notice--danger}
+이곳에 콜아웃 내용을 작성합니다.
+:::
+
 
 ---- 
 
