@@ -19,12 +19,12 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     - ▶ 　Rebublic of Korea<br>
-     - ▶ 　E-mail : stm01@naver.com<br>
-     - 🎓　 Three Bachelor's Degrees, JBNU<br>
-     - ⭐　 Leadership Experience<br>
-     - ⭐　 Data analytics competition winner<br>
-     - ⭐　 Global Library Explorer<br>
+         ▶ 　Rebublic of Korea<br>
+         ▶ 　E-mail : stm01@naver.com<br>
+         🎓　**Three Bachelor's Degrees, JBNU**<br>
+         ⭐　**Leadership Experience**<br>
+         ⭐　**Data analytics competition winner**<br>
+         ⭐　**Global Library Explorer**<br>
   </div>
 </div>
 
