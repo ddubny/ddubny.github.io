@@ -92,7 +92,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
 
 <div style="overflow: auto;">
-  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
+  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
 </div>
 
@@ -106,9 +106,10 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
 
 <div style="overflow: auto;">
-  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
+  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
+  학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
+  디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
 </div>
 
 
@@ -117,6 +118,10 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 - 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 
 
 
+
+---- 
+
+<br> 
 # <center> Personality <center> 
 
 <justify> 활동적인 성격 추진력있고 셀프 모티베이션이 활발한 스타일이라는 것을 돌려서 표현하기
