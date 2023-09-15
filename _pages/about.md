@@ -15,6 +15,8 @@ SOP / PS Strike 문장 끼워넣기.
 | ![이미지 대체 텍스트](https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true) | 텍스트 내용을 여기에 입력하세요. |
 |---|---|
 
+![이미지 대체 텍스트](https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true){: .img-class}
+텍스트 내용을 여기에 입력하세요.
 
 ---- 
 
