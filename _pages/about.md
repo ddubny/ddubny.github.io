@@ -15,7 +15,8 @@ permalink: /about/
     <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750">
   </div> 
   <div class="callout" style="flex: 2;">
-    여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
+     <h2><center>Subin Seo</center></h2>
+     <p>여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.</p>
   </div>
 </div>
 
