@@ -9,11 +9,11 @@ Thank you for your visit !
 This page will help you understand me, and hopefully fascinate you.🤗      
 {: .notice--yellow}
    
-<br><br><br>
+<br>
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true" alt="이미지 대체 텍스트" style="height: auto; width: 100%;">
+    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" style="height: auto; width: 100%;">
   </div>
   <div style="flex: 2;">
     여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요. 여러 줄의 텍스트 내용을 여기에 입력하세요.
