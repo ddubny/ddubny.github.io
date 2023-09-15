@@ -4,11 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Hello! Welcom to my Page!   
+🖐️ Hello! Welcom to my Page!   
 Thank you for your visit !    
-This page will help you understand me, and hopefully fascinate you.    
-
-SOP / PS Strike 문장 끼워넣기. 
+This page will help you understand me, and hopefully fascinate you.🤗      
 {: .notice--yellow}
 
 
