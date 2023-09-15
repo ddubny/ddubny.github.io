@@ -7,7 +7,7 @@ permalink: /about/
 
 <center> 🖐️ Hello! Welcom to my Page!</center>         
 <center> Thank you for your visit !</center>         
-<center> This page will help you understand me, and hopefully fascinate you.🤗</center>      
+<center> This page will help you understand my story and hopefully fascinate you.🤗</center>      
    
 <br><br><br>
 
@@ -19,12 +19,12 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-         ▶ 　Rebublic of Korea<br>
-         ▶ 　E-mail : stm01@naver.com<br>
-         🎓　**Three Bachelor's Degrees, JBNU**<br>
-         ⭐　**Leadership Experience**<br>
-         ⭐　**Data analytics competition winner**<br>
-         ⭐　**Global Library Explorer**<br>
+     &nbsp; ▶ 　Rebublic of Korea<br>
+     &nbsp; ▶ 　E-mail : stm01@naver.com<br>
+     &nbsp; 🎓　**Three Bachelor's Degrees, JBNU**<br>
+     &nbsp; ⭐　**Leadership Experience**<br>
+     &nbsp; ⭐　**Data analytics competition winner**<br>
+     &nbsp; ⭐　**Global Library Explorer**<br>
   </div>
 </div>
 
