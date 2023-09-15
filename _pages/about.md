@@ -19,16 +19,14 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     <p> 　　 ▶ Rebublic of Korea </p>
-     <p> 　　 ▶ E-mail : stm01@naver.com </p>
-     <p>　　 🎓 Three Bachelor's Degrees, JBNU </p>
-     <p> 　　 Rebublic of Korea (South Korea) </p>
-     <p> 　　⭐ Leadership Experience </p>
-     <p> 　　⭐ Data analytics competition winner </p>
-     <p> 　　⭐ Global Library Explorer  </p>
+     - ▶ 　Rebublic of Korea<br>
+     - ▶ 　E-mail : stm01@naver.com<br>
+     - 🎓　 Three Bachelor's Degrees, JBNU<br>
+     - ⭐　 Leadership Experience<br>
+     - ⭐　 Data analytics competition winner<br>
+     - ⭐　 Global Library Explorer<br>
   </div>
 </div>
-
 
 
 ---- 
@@ -40,23 +38,35 @@ permalink: /about/
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 ◾ **Library and Information Science**    
-As a first discipline, this is how I got into information technology. In particular, I am interested in **Digital Curation** and **Computational Social Science**.  
+As a first discipline, this is how I got into information technology. In particular, I am interested in **Digital Curation** and **Computational Social Science**.   
+
+
 
 ◾ **Psychology**   
-It started as a way to help a student government partner who was depressed. I currently use it to analyze behavioral and Physiological data.   
+It started as a way to help a student government partner who was depressed. I currently use it to **analyze behavioral and Physiological data.**      
 
 ◾ **Statistics**  
-It will help me design the research. Plus, I can use Big-data analytics and Machine Learning method.     
+It will help me design the research. Plus, I can use **Big-data** analytics and **Machine Learning** method.     
 
 ◾ **Data Curation**  
-It is a specialized career within informatics. It's about gathering the data what I need, storytelling it, and putting it into meaningful visualizations.   
+It is a specialized career within informatics. It's about **gathering** the data what I need, **storytelling** it, and putting it into meaningful **visualizations**.   
 
 
-### <center> Study Area </Center>
-1. Computational Social Science 
-2. Information Behavior 
-3. Data Curation / Visualization
-{: .notice--red} 
+<br><br>
+
+### <center> Study Area </center>
+
+<br>
+I haven't really decided on a specific research topic yet, but I'd like to do something based on the following. 
+
+▶ Computational Social Science 
+{: .notice--gray} 
+
+▶ Information Behavior 
+
+
+▶ Data Curation / Visualization
+
 
 
 
@@ -64,6 +74,9 @@ It is a specialized career within informatics. It's about gathering the data wha
 * 각 분야별로 인상깊게 읽은 책이나 논문 참고 문헌으로 적기! ㅇ
 * 각 분야별로 연관된 히스토리(프로젝트) 적기 ! 없을 경우, 프로젝트 계획으로
 
+---- 
+
+<br> 
 # <center> Experience <center> 
 
 - 학생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 
