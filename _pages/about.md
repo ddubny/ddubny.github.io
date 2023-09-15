@@ -86,6 +86,18 @@ s
 
 I had a lot of diverse experiences in university, each of which led me to my current career path. 
 
+<br><br>
+
+<img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" style="height: auto; width: 100%;" > 
+
+<p>
+<div class=pull-right>
+https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true
+<center>사진정보 Photo info</center>
+</div>
+여기는 글쓰기 Writing 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 
+</p>
+
 - 학생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결심 
 
 - 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 
