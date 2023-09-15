@@ -73,6 +73,14 @@
 	margin: 0;
 }
 
+// Callout
+.notice--danger {
+	border: 2px solid red;
+	background-color: #ffdddd;
+	color: red;
+	font-weight: bold;
+}
+
 // Lists Reset
 .list-reset {
 	@include list-reset();
