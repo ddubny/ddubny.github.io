@@ -12,14 +12,17 @@ SOP / PS Strike 문장 끼워넣기.
 {: .notice--yellow}
 
 
-<figure>
-  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true" alt="이미지 대체 텍스트">
-  <figcaption>ㄱㄱ</figcaption>
-</figure>
+| ![이미지 대체 텍스트](https://github.com/ddubny/ddubny.github.io/blob/main/images/post_5/post_5-01.png?raw=true) | 텍스트 내용을 여기에 입력하세요. |
+|---|---|
+
 
 ---- 
 
 # <center> Academic history <center> 
+  
+    
+
+
 
 - PPT로 인포그래픽 그려서 삽입하기 
 
