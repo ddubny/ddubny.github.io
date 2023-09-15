@@ -110,6 +110,27 @@
 	border-radius: 10px; 
 }
 
+.callout {
+	position: relative;
+	background-color: #f7f7f7;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 20px 0;
+  }
+  
+  .callout::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	border-width: 10px;
+	border-style: solid;
+	border-color: transparent transparent #ddd transparent;
+  }
+  
+
 // Lists Reset
 .list-reset {
 	@include list-reset();
