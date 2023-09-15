@@ -20,8 +20,8 @@ permalink: /about/
      <h2><center>Subin Seo</center></h2>
      <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Rebublic of Korea<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail : stm01@naver.com<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　<strong>Three Bachelor's Degrees, JBNU</strong><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail : <u>stm01@naver.com</u><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　hree Bachelor's Degrees, JBNU<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Leadership Experience</strong><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Data analytics competition winner</strong><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Global Library Explorer</strong><br>
@@ -62,6 +62,13 @@ I haven't really decided on a specific research topic yet, but I'd like to do so
 Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
 > A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true. 
 {: .notice--gray} 
+
+<div class="notice--gray">
+  Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
+  <div class="blockquote">
+     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.
+  </div>
+</div>
 
 ▶ Information Behavior 
 
