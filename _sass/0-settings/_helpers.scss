@@ -110,26 +110,26 @@
 	border-radius: 10px; 
 }
 
-.callout {
+.speech-bubble {
 	position: relative;
-	background-color: #f7f7f7;
-	border: 1px solid #ddd;
-	border-radius: 5px;
-	padding: 10px;
-	margin: 20px 0;
-	overflow: hidden;
-  }
-  
-  .callout::before {
-	content: "";
+	background: #ededed;
+	border-radius: .4em;
+}
+
+.speech-bubble:after {
+	content: '';
 	position: absolute;
-	top: 100%;
-	left: 10px;
-	border-width: 10px;
-	border-style: solid;
-	border-color: transparent transparent  #f7f7f7 transparent;
-	z-index: 1;
-  }
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 53px solid transparent;
+	border-right-color: #ededed;
+	border-left: 0;
+	border-bottom: 0;
+	margin-top: -26.5px;
+	margin-left: -53px;
+}
 
 
 // Lists Reset
