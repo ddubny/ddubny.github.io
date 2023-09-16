@@ -124,7 +124,10 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <br> 
 # <center> Personality <center> 
 
-
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true" width="70" height="70" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" width="70" height="70" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" width="70" height="70" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality4.jpg?raw=true" width="70" height="70" ></center> 
 
 <justify> 활동적인 성격 추진력있고 셀프 모티베이션이 활발한 스타일이라는 것을 돌려서 표현하기
 ( 취미 등산이나, 스피닝 등을 이용하여 )
