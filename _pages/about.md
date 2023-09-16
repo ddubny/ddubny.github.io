@@ -143,18 +143,18 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <br> <br>
 
-<h4> 🗣 Many hands make light work </h4>
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+<h4> 🗣 Many hands make light work. </h4>
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true"  style="height: auto; width: 80%;" ></center> 
 
 <br> 
 <h4> 🌐 Where there’s a will, there’s a way.  </h4>
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 80%;" ></center> 
 도전과 추진력 그리고 실행력, 다양한 문화에 대한 탐험 궁금증 
 
 
 <br> 
 <h4> 🔥 No pain No gain  </h4>
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  style="height: auto; width: 80%;" ></center> 
 역경과 회복탄력성 
 
 <justify> 활동적인 성격 추진력있고 셀프 모티베이션이 활발한 스타일이라는 것을 돌려서 표현하기
