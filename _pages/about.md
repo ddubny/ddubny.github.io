@@ -147,7 +147,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <p>
     <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-    <em>Running a program with student government members in Book festival</em>
+    <em>*Running a program with student government members in Book festival*</em>
 </p>
 
 <justify> In undergraduate school, I participated in at least 20 team activities. This has allowed me to meet a lot of different people. Some people are very motivated, but others don't want to spend a lot of time on team activities. Some people are very meticulous, while others are mistake-prone. It took a lot of experience and reflection for me to embrace this diversity. Therefore, I feel that the qualities needed as a leader are not to try to change them, but to show them how to work with their personality and personal circumstances. The important thing is to get them involved, so the team doesn't lose out. When I get a diverse group of people involved, it takes time to put the pieces together at first, but it can lead to creative and convergent thinking. Driving engagement in any situation is what I consider  <span style='background-color:#ffdce0'>leadership</span>.</justify>
