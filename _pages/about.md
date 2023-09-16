@@ -66,10 +66,27 @@ I haven't really decided on a specific research topic yet, but I'd like to do so
   </div>
 </div>
 
+<br>
+
 ▶ **Information Behavior** 
+
+<div class="notice--gray">
+  Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
+  <div class="blockquote">
+     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.
+  </div>
+</div>
   
-   
+<br>
+
 ▶ **Data Curation / Visualization**
+
+<div class="notice--gray">
+  Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
+  <div class="blockquote">
+     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.
+  </div>
+</div>
 
 * 각 분야별로 인상깊게 읽은 책이나 논문 참고 문헌으로 적기! ㅇ
 * 각 분야별로 연관된 히스토리(프로젝트) 적기 ! 없을 경우, 프로젝트 계획으로
@@ -124,19 +141,25 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <br> 
 # <center> Personality <center> 
 
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+<br> <br>
 
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
-
+<h4> 🗣 Many hands make light work </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+
+<br> 
+<h4> 🌐 Where there’s a will, there’s a way.  </h4>
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+도전과 추진력 그리고 실행력, 다양한 문화에 대한 탐험 궁금증 
+
+
+<br> 
+<h4> 🔥 No pain No gain  </h4>
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  height="400" style="width: 100%;" ></center> 
+역경과 회복탄력성 
 
 <justify> 활동적인 성격 추진력있고 셀프 모티베이션이 활발한 스타일이라는 것을 돌려서 표현하기
 ( 취미 등산이나, 스피닝 등을 이용하여 )
 하고 싶은 것이 있으면 끝까지 실행하려는 끈기가 있다. 한 한기에 공모전을 쉬지 않고, 4번 출전했는데 이때 4달간 하루에 3시간~4시간 가량만 휴식하면서도 버틸 수 있는 체력과 정신력이 있다..뭐 대충 이런식으로. </justify>
-
-
-
-
 
 
 <br> <br> <br> <br> 
