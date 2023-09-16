@@ -146,11 +146,11 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <h4> 🤝 Many hands make light work. </h4>
 
 <p>
-    <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-    <em>Running a program with student government members in Book festival</em>
+  <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
+  <em>Running a program with student government members in Book festival</em>
 </p>
 
-![](https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true){: .align-center}
+![](https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true){:: .align-center}
 *Running a program with student government members in Book festival*
 
 
@@ -164,8 +164,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <h4> 🔥  No pain No gain </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-<justify> "Nothing in this world is free". My dad used to say. What is easily gained is easy to lost, but what is hard gained is not easily lost. This is what I often think about when I'm going through a tough moment. 
-
+<justify> "Nothing in this world is free". My dad used to say. What is easily gained is easy to lost, but what is hard gained is not easily lost. This is what I often think about when I'm going through a tough moment.          
 
 <br> 
 
