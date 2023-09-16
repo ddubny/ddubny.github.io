@@ -109,7 +109,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3> Visiting thethe U.S. Library</h3>학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> UNLV engineering program </h3> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
+  <h3> UNLV engineering program  </h3> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
 </div>
 
 
@@ -123,6 +123,8 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <br> 
 # <center> Personality <center> 
+
+
 
 <justify> 활동적인 성격 추진력있고 셀프 모티베이션이 활발한 스타일이라는 것을 돌려서 표현하기
 ( 취미 등산이나, 스피닝 등을 이용하여 )
