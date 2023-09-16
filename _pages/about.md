@@ -146,21 +146,26 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <h4> 🤝 Many hands make light work. </h4>
 
 <p>
-  <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
+  <center><img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
   <em>Running a program with student government members in Book festival</em>
 </p>
+
+<figure style="text-align: center;">
+  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;">
+  <figcaption><em>Running a program with student government members in Book festival</em></figcaption>
+</figure>
 
 ![](https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true){:: .align-center}
 *Running a program with student government members in Book festival*
 
 
-<justify> In undergraduate school, I participated in at least 20 team activities. This has allowed me to meet a lot of different people. Some people are very motivated, but others don't want to spend a lot of time on team activities. Some people are very meticulous, while others are mistake-prone. It took a lot of experience and reflection for me to embrace this diversity. Therefore, I feel that the qualities needed as a leader are not to try to change them, but to show them how to work with their personality and personal circumstances. The important thing is to get them involved, so the team doesn't lose out. When I get a diverse group of people involved, it takes time to put the pieces together at first, but it can lead to creative and convergent thinking. Driving engagement in any situation is what I consider  <span style='background-color:#ffdce0'>leadership</span>.</justify>
+<justify> In undergraduate school, I participated in at least 20 team activities. This has allowed me to meet a lot of different people. Some people are very motivated, but others don't want to spend a lot of time on team activities. Some people are very meticulous, while others are mistake-prone. It took a lot of experience and reflection for me to embrace this diversity. Therefore, I feel that the qualities needed as a leader are not to try to change them, but to show them how to work with their personality and personal circumstances. The important thing is to get them involved, so the team doesn't lose out. When I get a diverse group of people involved, it takes time to put the pieces together at first, but it can lead to creative and convergent thinking. Driving engagement in any situation is what I consider  <span style='background-color:#ffdce0'>leadership</span>.</justify>.
 
 <br> 
 
 <h4> 🔥  No pain No gain </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-<justify> "Nothing in this world is free". My dad used to say. What is easily gained is easy to lost, but what is hard gained is not easily lost. This is what I often think about when I'm going through a tough moment.          
+<justify> "Nothing in this world is free". My dad used to say. What is easily gained is easy to lost, but what is hard gained is not easily lost. This is what I often think about when I'm going through a tough moment.           
 
 <br> 
 
@@ -171,8 +176,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 
 <justify> 활동적인 성격 추진력있고 셀프 모티베이션이 활발한 스타일이라는 것을 돌려서 표현하기
-( 취미 등산이나, 스피닝 등을 이용하여 )
-하고 싶은 것이 있으면 끝까지 실행하려는 끈기가 있다. 한 한기에 공모전을 쉬지 않고, 4번 출전했는데 이때 4달간 하루에 3시간~4시간 가량만 휴식하면서도 버틸 수 있는 체력과 정신력이 있다..뭐 대충 이런식으로. </justify>
+( 취미 등산이나, 스피닝 등을 이용하여 )하고 싶은 것이 있으면 끝까지 실행하려는 끈기가 있다. 한 한기에 공모전을 쉬지 않고, 4번 출전했는데 이때 4달간 하루에 3시간~4시간 가량만 휴식하면서도 버틸 수 있는 체력과 정신력이 있다..뭐 대충 이런식으로. </justify>
 
 
 <br> <br> <br> <br> 
