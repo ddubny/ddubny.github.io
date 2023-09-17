@@ -21,9 +21,9 @@ This lecture focused on extracting and utilizing information from text by using 
   
 ### Summary !! 
 
-🚩 Project title :  <b><u>Analysis of the influence of media on law changes in criminal cases</b></u>     
+🚩 Project title :  <strong><u>Analysis of the influence of media on law changes in criminal cases</strong></u>     
 <justify> 🚩 Purpose of the project : When a violent crime is publicized in the media, it often leads to legislative changes. In particular, South Koreans have a slang term for "🫖Pot Traits(냄비근성)", meaning that they are quick to heats up and cool down when the events occur. Our team wanted to understand how much of the public's reaction actually led to a change in the law, and we wanted to analyze the impact of the media, including the press.  </justify><br>
-<justify> 🚩 Research Method : For a total of <b>11 incidents</b>, we crawled news and social media textual information about each incident. Social media included <b>Twitter, YouTube comments, Naver blogs, and Korean community comment</b>, and we collected <b>online articles and article comments</b> together. </justify><br>
+<justify> 🚩 Research Method : For a total of <strong>11 incidents</strong>, we crawled news and social media textual information about each incident. Social media included <strong>Twitter, YouTube comments, Naver blogs, and Korean community comment</strong>, and we collected <strong>online articles and article comments</strong> together. </justify><br>
 
 ---
 
