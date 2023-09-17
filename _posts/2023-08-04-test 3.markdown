@@ -16,7 +16,7 @@ And it was still a great experience to me.
 
 
 <div class="notice--yellow">
-   <span style="font-size: 24px; color: blue; font-family: Arial;">
+   <span style="font-size: 18px; font-family: Open Sans;">
       💜 Notice !! 
       This project is suggested from my internship experience in Trost, Digital mental health company.  
    </span>
