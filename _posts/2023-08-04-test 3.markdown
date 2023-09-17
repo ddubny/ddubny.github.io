@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  [Database] Designing the Database for Knowlege based resources
-date:   2022-12-20 18:05:55 +0300
+title:  "[UNLV] Big-data Processing "
+date:   2023-08-01 18:05:55 +0300
 image:  post_5_0.png
-tags:   School_project 
+tags:   Research_Internship  
 ---
-
-
 
 <div class="notice--yellow">
    <span style="font-size: 24px; color: blue; font-family: Arial;">
