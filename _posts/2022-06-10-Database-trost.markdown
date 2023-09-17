@@ -78,8 +78,6 @@ And it was still a great experience to me.
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_3/post_3-27.png?raw=true" width="600" height="450"> </center>  
 
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_3/post_3-28.png?raw=true" width="600" height="450"> </center>  
-
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_3/post_3-29.png?raw=true" width="600" height="450"> </center>  
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_3/post_3-30.png?raw=true" width="600" height="450"> </center>  

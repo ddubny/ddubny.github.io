@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Text Informationn analytics - Analyzing the influence of media on law changes in criminal cases"
+title:  "Text Informationn analytics - Analysis of the influence of media on law changes in criminal cases"
 date:   2022-06-20 18:05:55 +0300
 image:  post_2-01.png
 tags:   School_Project 
@@ -8,18 +8,21 @@ tags:   School_Project
 
 <div class="notice--yellow">
    <span style="font-size: 18px; font-family: Open Sans;">
-      📢 Notice !!    
-      This project is suggested from my internship experience in Trost, Digital mental health company.  
+      📢 Notice !! <br>    
+      This is the result of a capstone project in the Text Information Analytics course (Text Mining) supervised by Professor H.J.Oh, Library and Information Science, JBNU.
    </span>
 </div>
 
+<br><br> 
 
-This project is designed for capstone project in Text Information Analytics course (Text Mining) supervised by Professor H.J.Oh ,Library and Information Science, JBNU.
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
-Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
-I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
-And it was still a great experience to me.     
+This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaning in a social context.    
+  
+### Summary !! 
 
+🚩 Project title : Analysis of the influence of media on law changes in criminal cases   
+🚩 Background of the project : 
+🚩 Purpose of the project :
+🚩 Text Mining & Analytics : koNLP > 
 
 ---
 
