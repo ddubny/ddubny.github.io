@@ -13,16 +13,17 @@ tags:   School_Project
    </span>
 </div>
 
-<br><br> 
+<br>  
 
-This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaning in a social context.    
+This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaning in a social context.   
+
+<br>
   
 ### Summary !! 
 
-🚩 Project title : Analysis of the influence of media on law changes in criminal cases   
-🚩 Background of the project : 
-🚩 Purpose of the project :
-🚩 Text Mining & Analytics : koNLP > 
+🚩 Project title : Analysis of the influence of media on law changes in criminal cases     
+🚩 Purpose of the project : When a violent crime is publicized in the media, it often leads to legislative changes. In particular, South Koreans have a slang term for "🫖Pot Traits(냄비근성)", meaning that they are quick to heats up and cool down when the events occur. Our team wanted to understand how much of the public's reaction actually led to a change in the law, and we wanted to analyze the impact of the media, including the press.   <br>
+🚩 Research Method : For a total of **11 incidents**, we crawled news and social media textual information about each incident. Social media included Twitter, YouTube comments, Naver blogs, and Korean community comments**, and we collected **online articles and article comments** together.  <br>
 
 ---
 
