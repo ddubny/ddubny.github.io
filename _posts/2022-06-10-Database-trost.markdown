@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[UNLV] Big-data Processing "
-date:   2023-08-01 18:05:55 +0300
-image:  post_5_0.png
-tags:   Research_Internship  
+title:  "Database - Designing the Database for Knowlege based resources"
+date:   2022-06-10 18:05:55 +0300
+image:  post_3-01.png
+tags:   School_Project  
 ---
 
 During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
