@@ -7,7 +7,7 @@ tags:   School_Project
 ---
 
 
-This project is created for school project in course, Data Driven Society supervised by J.W.Yoon, Library and Information Science, JBNU.   
+This project is  designed for school project in course, Data Driven Society supervised by Professor J.W.Yoon, Library and Information Science, JBNU.   
 
 This project is focused on the social use and the visualization of data.   
 

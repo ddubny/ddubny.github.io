@@ -1,11 +1,20 @@
 ---
 layout: post
-title:  "[UNLV] Big-data Processing "
+title:  "Text Informationn analytics - Analyzing the influence of media on law changes in criminal cases"
 date:   2022-06-20 18:05:55 +0300
 image:  post_2-01.png
-tags:   Research_Internship  
+tags:   School_Project 
 ---
 
+<div class="notice--yellow">
+   <span style="font-size: 18px; font-family: Open Sans;">
+      📢 Notice !!    
+      This project is suggested from my internship experience in Trost, Digital mental health company.  
+   </span>
+</div>
+
+
+This project is designed for capstone project in Text Information Analytics course (Text Mining) supervised by Professor H.J.Oh ,Library and Information Science, JBNU.
 During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
 Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
 I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
