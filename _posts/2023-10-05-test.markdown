@@ -14,5 +14,3 @@ tags:   School_project
       This project is suggested from my internship experience in Trost, Digital mental health company.  
    </span>
 </div>
-
-
