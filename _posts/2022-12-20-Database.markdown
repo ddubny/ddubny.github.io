@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Database] Designing the Database for Knowlege based resources"
+title:  Database] Designing the Database for Knowlege based resources
 date:   2022-12-20 18:05:55 +0300
 image:  post_5_0.png
 tags:   School_project   
