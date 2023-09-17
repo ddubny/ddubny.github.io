@@ -125,3 +125,6 @@ This is the data sheet we collected from the survey responded by 24 students.
 <center> <img src="/images/post_4/post_4-35.png" width="600" height="450"> </center>
 
 <center> <img src="/images/post_4/post_4-36.png" width="600" height="450"> </center>
+
+
+<br><br><br><br><br>
