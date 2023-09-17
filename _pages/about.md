@@ -32,6 +32,7 @@ permalink: /about/
 ---- 
 
 <br>
+
 # <center> Academic history </center> 
   
 
