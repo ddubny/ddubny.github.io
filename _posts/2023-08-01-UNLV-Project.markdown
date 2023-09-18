@@ -6,15 +6,19 @@ image:  post_5_0.png
 tags:   Research_Internship  
 ---
 
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
-Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
+
+<div class="notice--yellow">
+   <span style="font-size: 18px; font-family: Open Sans;">
+      📢 Notice !!    <br>
+      This project was done at UNLV, U.S., under the guidance of an computer science professor Kang.    
+   </span>
+</div>
+
+
+<justify> During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
+Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way.
 I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
-And it was still a great experience to me.     
-
-
-So Let me introduce my team's project in UNLV !! 
-
-*( note : you can click the image to zoom-in ~ )*
+And it was still a great experience to me. </justify>
 
 
 ---
