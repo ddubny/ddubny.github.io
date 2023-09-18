@@ -19,7 +19,7 @@ This lecture focused on extracting and utilizing information from text by using 
 
 <br>
   
-### <center> Summary information </center>
+### <center> Project Outline </center>
 
 🚩 Project title : <strong><u> Analysis of the influence of media on law changes in criminal cases </u></strong>     
 

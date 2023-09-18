@@ -1,24 +1,40 @@
 ---
 layout: post
-title:  Data Driven Society - Researching students' commute experiences
+title:  Data Driven Society - Research into students' commuting experiences
 date:   2023-06-25 15:01:35 +0300
 image:  post_4-01.png
 tags:   School_Project 
 ---
 
+<div class="notice--yellow">
+   <span style="font-size: 18px; font-family: Open Sans;">
+      📢 Notice !! <br>    
+      This project is  designed for school project in course, Data Driven Society supervised by Professor J.W.Yoon, Library and Information Science, JBNU
+   </span>
+</div>
 
-This project is  designed for school project in course, Data Driven Society supervised by Professor J.W.Yoon, Library and Information Science, JBNU.   
+<br>
 
-This project is focused on the social use and the visualization of data.   
-
+ 
+<justify>
+In this project, We focused on <strong>the social use and the visualization of data.</strong>
 I was the team leader of this project, and our team members including me are from the student government.
-When I was a vice-president in my department, I've often heard complaints about the commute environment.  
-Accordingly, Memories of that time led us to choose this topic !!     
+When I was a vice-president in my department, I've often heard complaints about the commute environment.
+Accordingly, Memories of that time led us to choose this topic !! </justify>     
+
+<br><br>
+
+### <center> Project Outline </center>
+
+🚩 Project title : <strong><u> Survey commuter students about their satisfaction with city buses  </u></strong>     
+
+🚩 Purpose of the project :<justify> Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.  </justify><br>
+
+🚩 Research Method : <justify> For a total of <strong>11 incidents</strong>, we crawled news and social media textual information about each incident. Social media included <strong>Twitter, YouTube comments, Naver blogs, and Korean community comment</strong>, and we collected <strong>online articles and article comments</strong> together. </justify><br>
 
 
 ---
-
-*( note : you can click the image to zoom-in ~ )*  
+<br><br>
    
 
 <center> <img src="/images/post_4/post_4-01.png" width="600" height="450"> </center>
