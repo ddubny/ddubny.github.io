@@ -1,5 +1,5 @@
 $columns: 12;
-$container-base-width: 1200px;
+$container-base-width: 1500px;
 $container-offset: $base-spacing-unit;
 
 $desktop: 992px;
@@ -129,5 +129,28 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
       }
     }
   }
+}
 
+@for $i from 0 through $columns {
+  .col-#{$i} {
+    width: percentage( $i / $columns );
+  }
+
+  @media(max-width: $desktop) {
+    .col-d-#{$i} {
+      width: percentage( $i / $columns );
+    }
+  }
+
+  @media(max-width: $tablet) {
+    .col-t-#{$i} {
+      width: percentage( $i / $columns );
+    }
+  }
+
+  @media(max-width: $mobile) {
+    .col-m-#{$i} {
+      width: percentage( $i / $columns );
+    }
+  }
 }
