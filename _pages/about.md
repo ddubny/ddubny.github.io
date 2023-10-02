@@ -96,7 +96,13 @@ My interests have been broad and varied.With experience, I hope to narrow my int
 # <center> Experience <center> 
 <br>
 
-I had a lot of diverse experiences in university, each of which led me to my current career path. 
+
+<div class="notice--yellow">
+   <span style="font-size: 18px; font-family: Open Sans;">
+      <h5> I had a lot of diverse experiences in university, each of which led me to my current career path. </h5>  
+   </span>
+</div>
+
 
 <br><br>
 
@@ -139,8 +145,14 @@ I had a lot of diverse experiences in university, each of which led me to my cur
   My latest experience, the Engineering Workshop Program at UNLV, provided me with the opportunity to strengthen my professional skills in information technology. In particular, I specialized in projects that utilized machine learning. I worked on a model development project to apply machine learning to big data via parallel processing, and I also learned image analysis and survival analysis using machine learning. <u> This experience has broadened the possibilities for me to apply various analytical methods in my research in computational social science.</u>
 </div>
 
+<br> <br> 
 
-<h5> This is the way I've come and why I decided to pursue the master's program in Library and Information science in the United States. </h5>
+<div class="notice--yellow">
+   <span style="font-size: 18px; font-family: Open Sans;">
+      <h5> This is the way I've come and why I decided to pursue the master's program in Library and Information science in the United States. </h5>   
+   </span>
+</div>
+
 
 
 ---- 
