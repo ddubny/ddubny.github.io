@@ -125,7 +125,7 @@ My interests have been broad and varied.With experience, I hope to narrow my int
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> computational social science </h3>
+  <h3> Computational social science </h3>
    As with my previous experience, I am curious about applying computational analysis methods to improve or understand social phenomenon. <u>Investigating social and behviroal interactions through social modeling and network analysis is the most interesting area.</u> In this regard, psychology is my domain knowledge and provides me with expertise in the interpretation of behavioral data. Also, by combining cognitive psychology combined with statistics, <u>I can make some pretty cool visualizations. </u>
 </div>
 
