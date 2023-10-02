@@ -15,11 +15,16 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   margin: 0 auto;
 }
 
-.container-full {
-  max-width: 100%;
-  padding-left: $container-offset;
-  padding-right: $container-offset;
-  margin: 0 auto;
+.container, .container-full {
+  max-width: $container-base-width;
+}
+
+@each $key, $val in $mq {
+  @media(max-width: #{$val}px) {
+    .container, .container-full {
+      max-width: 100%; 
+    }
+  }
 }
 
 .row {
@@ -131,26 +136,3 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   }
 }
 
-@for $i from 0 through $columns {
-  .col-#{$i} {
-    width: percentage( $i / $columns );
-  }
-
-  @media(max-width: $desktop) {
-    .col-d-#{$i} {
-      width: percentage( $i / $columns );
-    }
-  }
-
-  @media(max-width: $tablet) {
-    .col-t-#{$i} {
-      width: percentage( $i / $columns );
-    }
-  }
-
-  @media(max-width: $mobile) {
-    .col-m-#{$i} {
-      width: percentage( $i / $columns );
-    }
-  }
-}
