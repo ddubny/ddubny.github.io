@@ -163,7 +163,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <h4> 🔥  No pain No gain </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-<justify> After completing my term as Vice President, I went through a bit of a slump due to concern of career path.      
+<justify> After completing my term as a Vice President, I went through a bit of a slump due to concern of career path. In that moment, I needed to find a source of power to overcome. For this reason, I climbed Hallasan, the highest mountain in South Korea, once a week for a while. As I made my way to the top of the mountain, the cold and hunger I endured gave me a new appreciation for the value of not giving up!! I realized "I can try everything!!".     
 </justify>
 
 <br> 
