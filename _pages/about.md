@@ -95,11 +95,9 @@ My interests have been broad and varied.With experience, I hope to narrow my int
 <br> 
 # <center> Experience <center> 
 <br>
-
-
 I had a lot of diverse experiences over the years, each of which led me to my current career path. 
 
-<br><br>
+<br>
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
