@@ -25,7 +25,4 @@ permalink: /cv/
 <iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
 
 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
+<br> <br> <br> <br> 

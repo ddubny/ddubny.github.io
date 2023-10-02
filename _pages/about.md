@@ -56,14 +56,14 @@ It is a specialized career within informatics. It's about **gathering** the data
 ## <center> 🖋 Study Area </center>
 
 <br>
-I haven't really decided on a specific research topic yet, but I'd like to do something based on the following.   
+My interests have been broad and varied.With experience, I hope to narrow my interests to areas that I find more interesting.       
 
 ▶ **Computational Social Science**   
 
 <div class="notice--gray">
   Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
   <div class="blockquote">
-     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.
+     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.  
   </div>
 </div>
 
@@ -104,7 +104,9 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-   <h3>Student Government Representative</h3>학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
+   <h3>Student Government vice-president</h3>
+   My deep love for the major, Library and information science came from being a part of the student government. Because I had a sense of belonging. 
+   And to be able to explain the department to high school students visiting the college at the fair, I needed to know it well. As I was describing the direction of LIS and the fields it covers, I was naturally intrigued. In addition, this experience gave me the opportunity to communicate with a wide range of people. Especially, I spent a lot of time with my campaign partner. One day, my partner complained of psychological distress under the pressure. I wanted to help him, so I looked up various psychology books, and that's how I got interested in psychology. 
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -152,7 +154,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
   <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em>Running a program with student government members in Book festival</em></figcaption>
 </figure>
 
-<justify> In undergraduate school, I participated in at least 20 team activities. This has allowed me to meet a lot of different people. Some people are very motivated, but others don't want to spend a lot of time on team activities. Some people are very meticulous, while others are mistake-prone. It took a lot of experience and reflection for me to embrace this diversity. Therefore, I feel that the qualities needed as a leader are not to try to change them, but to show them how to work with their personality and personal circumstances. The important thing is to get them involved, so the team doesn't lose out. When I get a diverse group of people involved, it takes time to put the pieces together at first, but it can lead to creative and convergent thinking. Driving engagement in any situation is what I consider  <span style='background-color:#ffdce0'>leadership</span>.</justify>
+<justify> Last 4 years, I participated in at least 20 team activities. This has allowed me to meet a lot of different people. Some people are very motivated, but others don't want to spend a lot of time on team activities. Some people are very meticulous, while others are mistake-prone. It took a lot of experience and reflection for me to embrace this diversity. Therefore, I feel that the qualities needed as a leader are not to try to change them, but to show them how to work with their personality and personal circumstances. The important thing is to get them involved, so the team doesn't lose out. When I get a diverse group of people involved, it takes time to put the pieces together at first, but it can lead to creative and convergent thinking. Driving engagement in any situation is what I consider  <span style='background-color:#ffdce0'>leadership</span>.</justify>
 
 <br> 
 
