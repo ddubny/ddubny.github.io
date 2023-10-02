@@ -16,7 +16,8 @@ permalink: /cv/
 <center> Psychology (double major) </center>    
 <center> Statistics (minor) </center>    
 <br> 
-<center> I have been interested in computational social science and computers in human behavior,</center>    
+<center> I have been interested in computational social science </center>    
+<center>  and computers in human behavior, </center>  
 <center> or even information behavior with data visualization/ machine learning.</center>  
 <center> Currently, I have a newfound interest in misinformation and network analysis. </center> 
 &nbsp;            
