@@ -21,7 +21,7 @@ permalink: /cv/
 -----
 
 
-<embed src="CV.pdf" width="500" height="375" type="application/pdf">
+<embed src="file:///C:/Users/Samsung/ddubny.github.io/_pages/CV.pdf" width="500" height="375" type="application/pdf">
 
 
 # <span style="color:gray"> Project Experience </span> 
