@@ -21,8 +21,8 @@ permalink: /cv/
 -----
 
 
-<embed src="file:///C:/Users/Samsung/ddubny.github.io/_pages/CV.pdf" width="500" height="375" type="application/pdf">
-
+<iframe src="https://drive.google.com/file/d/17U2YXmwCUnqgOeYUK4vepntXgCilbn4f/preview" width="900" height="507" type="application/pdf">
+<iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
