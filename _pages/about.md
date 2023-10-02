@@ -105,8 +105,8 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
    <h3>Student Government vice-president</h3>
-   My deep love for the major, Library and information science came from being a part of the student government. Because I had a sense of belonging. 
-   And to be able to explain the department to high school students visiting the college at the fair, I needed to know it well. As I was describing the direction of LIS and the fields it covers, I was naturally intrigued. In addition, this experience gave me the opportunity to communicate with a wide range of people. Especially, I spent a lot of time with my campaign partner. One day, my partner complained of psychological distress under the pressure. I wanted to help him, so I looked up various psychology books, and that's how I got interested in psychology. 
+   <u> My deep love for the major, Library and information science, came from being a part of the student government. </u> Because I had a sense of belonging. 
+   And to be able to explain the department to high school students visiting the college at the fair, I needed to know it well. As I was describing the direction of LIS and the fields it covers, I was naturally intrigued. In addition, this experience gave me the opportunity to communicate with a wide range of people. Especially, I spent a lot of time with my campaign partner. One day, my partner complained of psychological distress under the pressure. I wanted to help him, so I looked up various psychology books, and <u> that's how I got interested in psychology. </u>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
