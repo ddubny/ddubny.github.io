@@ -1,5 +1,5 @@
 $columns: 12;
-$container-base-width: 1500px;
+$container-base-width: 1200px;
 $container-offset: $base-spacing-unit;
 
 $desktop: 992px;
@@ -15,16 +15,11 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   margin: 0 auto;
 }
 
-.container, .container-full {
-  max-width: $container-base-width;
-}
-
-@each $key, $val in $mq {
-  @media(max-width: #{$val}px) {
-    .container, .container-full {
-      max-width: 100%; 
-    }
-  }
+.container-full {
+  max-width: 100%;
+  padding-left: $container-offset;
+  padding-right: $container-offset;
+  margin: 0 auto;
 }
 
 .row {
@@ -134,5 +129,5 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
       }
     }
   }
-}
 
+}
