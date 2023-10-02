@@ -21,7 +21,7 @@ permalink: /cv/
 -----
 
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=CV.pdf" width="100%" height="600">
+<embed src="CV.pdf" width="500" height="375" type="application/pdf">
 
 
 # <span style="color:gray"> Project Experience </span> 
