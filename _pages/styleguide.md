@@ -23,7 +23,7 @@ permalink: /cv/
 
 -----
 
-<iframe src="https://drive.google.com/file/d/1KOlwTxi7PYQ1SmdkcHORjOZxQcafMtsk/preview" width="1000" height="1300" type="application/pdf">
+<iframe src="https://drive.google.com/file/d/1KOlwTxi7PYQ1SmdkcHORjOZxQcafMtsk/preview" width="100%"  type="application/pdf">
 <iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
 
 
