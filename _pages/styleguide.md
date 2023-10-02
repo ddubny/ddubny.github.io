@@ -17,14 +17,14 @@ permalink: /cv/
 <center> Statistics (minor) </center>    
 <br> 
 <center> I have been interested in computational social science </center>    
-<center>  and computers in human behavior, </center>  
+<center>  and computers in human behavior, </center> 
 <center> or even information behavior with data visualization/ machine learning.</center>  
 <center> Currently, I have a newfound interest in misinformation and network analysis. </center> 
 &nbsp;            
 
 -----
 
-<iframe src="https://drive.google.com/file/d/1KOlwTxi7PYQ1SmdkcHORjOZxQcafMtsk/preview" width="100%"  type="application/pdf">
+<iframe src="https://drive.google.com/file/d/1KOlwTxi7PYQ1SmdkcHORjOZxQcafMtsk/preview" width="800" height="1100" type="application/pdf">
 <iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
 
 
