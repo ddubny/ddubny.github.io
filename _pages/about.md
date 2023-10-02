@@ -97,12 +97,7 @@ My interests have been broad and varied.With experience, I hope to narrow my int
 <br>
 
 
-<div class="notice--yellow">
-   <span style="font-size: 18px; font-family: Open Sans;">
-      <h5> I had a lot of diverse experiences in university, each of which led me to my current career path. </h5>  
-   </span>
-</div>
-
+I had a lot of diverse experiences over the years, each of which led me to my current career path. 
 
 <br><br>
 
@@ -149,7 +144,7 @@ My interests have been broad and varied.With experience, I hope to narrow my int
 
 <div class="notice--yellow">
    <span style="font-size: 18px; font-family: Open Sans;">
-      <h5> This is the way I've come and why I decided to pursue the master's program in Library and Information science in the United States. </h5>   
+      <center> This is the way I've come and why I decided to pursue the master's program in Library and Information science in the United States.</center>
    </span>
 </div>
 
