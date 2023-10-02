@@ -122,7 +122,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
   <h3> Data driven society & computational social science </h3>
-  As with my previous experience, I am curious about applying computational analysis to improve or understand social phenomena. 
+   As with my previous experience, I am curious about applying computational analysis methods to improve or understand social phenomenon. <u>Investigating social and behviroal interactions through social modeling and network analysis is the most interesting area.</u> In this regard, psychology is my domain knowledge and provides me with expertise in the interpretation of behavioral data. Also, by combining cognitive psychology combined with statistics, <u>I can make some pretty cool visualizations. </u>
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -137,15 +137,9 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <div>
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> UNLV engineering program  </h3> 
+  <h3> UNLV engineering workshop  </h3> 
   My latest experience, the Engineering Workshop Program at UNLV, provided me with the opportunity to strengthen my professional skills in information technology. In particular, I specialized in projects that utilized machine learning. I worked on a model development project to apply machine learning to big data via parallel processing, and I also learned image analysis and survival analysis using machine learning. <u> This experience has broadened the possibilities for me to apply various analytical methods in my research in computational social science.</u>
 </div>
-
-
-- 학생회 경험 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결심 
-
-- 글로벌 원정대 , UNLV => 유학 결심 계기에 대해 설명하기 
-
 
 
 ---- 
