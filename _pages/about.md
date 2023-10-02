@@ -113,7 +113,8 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3>Digital Mental Health Service</h3>학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
+  <h3>Digital Mental Health Service</h3>
+  When I was worried about my partner's mental health issues, I was concerned about the stigmatization of accessing psychological services in Korea. That's why I thought a digital service where people can chat with an AI chatbot to solve mild mental problems would be nice. So, I interned at a startup company that provides digital mental health services, and at the same time, I conducted a meta-analysis of words with a psychological scale for emotion words. <u> Thus, I am passionate about using sentiment analysis in natural language processing to assess the emotional level of text.</u>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
