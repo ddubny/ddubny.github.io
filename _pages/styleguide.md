@@ -12,9 +12,9 @@ permalink: /cv/
 # <center> Subin Seo </center>  
   
 <center><strong> Bachelor student in JBNU, Jeonju, Korea </strong> </center>   
-<center> 1. Library and Information science     </center>    
-<center> 2. Psychology (double major)　　　 　</center>    
-<center> 3. Statistics (minor)　　　　　　　　  </center>    
+<center> Library and Information science </center>    
+<center> Psychology (double major) </center>    
+<center> Statistics (minor) </center>    
 <center> I'm interested in computational social science and computers in human behavior,</center>    
 <center> or even information behavior with data visualization/ machine learning.</center>    
 &nbsp;            

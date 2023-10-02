@@ -47,8 +47,8 @@ I currently use psychological knowlege to study **Computational social science**
 ◾ **Statistics**  
 Plus, statistics skill will help me design the research in terms of **data visualization**, **machine learning** and **Text mining**. 
 
-◾ **Data Curation**  
-It is a specialized career within informatics. It's about **gathering** the data what I need, **storytelling** it, and putting it into meaningful **visualizations**.    **Digital Curation**
+◾ **Data Curation** (Microdgree)  
+It is a specialized career within Library and Information science. **Digital Curation** and **Data storytelling** are parts of this degree. 
 
 
 <br><br>
