@@ -21,7 +21,7 @@ permalink: /cv/
 -----
 
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/ddubny/ddubny.github.io/blob/main/CV%20(2023.09).pdf" width="100%" height="600">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=file:///C:/Users/Samsung/ddubny.github.io/CV%20(2023.09).pdf" width="100%" height="600">
 
 
 # <span style="color:gray"> Project Experience </span> 
