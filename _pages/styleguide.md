@@ -15,8 +15,10 @@ permalink: /cv/
 <center> Library and Information science </center>    
 <center> Psychology (double major) </center>    
 <center> Statistics (minor) </center>    
-<center> I'm interested in computational social science and computers in human behavior,</center>    
-<center> or even information behavior with data visualization/ machine learning.</center>    
+<br> 
+<center> I have been interested in computational social science and computers in human behavior,</center>    
+<center> or even information behavior with data visualization/ machine learning.</center>  
+<center> Currently, I have a newfound interest in misinformation and network analysis. </center> 
 &nbsp;            
 
 -----
