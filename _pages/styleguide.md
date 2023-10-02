@@ -9,12 +9,12 @@ permalink: /cv/
 📱Phone contact : (+82)10-6282-4600 </div>     
 &nbsp;  
 
-# <center> SuBin Seo </center>  
+# <center> Subin Seo </center>  
   
 <center><strong> Bachelor student in JBNU, Jeonju, Korea </strong> </center>   
-<center> 1. Library and Information science  </center>    
+<center> 1. Library and Information science     </center>    
 <center> 2. Psychology (double major)　　　 　</center>    
-<center> 3. Statistics (minor)　　　　　　　　 </center>    
+<center> 3. Statistics (minor)　　　　　　　　  </center>    
 <center> I'm interested in computational social science and computers in human behavior,</center>    
 <center> or even information behavior with data visualization/ machine learning.</center>    
 &nbsp;            
