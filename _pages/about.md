@@ -89,8 +89,6 @@ My interests have been broad and varied.With experience, I hope to narrow my int
   </div>
 </div>
 
-* 각 분야별로 인상깊게 읽은 책이나 논문 참고 문헌으로 적기! ㅇ
-* 각 분야별로 연관된 히스토리(프로젝트) 적기 ! 없을 경우, 프로젝트 계획으로
 
 ---- 
 
