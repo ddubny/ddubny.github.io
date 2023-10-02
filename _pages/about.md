@@ -105,8 +105,8 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
    <h3>Student Government vice-president</h3>
-   <u> My deep love for the major, Library and information science, came from being a part of the student government. </u> Because I had a sense of belonging. 
-   And to be able to explain the department to high school students visiting the college at the fair, I needed to know it well. As I was describing the direction of LIS and the fields it covers, I was naturally intrigued. In addition, this experience gave me the opportunity to communicate with a wide range of people. Especially, I spent a lot of time with my campaign partner. One day, my partner complained of psychological distress under the pressure. I wanted to help him, so I looked up various psychology books, and <u> that's how I got interested in psychology. </u>  
+   <justify> <u> My deep love for the major, Library and information science, came from being a part of the student government. </u> Because I had a sense of belonging. 
+   And to be able to explain the department to high school students visiting the college at the fair, I needed to know it well. As I was describing the direction of LIS and the fields it covers, I was naturally intrigued. In addition, this experience gave me the opportunity to communicate with a wide range of people. Especially, I spent a lot of time with my campaign partner. One day, my partner complained of psychological distress under the pressure. I wanted to help him, so I looked up various psychology books, and <u> that's how I got interested in psychology. </u></justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -114,14 +114,15 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3>Digital Mental Health Service</h3>
-  When I was worried about my partner's mental health issues, I was concerned about the stigmatization of accessing psychological services in Korea. That's why I thought a digital service where people can chat with an AI chatbot to solve mild mental problems would be nice. So, I interned at a startup company that provides digital mental health services, and at the same time, I conducted a meta-analysis of words with a psychological scale for emotion words. <u> Thus, I am passionate about using sentiment analysis in natural language processing to assess the emotional level of text.</u>  
+  <justify> When I was worried about my partner's mental health issues, I was concerned about the stigmatization of accessing psychological services in Korea. That's why I thought a digital service where people can chat with an AI chatbot to solve mild mental problems would be nice. So, I interned at a startup company that provides digital mental health services, and at the same time, I conducted a meta-analysis of words with a psychological scale for emotion words. <u> Thus, I am passionate about using sentiment analysis in natural language processing to assess the emotional level of text.</u></justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3>Data driven society & analytics </h3>학생회 경험 -> 심리학 전공 관심 쓰고 싶은 글을 쓰는곳~~~생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결생회 경험 -> 심리학 전공 관심 -> 디지털 심리 서비스 관심 -> 디지털 서비스 관심 -> 다양한 기업 공모전 참여 및 캡스톤 참여 -> 미국 도서관 방문 , unlv , 미국 융합 학문 대우 -> 유학 결
+  <h3> Data driven society & analytics </h3>
+  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -129,7 +130,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3> Visiting thethe U.S. Library</h3>
-  My full-fledged interests in library began when I traveled to United states Libraries. I have visited lots of public libraries in Los Angeles, including the LA Central Library, and some university libraries like UCLA or Standford. In particular, the university libraries in US gave me a fresh shock. Compared to Korean students, American seemed to regard the library as a real source of knowledge and an active space. Especially, in the case of the UNLV library, I experienced the library as a user rather than a visitor. I was free to discuss with my team members at open spaces in the library and even allowed to eat a drink or snack. For this reason, I am interested in the US library system and culture, wondering what makes such a big difference between the library culture in Korea and America.
+  <justify> My full-fledged interests in library began when I traveled to United states Libraries. I have visited lots of public libraries in Los Angeles, including the LA Central Library, and some university libraries like UCLA or Standford. In particular, the university libraries in US gave me a fresh shock. Compared to Korean students, American seemed to regard the library as a real source of knowledge and an active space. Especially, in the case of the UNLV library, I experienced the library as a user rather than a visitor. I was free to discuss with my team members at open spaces in the library and even allowed to eat a drink or snack. For this reason, I am interested in the US library system and culture, wondering what makes such a big difference between the library culture in Korea and America. </justify>
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
