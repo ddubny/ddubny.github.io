@@ -111,7 +111,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3>Digital Mental Health Service</h3>
+  <h3>Cyberpsychology</h3>
   <justify> When I was worried about my partner's mental health issues, I was concerned about the stigmatization of accessing psychological services in Korea. That's why I thought a digital service where people can chat with an AI chatbot to solve mild mental problems would be nice. So, I interned at a startup company that provides digital mental health services, and at the same time, I conducted a meta-analysis of words with a psychological scale for emotion words. <u> Thus, I am passionate about using sentiment analysis in natural language processing to assess the emotional level of text.</u></justify>  
 </div>
 
@@ -119,7 +119,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Data driven society & computational social science </h3>
+  <h3> computational social science </h3>
    As with my previous experience, I am curious about applying computational analysis methods to improve or understand social phenomenon. <u>Investigating social and behviroal interactions through social modeling and network analysis is the most interesting area.</u> In this regard, psychology is my domain knowledge and provides me with expertise in the interpretation of behavioral data. Also, by combining cognitive psychology combined with statistics, <u>I can make some pretty cool visualizations. </u>
 </div>
 
@@ -127,7 +127,7 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3> Visiting thethe U.S. Library</h3>
+  <h3> Visiting the U.S. Library</h3>
   <justify> My full-fledged interests in library began when I traveled to United states Libraries. I have visited lots of public libraries in Los Angeles, including the LA Central Library, and some university libraries like UCLA or Standford. In particular, the university libraries in US gave me a fresh shock. Compared to Korean students, American seemed to regard the library as a real source of knowledge and an active space. For this reason, I am interested in the US library system and culture, wondering what makes such a big difference. </justify>
 </div>
 
@@ -138,6 +138,9 @@ I had a lot of diverse experiences in university, each of which led me to my cur
   <h3> UNLV engineering workshop  </h3> 
   My latest experience, the Engineering Workshop Program at UNLV, provided me with the opportunity to strengthen my professional skills in information technology. In particular, I specialized in projects that utilized machine learning. I worked on a model development project to apply machine learning to big data via parallel processing, and I also learned image analysis and survival analysis using machine learning. <u> This experience has broadened the possibilities for me to apply various analytical methods in my research in computational social science.</u>
 </div>
+
+
+<h5> This is the way I've come and why I decided to pursue the master's program in Library and Information science in the United States. </h5>
 
 
 ---- 
