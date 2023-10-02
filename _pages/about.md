@@ -128,10 +128,10 @@ I had a lot of diverse experiences in university, each of which led me to my cur
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3> Visiting thethe U.S. Library</h3>
-  <justify> My full-fledged interests in library began when I traveled to United states Libraries. I have visited lots of public libraries in Los Angeles, including the LA Central Library, and some university libraries like UCLA or Standford. In particular, the university libraries in US gave me a fresh shock. Compared to Korean students, American seemed to regard the library as a real source of knowledge and an active space. Especially, in the case of the UNLV library, I experienced the library as a user rather than a visitor. I was free to discuss with m?y team members at open spaces in the library and even allowed to eat a drink or snack. For this reason, I am interested in the US library system and culture, wondering what makes such a big difference between the library culture in Korea and America. </justify>
+  <justify> My full-fledged interests in library began when I traveled to United states Libraries. I have visited lots of public libraries in Los Angeles, including the LA Central Library, and some university libraries like UCLA or Standford. In particular, the university libraries in US gave me a fresh shock. Compared to Korean students, American seemed to regard the library as a real source of knowledge and an active space. For this reason, I am interested in the US library system and culture, wondering what makes such a big difference. </justify>
 </div>
 
--\\<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
 
 <div>
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
