@@ -15,9 +15,14 @@ permalink: /cv/
 <center><strong> 1. Library and Information science</strong> </center>    
 <center><strong> 2. Psychology　　　　　　　　　</strong> </center>    
 <center><strong> 3. Statistics　　　　　　　　　　</strong> </center>    
+
 &nbsp;            
 
 -----
+
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/ddubny/ddubny.github.io/blob/main/CV%20(2023.09).pdf" width="100%" height="600">
+
 
 # <span style="color:gray"> Project Experience </span> 
 ### <span style="background-color:#ffdce0"> Data Intelligence & Curation </span>
