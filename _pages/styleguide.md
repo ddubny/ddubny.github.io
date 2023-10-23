@@ -3,8 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<div style="background-color: #F5F5F5">
- ✉️ Email contact : <u> subin99seo@gmail.com </u><br></div>   
+ 
 &nbsp;  
 
 # <center> Subin Seo </center>  
