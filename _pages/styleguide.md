@@ -24,8 +24,7 @@ permalink: /cv/
 
 -----
 
-<iframe src="https://drive.google.com/file/d/1KOlwTxi7PYQ1SmdkcHORjOZxQcafMtsk/preview" width="760" height="1000" type="application/pdf">
+<iframe src="https://drive.google.com/file/d/1USB02gCJIrQ3bS2vXog_g7_AYpbnJDmr/preview" width="760" height="1000" type="application/pdf">
 <iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
-
 
 <br> <br> <br> <br> 
