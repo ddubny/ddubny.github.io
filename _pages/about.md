@@ -55,40 +55,15 @@ It is a specialized career within Library and Information science. **Digital Cur
 
 ## <center> 🖋 Study Area </center>
 
-<br>
-My interests have been broad and varied.With experience, I hope to narrow my interests to areas that I find more interesting.       
+<br>  
 
 ▶ **Computational Social Science**   
 
-<div class="notice--gray">
-  Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
-  <div class="blockquote">
-     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.  
-  </div>
-</div>
-
-<br>
 
 ▶ **Information Behavior** 
 
-<div class="notice--gray">
-  Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
-  <div class="blockquote">
-     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.
-  </div>
-</div>
-  
-<br>
 
 ▶ **Data Curation / Visualization**
-
-<div class="notice--gray">
-  Within psychology, I am interested in social psychology, and I find it engaging to study the interactions between individuals and communities in various social situations. In most of study, the way to research social psychology begins with surveys. Of course, surveys allow me to identify independent variables more directly that affect the dependent variable, but they don't allow for exploratory analysis(EDA) and don't allow for getting large volumes of data. I want to leverage the information technology that I have and approach it by utilizing a variety of data. 
-  <div class="blockquote">
-     A Korean proverb says, "There's no smoke without fire" . However, with the prevalence of the internet and social media, I feel that this saying is no longer true.
-  </div>
-</div>
-
 
 ---- 
 
