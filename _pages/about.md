@@ -39,16 +39,16 @@ permalink: /about/
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 ◾ **Library and Information Science**    
-As a first Area of Interest, I am interested in **Misinformation** and **Network analysis**. 
+As a first Area of study, I am interested in **Information Behavior** and how information spreads and is shared in social **networks**.
 
 ◾ **Psychology**   
-I currently use psychological knowlege to study **Computational social science** and  **Computers in Human Behavior / information behavoir**.   
+I often use psychological knowlege to study **User experience** and analysis the human **behavior data.**    
 
 ◾ **Statistics**  
-Plus, statistics skill will help me design the research in terms of **data visualization**, **machine learning** and **Text mining**. 
+Plus, statistics skill will help me design the research and apply **Data visualization**, **Machine learning** and **Text mining** to my study. 
 
 ◾ **Data Curation** (Microdgree)  
-It is a specialized career within Library and Information science. **Digital Curation** and **Data storytelling** are parts of this degree. 
+It is a specialized career within Library and Information science, which includes **Digital Curation** and **Data storytelling** skills. 
 
 
 <br><br>
