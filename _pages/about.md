@@ -21,10 +21,12 @@ permalink: /about/
      <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Rebublic of Korea<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail : <u>subin99seo@gmail.com</u><br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　Bachelor of Arts in Library and Information Science and Psychology, minor in Statistics<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Interdisciplinary Approach</strong><br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>>Data Analysis Contest Award</strong><br
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Leadership Experience</strong><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in Library and Information Science<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in  Psychology<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　Minor in  Statistics<br>     
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Interdisciplinary Approach</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Data Analysis Contest Award</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Leadership Experience</strong><br>  
   </div>
 </div>
 
