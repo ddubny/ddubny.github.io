@@ -55,17 +55,24 @@ It is a specialized career within Library and Information science, which include
 
 <br><br>
 
-## <center> 🖋 Study Area </center>
+## <center> 🖋  Areas of Interest </center>
 
 <br>  
 
-▶ **Computational Social Science**   
+▶ **Information Behavior**   
 
+- Information behavior of individuals with low literacy levels ( mental illness, limited education, non-native language speakers, etc. )
+- Identify information behaviors that critically impact decision-making / problem-solving 
 
-▶ **Information Behavior** 
+▶ **User Experience & human-computer interaction** 
 
+- Emotional interaction between humans and computer 
+- Text based interaction between user and information systems 
 
-▶ **Data Curation / Visualization**
+▶ **Applying Machine Learnig(ML) & Natural language processing(NLP)**
+
+- Social media analysis
+- Classify and predict decision-making processes based on user behavior 
 
 ---- 
 
