@@ -6,7 +6,7 @@
 $base-spacing-unit: 20px;
 
 // Border radius
-$global-radius: 5px;
+$global-radius: 3px;
 
 // Transition
 $global-transition: all .35s;
@@ -48,12 +48,12 @@ $border-color: $light-gray;
 // *****************
 // Typography
 // *****************
-$base-font-size: 22px;
+$base-font-size: 20px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
 $base-font-family: 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
-$base-line-height: 35px;
+$base-line-height: 26px;
 
 // Headings
 $heading-font-weight: 700;
