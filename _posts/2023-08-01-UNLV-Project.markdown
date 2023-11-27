@@ -10,8 +10,7 @@ tags:   Data_analysis
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
-      This project was done at Universtiy of Nevada, Las Vegas, under the guidance of an Computer Science professor Kang.    
-   </span>
+      This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
 </div>
 
 <br>
@@ -19,9 +18,9 @@ tags:   Data_analysis
 
 
 <justify>  
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in United States to work on a Engineering project.
-Particularly, I engaged in Big-data processing project, coupled with Machine Learning method. 
-<span style='background-color:#fff5b1'>This is because I felt that the needs of Parallel Processing methods like MapReduce, when I had conducted <strong>Social media analysis</strong> with streaming data.</span>
+During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in the United States to work on an Engineering project.
+Particularly, I engaged in a Big-data processing project, coupled with a Machine Learning method. 
+<span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span>
  </justify>
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  User Experience & User study 
 date:   2023-06-25 15:01:35 +0300
 image:  post_4-01.png
-tags:   User study
+tags:   User_study
 ---
 
 <div class="notice--gray">
@@ -64,7 +64,7 @@ There were **3 Backgrounds** that led us to this message.
 
 1. Satisfaction with dispatch times by time
 
-2. satisfaction of Last Bus time depending on the region of residence
+2. satisfaction of Last Bus time depending on the region of residence  
 
 3. Satisfaction of services in bus
 
