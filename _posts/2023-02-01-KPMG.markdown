@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Contests] Proposing Digital service with NLP for KPMG"
+title:  "Natural Language Processing"
 date:   2023-02-01 18:05:55 +0300
 image:  post_1-01.png
 tags:   Data Utilization  
@@ -10,7 +10,7 @@ tags:   Data Utilization
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !! <br>    
-      This project is  designed for an independent project in course, Understanding Data Driven Society, supervised by Professor J.W.Yoon, Library and Information Science. 
+      This is designed for a project contest hosted by KPMG, Inc., using Natural Language Processing (NLP) to design a business support chatbot.  
    </span>
 </div>
 
