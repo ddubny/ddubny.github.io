@@ -9,7 +9,7 @@ tags:   Data Utilization
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !! <br>    
-      This project is  designed for an independent project in course, Text Information Analytics, supervised by Professor H.J.Oh, Library and Information Science. 
+      This project is designed for an independent project in the course, Text Information Analytics, supervised by Professor H.J.Oh, Library and Information Science. 
    </span>
 </div>
 

@@ -9,7 +9,7 @@ tags:   User_study
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !! <br>    
-      This project is  designed for an independent project in course, Understanding Data Driven Society, supervised by Professor J.W.Yoon, Library and Information Science. 
+      This project is  designed for an independent project in the course, Understanding Data Driven Society, supervised by Professor J.W.Yoon, Library and Information Science. 
    </span>
 </div>
 
@@ -43,7 +43,7 @@ Accordingly, Memories of that time led us to choose this topic !! </justify>
 
 <br><br>
    
-## A User Study on the Commuting Environment 
+### A User Study on the Commuting Environment 
 
 <br>
 <center> <img src="/images/post_4/post_4-01.png" width="600" height="450"> </center>
