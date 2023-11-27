@@ -9,10 +9,7 @@ permalink: /cv/
 # <center> Subin Seo </center>  
   
 <center><strong> Bachelor in Jeonbuk National University, Jeonju, Korea </strong> </center>   
-<center>subin99seo@gmail.com </center>   
-<center> Library and Information science </center>    
-<center> Psychology (double major) </center>    
-<center> Statistics (minor) </center>    
+<center>subin99seo@gmail.com </center>     
 <br> 
 <center> I have been interested in Information Behaviors</center>    
 <center> and human-computer (information system) interaction </center> 
