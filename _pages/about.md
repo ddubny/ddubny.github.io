@@ -41,21 +41,23 @@ permalink: /about/
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 ◾ **Library and Information Science**    
-As a first Area of study, I am interested in **Information Behavior** and how information spreads and is shared in social **networks**.
+As a first Area of study, I am interested in **Information Behavior** and how information behavior affects **decision-making and problem-solving.**
 
-◾ **Psychology**   
-I often use psychological knowlege to study **User experience** and analysis the human **behavior data.**    
+◾ **Psychology**    
+Through my studies in Psychology, I have gained an understanding of human minds and cognition, which aids in researching **User experience (UX)**.
 
 ◾ **Statistics**  
-Plus, statistics skill will help me design the research and apply **Data visualization**, **Machine learning** and **Text mining** to my study. 
+To enhance data-driven research, I studied analytical technologies like **Natural Language Processing, Machine Learning, and Big-data processing.**    
 
 ◾ **Data Curation** (Microdgree)  
-It is a specialized career within Library and Information science, which includes **Digital Curation** and **Data storytelling** skills. 
+While my education spanned Statistics and Computer engineering,    
+my primary interest lies not in developing machine learning algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
 
+=> My ultimate goal is to use these competencies to study users’ behaviors and contribute to **sociotechnical solutions for user-centric information systems.** 
 
 <br><br>
 
-## <center> 🖋  Areas of Interest </center>
+## <center> 🖋 Areas of Interest </center>
 
 <br>  
 
@@ -69,7 +71,7 @@ It is a specialized career within Library and Information science, which include
 - Emotional interaction between humans and computer 
 - Text based interaction between user and information systems 
 
-▶ **Applying Machine Learnig(ML) & Natural language processing(NLP)**
+▶ **Applying Machine Learnig (ML) & Natural language processing (NLP)**
 
 - Social media analysis
 - Classify and predict decision-making processes based on user behavior 
