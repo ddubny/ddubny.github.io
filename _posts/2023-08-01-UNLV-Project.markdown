@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big-data Processing "
+title:  "Big-data Processing & Machine Learning"
 date:   2023-08-01 18:05:55 +0300
 image:  post_5_0.png
 tags:   Data_analysis   
