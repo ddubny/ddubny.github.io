@@ -33,9 +33,10 @@ Particularly, I engaged in Big-data processing project, coupled with Machine Lea
 <center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
 <center> <img src="/images/post_5/post_5-04.png" width="600" height="450"> </center>
 
-We used this [data][data] from Kaggle, it was composed of user factors and their final states whether a user was at risk of defaulting on a bank loan.    
-And it was literally "Big-data", becasue it contains **252,000 rows**!! About Two hundred fifty thousand !!!    
-So we had to use a Parallel Processing method called "MapReduce" to process big data efficiently and quickly.   
+We used this [data][data] from Kaggle, it was composed of user factors and their final states whether a user was at risk of defaulting on a bank loan.   
+
+-> it was literally "Big-data", becasue it contains **252,000 rows**!!
+-> Must to use a Parallel Processing method called "MapReduce" 
 
 **BUT !! In this project, Data was not a matter, it was chosen for its SIZE to practice applying MapReduce!!**
 
