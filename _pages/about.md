@@ -96,7 +96,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3>Internship</h3>
-  <justify> I worked as a business intern at Trost, a startup offering digital mental health services. <u>There, I identified a critical need: people living with mental illnesses often face significant challenges in seeking and interpreting information.</u> This is because mental health conditions can impact cognitive functions such as attention and decision-making, which are crucial for information literacy. Recognizing these challenges, I became passionate about designing accessible information systems for those struggling with low literacy.</justify>  
+  <justify> I worked as a business intern at Trost, a startup offering digital mental health services. <u>There, I identified a critical need: people living with mental illnesses often face significant challenges in seeking and interpreting information.</u> Recognizing these challenges, I became passionate about designing accessible information systems for those struggling with low literacy.</justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -112,7 +112,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3> Visiting the U.S. Library</h3>
-  <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries, including LA Central Library. This experience revealed the dynamic, community-centric role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences, significantly influencing my LIS perspective and aspirations.</u> </justify>
+  <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries, including LA Central Library. This experience revealed the community support role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences. </justify>
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -127,7 +127,8 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div class="notice--yellow">
    <span style="font-size: 18px; font-family: Open Sans;">
-      <center> This is the way I've come and why I decided to pursue the master's program in Library and Information science in the United States.</center>
+      <center> This is the way I've come.   
+      Where will be the next destination ?? </center>
    </span>
 </div>
 
