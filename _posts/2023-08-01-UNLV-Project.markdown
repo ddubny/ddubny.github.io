@@ -3,7 +3,7 @@ layout: post
 title:  "Big-data Processing "
 date:   2023-08-01 18:05:55 +0300
 image:  post_5_0.png
-tags:   Data analysis   
+tags:   Data_analysis   
 ---
 
 
@@ -33,9 +33,9 @@ Particularly, I engaged in Big-data processing project, coupled with Machine Lea
 <center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
 <center> <img src="/images/post_5/post_5-04.png" width="600" height="450"> </center>
 
-We used this [data][data] from Kaggle, it was about determining whether a user was at risk of defaulting on a bank loan.    
+We used this [data][data] from Kaggle, it was composed of user factors and their final states whether a user was at risk of defaulting on a bank loan.    
 And it was literally "Big-data", becasue it contains **252,000 rows**!! About Two hundred fifty thousand !!!    
-So we had to use a method called "MapReduce" to process big data efficiently and quickly.   
+So we had to use a Parallel Processing method called "MapReduce" to process big data efficiently and quickly.   
 
 **BUT !! In this project, Data was not a matter, it was chosen for its SIZE to practice applying MapReduce!!**
 
@@ -52,30 +52,23 @@ And then we **"reduced"** the data size by summing the mapped data.
 This is how MapReduce works. 
 
 <center> <img src="/images/post_5/post_5-05.png" width="600" height="450"> </center>
-
-We tried 2 ways to implement MapReduce with Python Multiprocessing and Pyspark.   
-
 <center> <img src="/images/post_5/post_5-06.png" width="600" height="450"> </center>
 <center> <img src="/images/post_5/post_5-07.png" width="600" height="450"> </center>
 
-Multiprocessing allows you to create separate processes for different tasks and parallelize them to get faster with CPU.  
 
 <center> <img src="/images/post_5/post_5-08.png" width="600" height="450"> </center>
    
-Pool object is a way to pre-create a specified number of processes and run tasks on top of them.  
+ 
 
 <center> <img src="/images/post_5/post_5-09.png" width="600" height="450"> </center>
 
-We used **Linear Regression** as a <span style='background-color:#ffdce0'>Machine Learning method</span> to predict the loan defaulter. This is why the OLS formula was applied to the mapping process. We calclutate the gradients in this process. 
+We used **Linear Regression** as a <span style='background-color:#ffdce0'>Machine Learning method</span> to predict the loan defaulter. This is why the Ordinary least squares formula was applied to the mapping process. We calclutate the gradients in this process. 
 
 <center> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
 
 And then, we chose one of entire gradients and multiplied by learning rate in reduce process. 
 
 <center> <img src="/images/post_5/post_5-11.png" width="600" height="450"> </center>
-
-We compared processing on the local machine to processing on the server provided by UNLV.   
-Not surprisingly, the multiprocessing I ran on the server was faster. 
 
 <center> <img src="/images/post_5/post_5-12.png" width="600" height="450"></center>
   
@@ -102,14 +95,5 @@ Not surprisingly, the multiprocessing I ran on the server was faster.
 
 <center> <img src="/images/post_5/post_5-27.png" width="600" height="450"> <img src="/images/post_5/post_5-28.png" width="600" height="450"></center>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [data]: https://github.com/ddubny/UNLV_engineering
