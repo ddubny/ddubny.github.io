@@ -103,7 +103,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Awards in Data Utilization Contest </h3>
+  <h3> Awards in Data utilization contest</h3>
    After learning data analysis through statistics, I participated in 6 competitions, winning awards in 3 of them. My involvement in real-world projects has sharpened my skills in applying machine learning, natural language processing, and big data processing techniques to extract bright insights from raw data. I plan to continue leveraging these technical skills in my future research. 
 </div>
 
