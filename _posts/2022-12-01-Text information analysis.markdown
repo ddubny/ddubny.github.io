@@ -33,8 +33,8 @@ When a violent crime is publicized in the media, it often leads to legislative c
 🚩 Research Method:  <br>
 - For a total of 11 incidents, we crawled news and social media textual information about each incident. <br>
    (Including Twitter, YouTube comments, Naver blogs, and Korean community comments and article comments) <br>
-- Natural Language Processing -> LDA Topic Modeling, Sentiment Analysis
-- Machine Learning -> Principal component analysis (PCA)
+- **Natural Language Processing** -> LDA Topic Modeling, Sentiment Analysis
+- **Machine Learning** -> Principal component analysis (PCA)
 
 
 ---
