@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "User behavior in social media"
-date:   2022-06-20 18:05:55 +0300
+date:   2022-12-01 18:05:55 +0300
 image:  post_2-01.png
 tags:   Data Utilization 
 ---
