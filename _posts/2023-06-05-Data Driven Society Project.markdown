@@ -32,9 +32,9 @@ Accordingly, Memories of that time led us to choose this topic !! </justify>
       Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.   
  
 🚩 Project points ! :  
-      - Designing **survey** about user satisfication and service usability. 
-      - **Data curation** and **Data visualization** to show the result in an effective way.
-      -  Deriving **pratical improvments** from **pain points** (Pragmatic intervention)
+      - Designing **survey** about user satisfication and service usability.    
+      - **Data curation** and **Data visualization** to show the result in an effective way.  
+      -  Deriving **pratical improvments** from **pain points** (Pragmatic intervention)   
 
 ---
 
