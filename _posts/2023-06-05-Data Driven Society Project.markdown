@@ -26,17 +26,23 @@ Accordingly, Memories of that time led us to choose this topic !! </justify>
 
 ### <center> Project Outline </center>
 
-🚩 Project title : <strong><u> Survey commuter students about their satisfaction with city buses  </u></strong>     
+🚩 Project title : <strong><u> A User Study on City Bus Usage in the Commuting Environment by Students of Jeonbuk National University </u></strong>     
 
-🚩 Purpose of the project :<justify> Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.  </justify><br>
-
-🚩 Research Method : <justify> For a total of <strong>11 incidents</strong>, we crawled news and social media textual information about each incident. Social media included <strong>Twitter, YouTube comments, Naver blogs, and Korean community comment</strong>, and we collected <strong>online articles and article comments</strong> together. </justify><br>
-
+🚩 Purpose of the project :   
+      Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.   
+ 
+🚩 Project points ! :  
+      - Designing **survey** about user satisfication and service usability. 
+      - **Data curation** and **Data visualization** to show the result in an effective way.
+      -  Deriving **pratical improvments** from **pain points** (Pragmatic intervention)
 
 ---
+
 <br><br>
    
+## A User Study on City Bus Usage in the Commuting Environment by Students of Jeonbuk National University
 
+<br>
 <center> <img src="/images/post_4/post_4-01.png" width="600" height="450"> </center>
 
 <center> <img src="/images/post_4/post_4-02.png" width="600" height="450"> </center>

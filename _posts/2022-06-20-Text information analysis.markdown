@@ -6,10 +6,10 @@ image:  post_2-01.png
 tags:   Data Utilization 
 ---
 
-<div class="notice--yellow">
+<div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !! <br>    
-      This is the result of a capstone project in the Text Information Analytics course (Text Mining) supervised by Professor H.J.Oh, Library and Information Science, JBNU.
+      This project is  designed for an independent project in course, Text Information Analytics, supervised by Professor H.J.Oh, Library and Information Science. 
    </span>
 </div>
 
