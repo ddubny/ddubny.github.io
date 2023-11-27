@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Text Informationn analytics - Analysis of the influence of media on law changes in criminal cases"
+title:  "User behavior in social media"
 date:   2022-06-20 18:05:55 +0300
 image:  post_2-01.png
 tags:   Data Utilization 
@@ -16,6 +16,7 @@ tags:   Data Utilization
 <br>
 <br>
 <br>  
+Text Informationn analytics - Analysis of the influence of media on law changes in criminal cases
 
 This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaning in a social context.   
 
