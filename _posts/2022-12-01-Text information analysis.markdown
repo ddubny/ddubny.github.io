@@ -3,7 +3,7 @@ layout: post
 title:  "User behavior in social media"
 date:   2022-12-01 18:05:55 +0300
 image:  post_2-01.png
-tags:   Data_Utilization 
+tags:   Data_curation 
 ---
 
 <div class="notice--gray">

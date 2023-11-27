@@ -3,7 +3,7 @@ layout: post
 title:  "Database"
 date:   2022-11-25 18:05:55 +0300
 image:  post_3-01.png
-tags:   School_Project  
+tags:   Data_curation  
 ---
 
 <div class="notice--gray">

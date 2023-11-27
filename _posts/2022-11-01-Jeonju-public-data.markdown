@@ -3,7 +3,7 @@ layout: post
 title:  "User modeling for community health"
 date:   2022-11-01 18:05:55 +0300
 image:  post_7_0.png
-tags:   Data_analysis   
+tags:   Data_curation   
 ---
 
 
