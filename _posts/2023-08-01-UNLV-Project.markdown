@@ -35,10 +35,11 @@ Particularly, I engaged in Big-data processing project, coupled with Machine Lea
 
 We used this [data][data] from Kaggle, it was composed of user factors and their final states whether a user was at risk of defaulting on a bank loan.   
 
--> it was literally "Big-data", becasue it contains **252,000 rows**!!
--> Must to use a Parallel Processing method called "MapReduce" 
+- It was literally "Big-data", becasue it contains **252,000 rows**!!  
+- Must to use a Parallel Processing method called "MapReduce"   
 
-**BUT !! In this project, Data was not a matter, it was chosen for its SIZE to practice applying MapReduce!!**
+**BUT !! In this project, Data was not a matter,**  
+**it was chosen for its SIZE to practice applying MapReduce!!**
 
 <center> <img src="/images/post_5/post_5-02.png" width="600" height="450"> <img src="/images/post_5/post_5-03.png" width="600" height="450"> </center>
 
@@ -66,8 +67,6 @@ This is how MapReduce works.
 We used **Linear Regression** as a <span style='background-color:#ffdce0'>Machine Learning method</span> to predict the loan defaulter. This is why the Ordinary least squares formula was applied to the mapping process. We calclutate the gradients in this process. 
 
 <center> <img src="/images/post_5/post_5-10.png" width="600" height="450"></center>
-
-And then, we chose one of entire gradients and multiplied by learning rate in reduce process. 
 
 <center> <img src="/images/post_5/post_5-11.png" width="600" height="450"> </center>
 
