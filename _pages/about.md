@@ -103,7 +103,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Award in Data Utilization Contest </h3>
+  <h3> Awards in Data Utilization Contest </h3>
    After learning data analysis through statistics, I participated in 6 competitions, winning awards in 3 of them. My involvement in real-world projects has sharpened my skills in applying machine learning, natural language processing, and big data processing techniques to extract bright insights from raw data. I plan to continue leveraging these technical skills in my future research. 
 </div>
 
@@ -119,16 +119,15 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div>
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> UNLV engineering workshop  </h3> 
-  My latest experience, the Engineering Workshop Program at UNLV, provided me with the opportunity to strengthen my professional skills in information technology. In particular, I specialized in projects that utilized machine learning. I worked on a model development project to apply machine learning to big data via parallel processing, and I also learned image analysis and survival analysis using machine learning. <u> This experience has broadened the possibilities for me to apply various analytical methods in my research in computational social science.</u>
+  <h3> Engineering workshop  </h3> 
+  My latest experience, the Engineering Workshop Program at University Nevada, Las Vegas, provided me with the opportunity to strengthen my professional skills in information technology.
 </div>
 
 <br>  
 
 <div class="notice--yellow">
    <span style="font-size: 18px; font-family: Open Sans;">
-      <center> This is the way I've come.   
-      Where will be the next destination ?? </center>
+      <center> This is the way I've come. Where will be the next destination ?? </center>
    </span>
 </div>
 
@@ -162,7 +161,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <h4> 🍀 Where there’s a will, there’s a way.  </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  style="height: auto; width: 60%;" ></center> 
-<justify> I believe in the value of firsthand experience for informed decision-making, so I've always prioritized gaining practical experience in my career.These values have shaped me into a challenging person. So I may have more failures than others. Nevertheless, growth can be derived from even failed experiences. I'll try hard with motivation. </justify>
+<justify> I believe in the value of firsthand experience for informed decision-making, so I've always prioritized gaining practical experience in my career.These values have shaped me into a challenging person. So I may have more failures than others. Nevertheless, growth can be derived from even failed experiences. I'll continue to try hard with motivation. </justify>
 
 
 <br> <br> <br> <br> 
