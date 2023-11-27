@@ -24,11 +24,8 @@ Particularly, I engaged in a Big-data processing project, coupled with a Machine
 <span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span>
  </justify>
 
-
-
-
 ---
-## Scalable Data Processing with MapReduce 
+### Scalable Data Processing with MapReduce 
 
 <center> <img src="/images/post_5/post_5-01.png" width="600" height="450"> </center>
 <center> <img src="/images/post_5/post_5-04.png" width="600" height="450"> </center>

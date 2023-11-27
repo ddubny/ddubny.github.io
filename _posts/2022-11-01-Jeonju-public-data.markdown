@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Emotional Interaction between human and computer"
-date:   2022-08-10 18:05:55 +0300
+title:  "User modeling with public data"
+date:   2022-11-01 18:05:55 +0300
 image:  post_5_0.png
 tags:   Data_analysis   
 ---
