@@ -8,11 +8,11 @@ permalink: /cv/
 
 # <center> Subin Seo </center>  
   
-<center><strong> Bachelor in Jeonbuk National University, Jeonju, Korea </strong> </center>   
+<center> Bachelor in Jeonbuk National University, Jeonju, Korea </center>   
 <center>subin99seo@gmail.com </center>     
 <br> 
-<center> I have been interested in Information Behaviors</center>    
-<center> and human-computer (information system) interaction </center> 
+<center><strong> I have been interested in Information Behaviors </strong> </center>    
+<center><strong>  and human-computer (information system) interaction </strong></center> 
 <center> My Competencies for Data Analysis and understanding of human factors will help me study more extensively. </center>  
 &nbsp;            
 
