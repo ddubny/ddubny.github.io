@@ -15,8 +15,8 @@ permalink: /cv/
 <center> Statistics (minor) </center>    
 <br> 
 <center> I have been interested in Information Behaviors</center>    
-<center>  and Compuational Social Science. </center> 
-<center> My Competencies for Data Analysis and Curation will help me study more extensively. </center>  
+<center> and human-computer (information system) interaction </center> 
+<center> My Competencies for Data Analysis and understanding of human factors will help me study more extensively. </center>  
 &nbsp;            
 
 -----
