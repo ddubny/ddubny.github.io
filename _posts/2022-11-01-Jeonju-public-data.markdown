@@ -2,7 +2,7 @@
 layout: post
 title:  "User modeling with public data"
 date:   2022-11-01 18:05:55 +0300
-image:  post_5_0.png
+image:  post_7_0.png
 tags:   Data_analysis   
 ---
 
