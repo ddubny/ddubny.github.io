@@ -26,6 +26,9 @@ Accordingly, Memories of that time led us to choose this topic !! </justify>
 
 ### <center> Project Outline </center>
 
+<br>
+<br>
+
 🚩 Project title : <strong><u> A User Study on City Bus Usage in the Commuting Environment by Students of Jeonbuk National University </u></strong>     
 
 🚩 Purpose of the project :   
