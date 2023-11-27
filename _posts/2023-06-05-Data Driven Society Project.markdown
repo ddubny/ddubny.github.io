@@ -54,23 +54,9 @@ There were **3 Backgrounds** that led us to this message.
 
 <center> <img src="/images/post_4/post_4-03.png" width="600" height="450"> </center>  
 
-First of all, we showed the students' complains about the commute environment throgh the qualitative survey we received in advance.  
-
-< Students said !! >  
-- Difficult to get home at night due to <u>early last train times.</u>
-- There is no subway, so we <u>need more buses.</u> 
-- <u>The lack of direct routes</u> is inconvenient
-- <u>Too many people</u> and not enough buses during commute hours. 
-
 <center> <img src="/images/post_4/post_4-04.png" width="600" height="450"> </center>
-
-This is something that often comes up as a student government pledge, but we've seen very little improvement.   
   
 <center> <img src="/images/post_4/post_4-05.png" width="600" height="450"> </center>  
-
-Many students take the city bus. Almost 25% of students use buses to get to school !!  
-
-## Take a survey with commuters. 
 
 <center> <img src="/images/post_4/post_4-06.png" width="600" height="450"> </center>
 
@@ -78,11 +64,13 @@ Many students take the city bus. Almost 25% of students use buses to get to scho
 
 1. Satisfaction with dispatch times by time
 
-2. satisfaction of Last Bus time depending on the region of residence. 
+2. satisfaction of Last Bus time depending on the region of residence
 
-3. Satisfaction of services in bus.
+3. Satisfaction of services in bus
 
 *We surveyed students who commute to school using city buses over a six-day period from May 24 to 29, 2023.*
+
+## Take a survey 
 
 <center> <img src="/images/post_4/post_4-07.png" width="600" height="450"> </center>
 
