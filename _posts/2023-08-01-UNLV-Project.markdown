@@ -49,8 +49,7 @@ MapReduce is the way to dramatically increase the efficiency of processing large
 <center> <img src="/images/post_5/plus.jpeg" width="600" height="450"> </center>
 
 It is composed of "Map" and "Reduce" parts.  
-First, when it comes to **"Map"** part, we separated the data and mapped the data that can be paired together.   
-And then we **"reduced"** the data size by summing the mapped data.   
+First, when it comes to **"Map"** part, we separated the data and mapped the data that can be paired together. And then we **"reduced"** the data size by summing the mapped data.   
 This is how MapReduce works. 
 
 <center> <img src="/images/post_5/post_5-05.png" width="600" height="450"> </center>

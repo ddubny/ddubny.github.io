@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Data Driven Society - Research into students' commuting experiences
+title:  User Experience & User study 
 date:   2023-06-25 15:01:35 +0300
 image:  post_4-01.png
 tags:   User study
@@ -9,7 +9,7 @@ tags:   User study
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !! <br>    
-      This project is  designed for school project in course, Data Driven Society supervised by Professor J.W.Yoon, Library and Information Science, JBNU
+      This project is  designed for an independent project in course, Understanding Data Driven Society, supervised by Professor J.W.Yoon, Library and Information Science. 
    </span>
 </div>
 
