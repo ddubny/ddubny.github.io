@@ -11,7 +11,7 @@ tags:   Data_analysis
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
       This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
- </span>
+   </span>
 </div>
 
 <br>
@@ -24,8 +24,19 @@ Particularly, I engaged in a Big-data processing project, coupled with a Machine
 <span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span>
  </justify>
 
+<br>
+<br>
+### <center> Project Outline </center>
+<br>
+🚩 Project title : <strong><u> Designing the Database for Knowlege based resources</u></strong>     
 
-
+🚩 Purpose of the project :   
+      Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.   
+ 
+🚩 Project points ! :  
+      - Designing **survey** about user satisfication and service usability.    
+      - **Data curation** and **Data visualization** to show the result in an effective way.  
+      -  Deriving **pratical improvments** from **pain points** (Pragmatic intervention)   
 
 ---
 ## Scalable Data Processing with MapReduce 

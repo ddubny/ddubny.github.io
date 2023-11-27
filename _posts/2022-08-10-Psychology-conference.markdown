@@ -19,16 +19,28 @@ tags:   Data_analysis
 
 
 <justify>  
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in the United States to work on an Engineering project.
-Particularly, I engaged in a Big-data processing project, coupled with a Machine Learning method. 
-<span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span>
+At EmoLab (Affective Neuroscience Lab), I focused on text-based sentiment analysis for designing the information systems that could adeptly understand user's needs by grasping the subtleties of emotional expression. 
+During my research, I noticed a limitation in Korean sentiment analysis tools: their tendency to simply categorize emotions into positive or negative scales. This one-dimensional approach often overlooks the complexity of emotions like sadness and anger, both generally labeled as negative. Addressing this issue, I conducted a meta-study and created a two-dimensional tool, utilizing valence and arousal from affective psychology. This tool was presented at the 56th Annual Conference of the Korea Psychological Association. 
  </justify>
 
 
+<br>
+<br>
+### <center> Project Outline </center>
+<br>
+🚩 title : <strong><u>Meta – analysis study of emotional ratings in Korean words</u></strong>     
 
+🚩 Purpose of the project :   
+    Grasping the subtleties of emotional expression with two-dimensional emotional ratings.   
+ 
+🚩 Project points ! :  
+      - Emotional rating for Korean words - meta anlaysis
+      - Clustering anlysis   
 
 ---
-### Scalable Data Processing with MapReduce 
+
+---
+### Meta – analysis study of emotional ratings in Korean words
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-01.png?raw=true" width="600" height="450"> </center>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-02.png?raw=true" width="600" height="450"> </center>    
