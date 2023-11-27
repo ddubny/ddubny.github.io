@@ -104,7 +104,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
   <h3> Award in Data Utilization Contest </h3>
-   After learning data analysis through statistics, I integrated insights from Library and Information Science's data curation into my approach. Over the course of a year, I participated in six competitions, winning awards in three of them. My involvement in real-world projects has sharpened my skills in applying machine learning, natural language processing, and big data processing techniques to extract bright insights from raw data. I plan to continue leveraging these technical skills in my future research. </u>
+   After learning data analysis through statistics, I participated in 6 competitions, winning awards in 3 of them. My involvement in real-world projects has sharpened my skills in applying machine learning, natural language processing, and big data processing techniques to extract bright insights from raw data. I plan to continue leveraging these technical skills in my future research. 
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -112,7 +112,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3> Visiting the U.S. Library</h3>
-  <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries, including LA Central Library. This experience revealed the community support role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences. </justify>
+  <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries. This experience revealed the community support role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences. </justify>
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
