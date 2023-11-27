@@ -3,11 +3,11 @@ layout: post
 title:  "Big-data Processing "
 date:   2023-08-01 18:05:55 +0300
 image:  post_5_0.png
-tags:   Data Utilization   
+tags:   Data analysis   
 ---
 
 
-<div class="notice--yellow">
+<div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
       This project was done at Universtiy of Nevada, Las Vegas, under the guidance of an Computer Science professor Kang.    
@@ -37,7 +37,7 @@ We used this [data][data] from Kaggle, it was about determining whether a user w
 And it was literally "Big-data", becasue it contains **252,000 rows**!! About Two hundred fifty thousand !!!    
 So we had to use a method called "MapReduce" to process big data efficiently and quickly.   
 
-**BUT !! In this project, Data doesn't have a big meaning, it was chosen for its SIZE !!**
+**BUT !! In this project, Data was not a matter, it was chosen for its SIZE to practice applying MapReduce!!**
 
 <center> <img src="/images/post_5/post_5-02.png" width="600" height="450"> <img src="/images/post_5/post_5-03.png" width="600" height="450"> </center>
 
