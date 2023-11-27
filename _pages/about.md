@@ -120,7 +120,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div>
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
   <h3> Engineering workshop  </h3> 
-  My latest experience, the Engineering Workshop Program at the Universityof Nevada, Las Vegas, provided me with the opportunity to strengthen my professional skills in information technologies.
+  My latest experience, the Engineering Workshop Program at the University of Nevada, Las Vegas, provided me with the opportunity to strengthen my professional skills in information technologies.
 </div>
 
 <br>  

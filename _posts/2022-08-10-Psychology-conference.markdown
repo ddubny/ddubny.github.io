@@ -25,7 +25,7 @@ tags:   Data_analysis
 <br>
 ### <center> Project Outline </center> 
 <br>
-🚩 title : <strong><u>Meta – analysis study of emotional ratings in Korean words</u></strong>      
+🚩 title : Meta – analysis study of emotional ratings in Korean words   
 
 🚩 Purpose of the project :     
     Grasping the subtleties of emotional expression with two-dimensional emotional ratings.    
