@@ -19,23 +19,23 @@ tags:   Data_analysis
 
 
 <justify>  
-At EmoLab (Affective Neuroscience Lab), I focused on text-based sentiment analysis for designing the information systems that could adeptly understand user's needs by grasping the subtleties of emotional expression. 
+At EmoLab (Affective Neuroscience Lab), I focused on text-based sentiment analysis for designing information systems that could adeptly understand users' needs by grasping the subtleties of emotional expression. 
 During my research, I noticed a limitation in Korean sentiment analysis tools: their tendency to simply categorize emotions into positive or negative scales. This one-dimensional approach often overlooks the complexity of emotions like sadness and anger, both generally labeled as negative. Addressing this issue, I conducted a meta-study and created a two-dimensional tool, utilizing valence and arousal from affective psychology. This tool was presented at the 56th Annual Conference of the Korea Psychological Association. 
  </justify>
 
 
 <br>
 <br>
-### <center> Project Outline </center>
+### <center> Project Outline </center> 
 <br>
-🚩 title : <strong><u>Meta – analysis study of emotional ratings in Korean words</u></strong>     
+🚩 title : <strong><u>Meta – analysis study of emotional ratings in Korean words</u></strong>      
 
-🚩 Purpose of the project :   
-    Grasping the subtleties of emotional expression with two-dimensional emotional ratings.   
+🚩 Purpose of the project :     
+    Grasping the subtleties of emotional expression with two-dimensional emotional ratings.    
  
-🚩 Project points ! :  
-      - Emotional rating for Korean words - meta anlaysis
-      - Clustering anlysis   
+🚩 Project points ! :    
+      - Emotional rating for Korean words - meta anlaysis   
+      - Clustering anlysis     
 
 ---
 
