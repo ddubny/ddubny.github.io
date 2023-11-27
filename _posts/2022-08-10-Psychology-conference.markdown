@@ -29,13 +29,13 @@ Particularly, I engaged in a Big-data processing project, coupled with a Machine
 ---
 ### Scalable Data Processing with MapReduce 
 
-<center> <img src="/images/post_8/post_8_page-0001.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0002.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0003.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0004.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0005.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0006.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0007.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0008.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0009.jpg" width="600" height="450"> </center>
-<center> <img src="/images/post_8/post_8_page-0010.jpg" width="600" height="450"> </center>
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-01.png?raw=true" width="600" height="450"> </center>
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-02.png?raw=true" width="600" height="450"> </center>    
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-03.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-04.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-05.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-06.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-07.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-08.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-09.png?raw=true" width="600" height="450"> </center>  
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_8/post_8-10.png?raw=true" width="600" height="450"> </center> 
