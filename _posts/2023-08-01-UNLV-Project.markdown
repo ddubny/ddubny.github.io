@@ -21,7 +21,7 @@ tags:   Data analysis
 <justify>  
 During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in United States to work on a Engineering project.
 Particularly, I engaged in Big-data processing project, coupled with Machine Learning method. 
-This is because I felt that the needs of Parallel Processing methods like MapReduce, when I had conducted <strong>Social media analysis</strong> with streaming data. 
+<span style='background-color:#fff5b1'>This is because I felt that the needs of Parallel Processing methods like MapReduce, when I had conducted <strong>Social media analysis</strong> with streaming data.</span>
  </justify>
 
 
