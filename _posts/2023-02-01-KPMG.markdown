@@ -18,7 +18,7 @@ tags:   Data Utilization
 <br>
 <br>
 
-The project was designed to facilitate <span style='background-color:#fff5b1'>**user-centric information systems**</span>, aiming to streamline information retrieval for users, particularly new employees in need of support, and <u>to accelerate their onboarding process</u> within the organization. Our team aspired to develop an <span style='background-color:#fff5b1'>**AI chatbot**</span> to create an accessible information system. Given our goal to develop a prototype, we collaborated with computer engineering students, and I assumed the role of project manager to organize diverse perspective into our project. The project successfully reached the final round, and we were able to realize the implementation of the prototype. 
+The project was designed to facilitate <span style='background-color:#fff5b1'>**user-centric information systems**</span>, aiming to streamline information retrieval for users, particularly new employees in need of support, and <u>to accelerate their onboarding process(this is the reason why our project name is "boarding pass".)</u> within the organization. Our team aspired to develop an <span style='background-color:#fff5b1'>**AI chatbot**</span> to create an accessible information system. Given our goal to develop a prototype, we collaborated with computer engineering students, and I assumed the role of project manager to organize diverse perspective into our project. The project successfully reached the final round, and we were able to realize the implementation of the prototype. 
 
 
 ---
@@ -98,21 +98,6 @@ The project was designed to facilitate <span style='background-color:#fff5b1'>**
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_1/post_1-37.png?raw=true" width="600" height="450"> </center>  
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_1/post_1-38.png?raw=true" width="600" height="450"> </center>  
-
-
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[data]: https://github.com/ddubny/UNLV_engineering
 
 
 
