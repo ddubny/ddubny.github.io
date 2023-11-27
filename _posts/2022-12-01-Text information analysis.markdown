@@ -3,7 +3,7 @@ layout: post
 title:  "User behavior in social media"
 date:   2022-12-01 18:05:55 +0300
 image:  post_2-01.png
-tags:   Data Utilization 
+tags:   Data_Utilization 
 ---
 
 <div class="notice--gray">
@@ -16,9 +16,8 @@ tags:   Data Utilization
 <br>
 <br>
 <br>  
-Text Informationn analytics - Analysis of the influence of media on law changes in criminal cases
 
-This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaning in a social context.   
+This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaningful information behavior in social media. 
 
 <br>
 
@@ -26,11 +25,17 @@ This lecture focused on extracting and utilizing information from text by using 
   
 ### <center> Project Outline </center>
 
-🚩 Project title : <strong><u> Analysis of the influence of media on law changes in criminal cases </u></strong>     
+🚩 Project title: Analysis of the information behavior on social media about criminal cases      
 
-🚩 Purpose of the project :<justify> When a violent crime is publicized in the media, it often leads to legislative changes. In particular, South Koreans have a slang term for "Pot Traits(냄비근성)", meaning that they are quick to heats up and cool down when the events occur. Our team wanted to understand how much of the public's reaction actually led to a change in the law, and we wanted to analyze the impact of the media, including the press and social media.  </justify><br>
+🚩 Purpose of the project: <br>
+When a violent crime is publicized in the media, it often leads to legislative changes.  In particular, South Koreans have a slang term for "Pot Traits", meaning that they are quick to heat up and cool down when events occur. Our team wanted to understand how much of the users' behaviors led to a change in the law, and we wanted to analyze the impact of the media, including the press and social media.  <br>
 
-🚩 Research Method : <justify> For a total of <strong>11 incidents</strong>, we crawled news and social media textual information about each incident. Social media included <strong>Twitter, YouTube comments, Naver blogs, and Korean community comment</strong>, and we collected <strong>online articles and article comments</strong> together. </justify><br>
+🚩 Research Method:  <br>
+- For a total of 11 incidents, we crawled news and social media textual information about each incident. <br>
+   (Including Twitter, YouTube comments, Naver blogs, and Korean community comments and article comments) <br>
+- Natural Language Processing -> LDA Topic Modeling, Sentiment Analysis
+- Machine Learning -> Principal component analysis (PCA)
+
 
 ---
 
