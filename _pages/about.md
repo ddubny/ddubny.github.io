@@ -96,15 +96,15 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3>Internship</h3>
-  <justify> I worked as a business intern at Trost, a startup offering digital mental health services. There, I identified a critical need: people living with mental illnesses often face significant challenges in seeking and interpreting information. This is because mental health conditions can impact cognitive functions such as attention and decision-making, which are crucial for information literacy. Recognizing these challenges, I became passionate about designing accessible information systems for those struggling with low literacy. </u></justify>  
+  <justify> I worked as a business intern at Trost, a startup offering digital mental health services. <u>There, I identified a critical need: people living with mental illnesses often face significant challenges in seeking and interpreting information.</u> This is because mental health conditions can impact cognitive functions such as attention and decision-making, which are crucial for information literacy. Recognizing these challenges, I became passionate about designing accessible information systems for those struggling with low literacy.</justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Computational social science </h3>
-   As with my previous experience, I am curious about applying computational analysis methods to improve or understand social phenomenon. <u>Investigating social and behviroal interactions through social modeling and network analysis is the most interesting area.</u> In this regard, psychology is my domain knowledge and provides me with expertise in the interpretation of behavioral data. Also, by combining cognitive psychology combined with statistics, <u>I can make some pretty cool visualizations. </u>
+  <h3> Award in Data Utilization Contest </h3>
+   After learning data analysis through statistics, I integrated insights from Library and Information Science's data curation into my approach. Over the course of a year, I participated in six competitions, winning awards in three of them. My involvement in real-world projects has sharpened my skills in applying machine learning, natural language processing, and big data processing techniques to extract bright insights from raw data. I plan to continue leveraging these technical skills in my future research. </u>
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -112,7 +112,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3> Visiting the U.S. Library</h3>
-  <justify> My full-fledged interests in library began when I traveled to United states Libraries. I have visited lots of public libraries in Los Angeles, including the LA Central Library, and some university libraries like UCLA or Standford. In particular, the university libraries in US gave me a fresh shock. Compared to Korean students, American seemed to regard the library as a real source of knowledge and an active space. <u> For this reason, I am interested in the US library system and culture, wondering what makes such a big difference.</u> </justify>
+  <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries, including LA Central Library. This experience revealed the dynamic, community-centric role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences, significantly influencing my LIS perspective and aspirations.</u> </justify>
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
