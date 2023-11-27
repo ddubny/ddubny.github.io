@@ -3,7 +3,7 @@ layout: post
 title:  "Natural Language Processing"
 date:   2023-02-01 18:05:55 +0300
 image:  post_1-01.png
-tags:   Data Utilization  
+tags:   Data_Utilization  
 ---
 
 
@@ -18,7 +18,7 @@ tags:   Data Utilization
 <br>
 <br>
 
-The project was designed to facilitate <span style='background-color:#fff5b1'>**user-centric information systems**</span>, aiming to streamline information retrieval for users, particularly new employees in need of support, and <u>to accelerate their onboarding process(this is the reason why our project name is "boarding pass".)</u> within the organization. Our team aspired to develop an <span style='background-color:#fff5b1'>**AI chatbot**</span> to create an accessible information system. Given our goal to develop a prototype, we collaborated with computer engineering students, and I assumed the role of project manager to organize diverse perspective into our project. The project successfully reached the final round, and we were able to realize the implementation of the prototype. 
+The project was designed to facilitate <span style='background-color:#fff5b1'>**user-centric information systems**</span>, aiming to streamline information retrieval for users, particularly new employees in need of support, and <u>to accelerate their onboarding process(this is the reason why our project name is "boarding pass".)</u> within the organization. Our team aspired to develop an <span style='background-color:#fff5b1'>**AI chatbot**</span> to create an accessible information system. Given our goal to develop a prototype, we collaborated with computer engineering students, and I assumed the role of <span style='background-color:#f5f0ff'>project manager</span> to organize diverse perspective into our project. The project successfully reached the final round, and we were able to realize the implementation of the prototype. 
 
 
 ---
