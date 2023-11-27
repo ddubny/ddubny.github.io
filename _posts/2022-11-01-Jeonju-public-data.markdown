@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Big-data Processing "
-date:   2023-08-01 18:05:55 +0300
+title:  "Emotional Interaction between human and computer"
+date:   2022-08-10 18:05:55 +0300
 image:  post_5_0.png
 tags:   Data_analysis   
 ---
@@ -11,7 +11,6 @@ tags:   Data_analysis
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
       This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
-   </span>
 </div>
 
 <br>
