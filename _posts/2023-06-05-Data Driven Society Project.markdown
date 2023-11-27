@@ -3,7 +3,7 @@ layout: post
 title:  Data Driven Society - Research into students' commuting experiences
 date:   2023-06-25 15:01:35 +0300
 image:  post_4-01.png
-tags:   School_Project 
+tags:   User study
 ---
 
 <div class="notice--yellow">

@@ -3,7 +3,7 @@ layout: post
 title:  "Text Informationn analytics - Analysis of the influence of media on law changes in criminal cases"
 date:   2022-06-20 18:05:55 +0300
 image:  post_2-01.png
-tags:   School_Project 
+tags:   Data Utilization 
 ---
 
 <div class="notice--yellow">

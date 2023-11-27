@@ -3,7 +3,7 @@ layout: post
 title:  "[Contests] Proposing Digital service with NLP for KPMG"
 date:   2023-02-01 18:05:55 +0300
 image:  post_1-01.png
-tags:   Honor and Award  
+tags:   Data Utilization  
 ---
 
 During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.

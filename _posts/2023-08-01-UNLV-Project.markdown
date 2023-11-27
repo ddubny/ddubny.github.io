@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  "[UNLV] Big-data Processing "
+title:  "Big-data Processing "
 date:   2023-08-01 18:05:55 +0300
 image:  post_5_0.png
-tags:   Research_Internship  
+tags:   Data Utilization   
 ---
 
 
 <div class="notice--yellow">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
-      This project was done at UNLV, U.S., under the guidance of an computer science professor Kang.    
+      This project was done at Universtiy of Nevada, Las Vegas, under the guidance of an Computer Science professor Kang.    
    </span>
 </div>
+
+<br>
+<br>
 
 
 <justify> During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
