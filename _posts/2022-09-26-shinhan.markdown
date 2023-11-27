@@ -11,6 +11,7 @@ tags:   Data_analysis
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
       This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
+   </span>
 </div>
 
 <br>
