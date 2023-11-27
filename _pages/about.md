@@ -50,10 +50,9 @@ Through my studies in Psychology, I have gained an understanding of human minds 
 To enhance data-driven research, I studied analytical technologies like **Natural Language Processing, Machine Learning, and Big-data processing.**    
 
 ◾ **Data Curation** (Microdgree)  
-While my education spanned Statistics and Computer engineering,    
-my primary interest lies not in developing machine learning algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
+While my education spanned Statistics and Computer engineering, my primary interest lies not in developing algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
 
-=> My ultimate goal is to use these competencies to study users’ behaviors and contribute to **sociotechnical solutions for user-centric information systems.** 
+=> My ultimate goal is to use these competencies **to study users’ behaviors** and contribute to **sociotechnical solutions for user-centric information systems.** 
 
 <br><br>
 
@@ -87,9 +86,8 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-   <h3>Student Government vice-president</h3>
-   <justify> <u> My deep love for the major, Library and information science, came from being a part of the student government. </u> Because I had a sense of belonging. 
-   And to be able to explain the department to high school students visiting the college at the fair, I needed to know it well. As I was describing the direction of LIS and the fields it covers, I was naturally intrigued. In addition, this experience gave me the opportunity to communicate with a wide range of people. Especially, I spent a lot of time with my campaign partner. One day, my partner complained of psychological distress under the pressure. I wanted to help him, so I looked up various psychology books, and <u> that's how I got interested in psychology. </u></justify>  
+   <h3>Vice-president of student council</h3>
+   <justify> My deep love for the major, Library and information science, came from being a part of the student government. Because I had a sense of belonging. </justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
@@ -149,7 +147,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
   <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em>Running a program with student government members in Book festival</em></figcaption>
 </figure>
 
-<justify> Last 4 years, I participated in at least 20 team activities. This has allowed me to meet a lot of different people. Some people are very motivated, but others are not. So, I feel that the qualities needed as a leader are not to try to change them, but to show them how to work with their personality and personal circumstances. The important thing is to get them involved, so the team doesn't lose out. When I get a diverse group of people involved, it takes time to put the pieces together at first, but it can lead to creative and convergent thinking. </justify>
+<justify> Over the last 2 years, participating in 20+ team activities has reinforced this for me. Embracing diverse viewpoints and leveraging each member's unique skills, I’ve learned the power of collective effort in overcoming challenges and achieving shared goals, enhancing my inclusive and collaborative leadership style. </justify>
 
 <br> 
 
@@ -162,7 +160,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <h4> 🍀 Where there’s a will, there’s a way.  </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  style="height: auto; width: 60%;" ></center> 
-<justify> I think it would be dangerous to make decisions about things I haven't experienced, so I've always emphasized experience when it comes to my career. These values have shaped me into a challenging person. So I may have more failures than others. Nevertheless, growth can be derived from even failed experiences. I'll definitely try hard with a motivation. </justify>
+<justify> I believe in the value of firsthand experience for informed decision-making, so I've always prioritized gaining practical experience in my career.These values have shaped me into a challenging person. So I may have more failures than others. Nevertheless, growth can be derived from even failed experiences. I'll try hard with motivation. </justify>
 
 
 <br> <br> <br> <br> 
