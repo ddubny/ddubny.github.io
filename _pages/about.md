@@ -19,7 +19,7 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶  Republic of Korea<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶   Republic of Korea<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail: <u>subin99seo@gmail.com</u><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in Library and Information Science<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in  Psychology<br>
