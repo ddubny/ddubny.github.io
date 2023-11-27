@@ -10,7 +10,7 @@ tags:   Data_curation
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
-      This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
+      This is designed for a project contest organized by the city of Jeonju,  proposing to address health disparities by using user modeling to target underprivileged populations.       
    </span>
 </div>
 

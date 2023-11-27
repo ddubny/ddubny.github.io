@@ -24,21 +24,6 @@ And it was still a great experience to me.
 
 <br><br>
 
-### <center> Project Outline </center>
-
-<br>
-<br>
-
-🚩 Project title : <strong><u> Designing the Database for Knowlege based resources</u></strong>     
-
-🚩 Purpose of the project :   
-      Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.   
- 
-🚩 Project points ! :  
-      - Designing **survey** about user satisfication and service usability.    
-      - **Data curation** and **Data visualization** to show the result in an effective way.  
-      -  Deriving **pratical improvments** from **pain points** (Pragmatic intervention)   
-
 ---
 
 

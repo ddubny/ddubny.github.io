@@ -9,8 +9,8 @@ tags:   Data_curation
 
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
-      📢 Notice !!    <br>
-      This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
+      📢 Notice !!    <br> 
+      This is designed for a project contest hosted by Shinhan Financial, Inc., using Data curation to help a business's decision-making by analyzing consumer data. 
    </span>
 </div>
 
