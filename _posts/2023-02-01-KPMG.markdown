@@ -22,7 +22,9 @@ The project was designed to facilitate <span style='background-color:#fff5b1'>**
 
 
 ---
-## Scalable Data Processing with MapReduce 
+## Development of Business Information Retrieval Chatbot System 
+
+<br>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_1/post_1-01.png?raw=true" width="600" height="450"> </center>  
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_1/post_1-02.png?raw=true" width="600" height="450"> </center>  
