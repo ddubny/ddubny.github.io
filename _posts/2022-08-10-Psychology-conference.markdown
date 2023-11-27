@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emotional Interaction between human and computer"
+title:  "Sentiment analysis tool"
 date:   2022-08-10 18:05:55 +0300
 image:  post_8_0.png
 tags:   Data_analysis   
