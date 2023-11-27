@@ -13,6 +13,8 @@ tags:   Data Utilization
    </span>
 </div>
 
+<br>
+<br>
 <br>  
 
 This lecture focused on extracting and utilizing information from text by using text mining and text analytics techniques. The professor helped us do it ourselves to propose and design the project, and the goal was to analyze the data to find meaning in a social context.   

@@ -6,15 +6,6 @@ image:  post_3-01.png
 tags:   School_Project  
 ---
 
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
-Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
-I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
-And it was still a great experience to me.     
-
-
----
-
-
 <div class="notice--yellow">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    
@@ -22,6 +13,17 @@ And it was still a great experience to me.
    </span>
 </div>
 
+<br>
+<br>
+<br>
+
+During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
+Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
+I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
+And it was still a great experience to me.     
+
+
+---
 
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_3/post_3-01.png?raw=true" width="600" height="450"> </center>  
