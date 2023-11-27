@@ -10,7 +10,7 @@ tags:   Data_analysis
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
-      This project was done at the University of Nevada, Las Vegas, under the guidance of Professor Kang in computer science.    
+      This reseach was presented at the 56th Annual Conference of the Korea Psychological Association, under the guidance of Professor Kim at EmoLab, Psychology.    
    </span>
 </div>
 
@@ -20,7 +20,7 @@ tags:   Data_analysis
 
 <justify>  
 At EmoLab (Affective Neuroscience Lab), I focused on text-based sentiment analysis for designing information systems that could adeptly understand users' needs by grasping the subtleties of emotional expression. 
-During my research, I noticed a limitation in Korean sentiment analysis tools: their tendency to simply categorize emotions into positive or negative scales. This one-dimensional approach often overlooks the complexity of emotions like sadness and anger, both generally labeled as negative. Addressing this issue, I conducted a meta-study and created a two-dimensional tool, utilizing valence and arousal from affective psychology. This tool was presented at the 56th Annual Conference of the Korea Psychological Association. 
+During my research, I noticed a limitation in Korean sentiment analysis tools: their tendency to simply categorize emotions into positive or negative scales. This one-dimensional approach often overlooks the complexity of emotions like sadness and anger, both generally labeled as negative. Addressing this issue, I conducted a meta-study and created a two-dimensional tool, utilizing valence and arousal from affective psychology. 
  </justify>
 
 
