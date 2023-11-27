@@ -87,15 +87,16 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
    <h3>Vice-president of student council</h3>
-   <justify> My deep love for the major, Library and information science, came from being a part of the student government. Because I had a sense of belonging. </justify>  
+   <justify>       
+    My deep love for the major, Library and information science, came from being a part of the student government. Because I had a sense of belonging. </justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3>Cyberpsychology</h3>
-  <justify> When I was worried about my partner's mental health issues, I was concerned about the stigmatization of accessing psychological services in Korea. That's why I thought a digital service where people can chat with an AI chatbot to solve mild mental problems would be nice. So, I interned at a startup company that provides digital mental health services, and at the same time, I conducted a meta-analysis of words with a psychological scale for emotion words. <u> Thus, I am passionate about using sentiment analysis in natural language processing to assess the emotional level of text.</u></justify>  
+  <h3>Internship</h3>
+  <justify> I worked as a business intern at Trost, a startup offering digital mental health services. There, I identified a critical need: people living with mental illnesses often face significant challenges in seeking and interpreting information. This is because mental health conditions can impact cognitive functions such as attention and decision-making, which are crucial for information literacy. Recognizing these challenges, I became passionate about designing accessible information systems for those struggling with low literacy. </u></justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
