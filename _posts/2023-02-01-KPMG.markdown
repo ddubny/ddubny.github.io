@@ -18,16 +18,7 @@ tags:   Data Utilization
 <br>
 <br>
 
-
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
-Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
-I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
-And it was still a great experience to me.     
-
-
-So Let me introduce my team's project in UNLV !! 
-
-*( note : you can click the image to zoom-in ~ )*
+The project was designed to facilitate user-centric information systems, aiming to streamline information retrieval for users, particularly new employees in need of support, and to accelerate their onboarding process within the organization. Our team aspired to develop an AI chatbot to create an accessible information system. Given our goal to develop a prototype, we collaborated with computer engineering students, and I assumed the role of project manager to organize diverse perspective into our project. The project successfully reached the final round, and we were able to realize the implementation of the prototype. 
 
 
 ---
