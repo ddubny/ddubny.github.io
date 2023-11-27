@@ -40,7 +40,7 @@ Accordingly, Memories of that time led us to choose this topic !! </justify>
 
 <br><br>
    
-## A User Study on City Bus Usage in the Commuting Environment by Students of Jeonbuk National University
+## A User Study on the Commuting Environment 
 
 <br>
 <center> <img src="/images/post_4/post_4-01.png" width="600" height="450"> </center>
