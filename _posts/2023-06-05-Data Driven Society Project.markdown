@@ -17,11 +17,7 @@ tags:   User_study
 
  
 <justify>
-In this project, We focused on <strong>the social use and the visualization of data.</strong>
-I was the team leader of this project, and our team members including me are from the student government.
-When I was a vice-president in my department, I've often heard complaints about the commute environment.
-Accordingly, Memories of that time led us to choose this topic !! </justify>     
-
+In this project, We focused on the social use and the visualization of data. I was the team leader of this project, and our team members including me are from the student government. When I was a vice president in my department, I often heard complaints about the commute environment. Accordingly, Memories of that time led us to choose this topic !!   </justify>
 <br><br>
 
 ### <center> Project Outline </center>
