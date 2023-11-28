@@ -17,11 +17,7 @@ tags:   Data_curation
 <br>
 <br>
 
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in Las Vegas to work on project under the guidance of a professor Kang.
-Professor Kang is from an engineering school, computer science department, so I was able to learn from him in a more technical way. 
-I initially proposed an interdisciplinary study in the social sciences like LIS, but my professor wanted me to focus on technology this summer, so I followed his direction.
-And it was still a great experience to me.     
-
+The purpose of this project is to virtually build a database for the company I worked for during my internship. The main goal is to create a database of the company's intellectual property (mental health services products), which are mainly available in the form of applications. 
 <br><br>
 
 ---
