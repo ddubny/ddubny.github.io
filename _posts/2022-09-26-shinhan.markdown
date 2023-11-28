@@ -27,12 +27,14 @@ tags:   Data_curation
 
 ### <center> Project Outline </center>
 
-🚩 Project title: New business proposals using consumer data       
+🚩 Project title: New business proposals with consumer data       
 
 🚩 Purpose of the project: <br>
-When a violent crime is publicized in the media, it often leads to legislative changes.  In particular, South Koreans have a slang term for "Pot Traits", meaning that they are quick to heat up and cool down when events occur. Our team wanted to understand how much of the users' behaviors led to a change in the law, and we wanted to analyze the impact of the media, including the press and social media.  <br>
+Using consumer data to make decisions about proposing new businesses. Through the big data of customers provided by Shinhan Card, we analyzed the consumption patterns of those customers and proposed a new consumption platform on the metaverse. 
 
-🚩 Research Method:  <br>
+🚩 Data:  <br>
+- Data about consumer using Shinhan card => **473,226 people** !! (Row) 
+- **7 Demographic data + 167 Consumption patterns data +  5 Financial credit data** (Column)
 - For a total of 11 incidents, we crawled news and social media textual information about each incident. <br>
    (Including Twitter, YouTube comments, Naver blogs, and Korean community comments and article comments) <br>
 - **Natural Language Processing** -> <span style='background-color:#fff5b1'>LDA Topic Modeling</span>, <span style='background-color:#fff5b1'>Sentiment Analysis</span>
@@ -41,12 +43,9 @@ When a violent crime is publicized in the media, it often leads to legislative c
 
 ---
 
-<br><br><br>
+<br><br>
 
-
-
----
-## New business proposals using consumer data
+## A business proposal with consumer data
 ### : Suggestions for building a lifestyle platform using the metaverse 
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_6/post_6-01.png?raw=true" width="600" height="450"> </center>
