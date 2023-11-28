@@ -30,8 +30,7 @@ Using consumer data to make decisions about proposing new businesses. Through th
 - **7 Demographic data + 167 Consumption patterns data +  5 Financial credit data** (Column)
 
 ---
-<br><br>
-
+<br>
 ## <center> A business proposal with consumer data </center>
 ### <center>: Suggestions for building a lifestyle platform using the metaverse </center>
 
