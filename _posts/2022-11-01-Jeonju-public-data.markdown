@@ -38,8 +38,7 @@ Jeonju, the city where I attend school, is located approximately two and a half 
       -  Deriving **pratical improvments** from **user modeling** (Pragmatic intervention)   
 
 ---
-## Modeling user behavior in case of emergency
-## : to improve the community healthcare systems  
+### Modeling user behavior in case of emergency
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_7/post_7-01.png?raw=true" width="600" height="450"> </center>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_7/post_7-02.png?raw=true" width="600" height="450"> </center>    
