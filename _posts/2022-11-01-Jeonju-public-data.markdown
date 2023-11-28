@@ -34,7 +34,8 @@ Jeonju, the city where I attend school, is located approximately two and a half 
  
 🚩 Project points ! :  
       - Using various Public data about health systems in Jeonju city     
-      - **Data visualization** to show the result in an effective way. => **Spatial analysis**, **Text mining**
+      - **Data visualization** to show the result in an effective way. <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => **Spatial analysis**, **Text mining**
       -  Deriving **pratical improvments** from **user modeling** (Pragmatic intervention)   
 
 ---
