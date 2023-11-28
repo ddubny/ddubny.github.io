@@ -35,11 +35,7 @@ Using consumer data to make decisions about proposing new businesses. Through th
 🚩 Data:  <br>
 - Data about consumer using Shinhan card => **473,226 people** !! (Row) 
 - **7 Demographic data + 167 Consumption patterns data +  5 Financial credit data** (Column)
-- For a total of 11 incidents, we crawled news and social media textual information about each incident. <br>
-   (Including Twitter, YouTube comments, Naver blogs, and Korean community comments and article comments) <br>
-- **Natural Language Processing** -> <span style='background-color:#fff5b1'>LDA Topic Modeling</span>, <span style='background-color:#fff5b1'>Sentiment Analysis</span>
-- **Machine Learning** -> <span style='background-color:#fff5b1'>Principal component analysis (PCA)</span>
-
+- **Data visualization** -> <span style='background-color:#fff5b1'>LDA Topic Modeling</span>, <span style='background-color:#fff5b1'>Sentiment Analysis</span>
 
 ---
 
