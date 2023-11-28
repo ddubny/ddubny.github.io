@@ -10,22 +10,21 @@ tags:   Data_curation
 <div class="notice--gray">
    <span style="font-size: 18px; font-family: Open Sans;">
       📢 Notice !!    <br>
-      This is designed for a project contest organized by the city of Jeonju,  proposing to address health disparities by using user modeling to target underprivileged populations.       
+      This is designed for a project contest organized by the city of Jeonju,  proposing to address health disparities by using user modeling to target underprivileged populations. <br>
+      🏆 Public Data Analysis Hackathon in JeonJu - Encouragement Award      
    </span>
 </div>
 
 <br>
 <br>
 
-
 <justify>  
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in the United States to work on an Engineering project.
-Particularly, I engaged in a Big-data processing project, coupled with a Machine Learning method. 
-<span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span>
- </justify>
+Jeonju, the city where I attend school, is located approximately two and a half hours from Seoul, the capital, by car. Consequently, in emergencies requiring immediate medical attention, one must seek treatment at a hospital in the city. Our team created models of user behavior in emergency situations and analyzed the data to visualize the decisions people might make under such circumstances. This analysis enabled us to identify and address healthcare challenges in Jeonju, leading to the development of practical solutions. </justify>
 
 <br>
-<br>
+
+---
+
 ### <center> Project Outline </center>
 <br>
 🚩 Project title : <strong><u> Designing the Database for Knowlege based resources</u></strong>     
