@@ -16,19 +16,11 @@ tags:   Data_curation
 </div>
 
 <br>
-<br>
 
-
-<justify>  During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in the United States to work on an Engineering project. Particularly, I engaged in a Big-data processing project, coupled with a Machine Learning method. <span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span></justify>
-
-<br>
-<br>
-
----
 
 ### <center> Project Outline </center>
 
-🚩 Project title: New business proposals with consumer data       
+🚩 Project title: **<u>New business proposals with consumer data</u>**       
 
 🚩 Purpose of the project: <br>
 Using consumer data to make decisions about proposing new businesses. Through the big data of customers provided by Shinhan Card, we analyzed the consumption patterns of those customers and proposed a new consumption platform on the metaverse. 
@@ -36,7 +28,6 @@ Using consumer data to make decisions about proposing new businesses. Through th
 🚩 Data:  <br>
 - Data about consumer using Shinhan card => **473,226 people** !! (Row) 
 - **7 Demographic data + 167 Consumption patterns data +  5 Financial credit data** (Column)
-- **Data visualization** -> <span style='background-color:#fff5b1'>LDA Topic Modeling</span>, <span style='background-color:#fff5b1'>Sentiment Analysis</span>
 
 ---
 <br><br>
