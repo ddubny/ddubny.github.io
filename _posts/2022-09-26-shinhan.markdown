@@ -24,6 +24,7 @@ tags:   Data_curation
 <br>
 <br>
 
+---
 
 ### <center> Project Outline </center>
 
@@ -38,11 +39,10 @@ Using consumer data to make decisions about proposing new businesses. Through th
 - **Data visualization** -> <span style='background-color:#fff5b1'>LDA Topic Modeling</span>, <span style='background-color:#fff5b1'>Sentiment Analysis</span>
 
 ---
-
 <br><br>
 
-## A business proposal with consumer data
-### : Suggestions for building a lifestyle platform using the metaverse 
+## <center> A business proposal with consumer data </center>
+### <center>: Suggestions for building a lifestyle platform using the metaverse </center>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_6/post_6-01.png?raw=true" width="600" height="450"> </center>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_6/post_6-02.png?raw=true" width="600" height="450"> </center>    
