@@ -27,18 +27,19 @@ Jeonju, the city where I attend school, is located approximately two and a half 
 
 ### <center> Project Outline </center>
 <br>
-🚩 Project title : <strong><u> Designing the Database for Knowlege based resources</u></strong>     
+🚩 Project title : <strong><u> Modeling user behavior in case of emergency</u></strong>     
 
-🚩 Purpose of the project :   
-      Raise the issue of commuting, which has become a major source of frustration among students, and seek solutions.   
+🚩 Purpose of the project : <br>  
+      To improve the community healthcare systems  
  
 🚩 Project points ! :  
-      - Designing **survey** about user satisfication and service usability.    
-      - **Data curation** and **Data visualization** to show the result in an effective way.  
-      -  Deriving **pratical improvments** from **pain points** (Pragmatic intervention)   
+      - Using various Public data about health systems in Jeonju city     
+      - **Data visualization** to show the result in an effective way. => **Spatial analysis**
+      -  Deriving **pratical improvments** from **user modeling** (Pragmatic intervention)   
 
 ---
-## Scalable Data Processing with MapReduce 
+## Modeling user behavior in case of emergency
+## : to improve the community healthcare systems  
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_7/post_7-01.png?raw=true" width="600" height="450"> </center>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_7/post_7-02.png?raw=true" width="600" height="450"> </center>    
