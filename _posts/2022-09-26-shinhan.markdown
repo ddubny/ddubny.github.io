@@ -18,17 +18,35 @@ tags:   Data_curation
 <br>
 
 
-<justify>  
-During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in the United States to work on an Engineering project.
-Particularly, I engaged in a Big-data processing project, coupled with a Machine Learning method. 
-<span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span>
- </justify>
+<justify>  During my summer vacation in 2023, I visited to UNLV(University of Nevada, Las Vegas) in the United States to work on an Engineering project. Particularly, I engaged in a Big-data processing project, coupled with a Machine Learning method. <span style='background-color:#fff5b1'>This is because I felt the need for Parallel Processing methods like MapReduce when I conducted <strong>Social media analysis</strong> with streaming data.</span></justify>
 
+<br>
+<br>
+
+
+### <center> Project Outline </center>
+
+🚩 Project title: New business proposals using consumer data       
+
+🚩 Purpose of the project: <br>
+When a violent crime is publicized in the media, it often leads to legislative changes.  In particular, South Koreans have a slang term for "Pot Traits", meaning that they are quick to heat up and cool down when events occur. Our team wanted to understand how much of the users' behaviors led to a change in the law, and we wanted to analyze the impact of the media, including the press and social media.  <br>
+
+🚩 Research Method:  <br>
+- For a total of 11 incidents, we crawled news and social media textual information about each incident. <br>
+   (Including Twitter, YouTube comments, Naver blogs, and Korean community comments and article comments) <br>
+- **Natural Language Processing** -> <span style='background-color:#fff5b1'>LDA Topic Modeling</span>, <span style='background-color:#fff5b1'>Sentiment Analysis</span>
+- **Machine Learning** -> <span style='background-color:#fff5b1'>Principal component analysis (PCA)</span>
+
+
+---
+
+<br><br><br>
 
 
 
 ---
-## Scalable Data Processing with MapReduce 
+## New business proposals using consumer data
+### : Suggestions for building a lifestyle platform using the metaverse 
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_6/post_6-01.png?raw=true" width="600" height="450"> </center>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/post_6/post_6-02.png?raw=true" width="600" height="450"> </center>    

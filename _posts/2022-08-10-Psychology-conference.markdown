@@ -18,7 +18,7 @@ tags:   Human_factors
 <br>
 
 
-<justify> At EmoLab (Affective Neuroscience Lab), I focused on text-based sentiment analysis for designing information systems that could adeptly understand users' needs by grasping the subtleties of emotional expression. During my research, I noticed a limitation in Korean sentiment analysis tools: their tendency to simply categorize emotions into positive or negative scales. This one-dimensional approach often overlooks the complexity of emotions like sadness and anger, both generally labeled as negative. Addressing this issue, I conducted a meta-study and created a two-dimensional tool, utilizing valence and arousal from affective psychology. </justify>
+<justify>At EmoLab (Affective Neuroscience Lab), I focused on text-based sentiment analysis for designing information systems that could adeptly understand users' needs by grasping the subtleties of emotional expression. During my research, I noticed a limitation in Korean sentiment analysis tools: their tendency to simply categorize emotions into positive or negative scales. This one-dimensional approach often overlooks the complexity of emotions like sadness and anger, both generally labeled as negative. Addressing this issue, I conducted a meta-study and created a two-dimensional tool, utilizing valence and arousal from affective psychology.</justify>
 
 
 <br>
@@ -32,7 +32,7 @@ tags:   Human_factors
  
 🚩 Project points ! :    
       - Emotional rating for Korean words - meta anlaysis   
-      - Clustering anlysis     
+      - Clustering analysis     
 
 ---
 
