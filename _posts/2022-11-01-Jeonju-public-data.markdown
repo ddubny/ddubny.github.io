@@ -29,8 +29,7 @@ Jeonju, the city where I attend school, is located approximately two and a half 
 <br>
 🚩 Project title : <strong><u> Modeling user behavior in case of emergency</u></strong>     
 
-🚩 Purpose of the project : <br>  
-      To improve the community healthcare systems  
+🚩 Purpose of the project :To improve the community healthcare systems  
  
 🚩 Project points ! :  
       - Using various Public data about health systems in Jeonju city     
