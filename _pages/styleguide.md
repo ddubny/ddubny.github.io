@@ -12,7 +12,7 @@ permalink: /cv/
 <center>subin99seo@gmail.com </center>     
 <br> 
 <center><strong> I have been interested in Information Behaviors </strong> </center>    
-<center><strong>  and human-computer (information system) interaction </strong></center> 
+<center><strong>  and User Studies</strong></center> 
 <center> My Competencies for Data Analysis and  </center>  
 <center> understanding of human factors will help me study more extensively. </center>  
 &nbsp;            
