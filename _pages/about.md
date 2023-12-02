@@ -48,7 +48,7 @@ As a first Area of study, I am interested in **Information Behavior** and how in
 Through my studies in Psychology, I have gained an understanding of human minds and cognition, which aids in researching **User experience (UX)**.
 
 ◾ **Statistics**  
-To enhance data-driven research, I studied analytical technologies like **Natural Language Processing, Machine Learning, and Big-data processing.**    
+To enhance data-driven research, I learned analytical technologies like **Natural Language Processing, Machine Learning, and Big-data processing.**    
 
 ◾ **Data Curation** (Microdgree)  
 While my education spanned Statistics and Computer engineering, my primary interest lies not in developing algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
