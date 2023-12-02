@@ -12,8 +12,8 @@ permalink: /cv/
 <center>subin99seo@gmail.com </center>     
 <br> 
 <center><strong> I have been interested in </strong> </center>    
-<center><strong>Information Behaviors & User Studies</strong></center> 
-<center> My Competencies for Data Analysis and  </center>  
+<center><strong>Information Behaviors & User Studies.</strong></center> 
+<center> In this regard, my competencies for Data Analysis and  </center>  
 <center> understanding of human factors will help me study more extensively. </center>  
 &nbsp;            
 
