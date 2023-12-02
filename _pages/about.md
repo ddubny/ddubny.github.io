@@ -19,11 +19,12 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶   Republic of Korea<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Republic of Korea<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail: <u>subin99seo@gmail.com</u><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in Library and Information Science<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in  Psychology<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　Minor in  Statistics<br>     
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　Big-data curation Micro degree<br>    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Interdisciplinary Approach</strong><br>  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Data Analysis Contest Awards</strong><br>  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Leadership Experience</strong><br>  
