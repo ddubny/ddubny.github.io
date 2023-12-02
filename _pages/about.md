@@ -164,7 +164,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <h4> 🍀 Where there’s a will, there’s a way.  </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  style="height: auto; width: 60%;" ></center> 
-<justify> I believe in the value of firsthand experience for informed decision-making, so I've always prioritized gaining practical experience in my career. These values have shaped me into a challenging person. So I may have more failures than others. Nevertheless, growth can be derived from even failed experiences. I'll continue to try hard with motivation. </justify>
+<justify> I believe in the value of firsthand experience for informed decision-making, so I've always prioritized gaining practical experience in my career. These values have shaped me into a go-getter person. So I may have more failures than others. Nevertheless, growth can be derived from even failed experiences. I'll continue to try hard with motivation. </justify>
 
 
 <br> <br> <br> <br> 
