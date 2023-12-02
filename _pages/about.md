@@ -65,9 +65,10 @@ While my education spanned Statistics and Computer engineering, my primary inter
 - Information behavior of individuals with low literacy levels ( mental illness, limited education, non-native language speakers, etc. )
 - Identify information behaviors that critically impact decision-making / problem-solving 
 
-▶ **User Experience & human-computer interaction** 
+▶ **User Experience or User study**
 
-- Emotional interaction between humans and computer 
+- User Emotion Analysis
+- Multimodal User Analysis 
 - Text-based interaction between user and information systems 
 
 ▶ **Applying Machine learning (ML) and Natural language processing (NLP)**
@@ -88,7 +89,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
    <h3>Vice-president of student council</h3>
    <justify>       
-    My deep love for the major, Library and information science, came from being a part of the student government. Because I had a sense of belonging. </justify>  
+    My deep love for the major, Library and information science, came from being a part of the student government.  </justify>  
 </div>
 
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
