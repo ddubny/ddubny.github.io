@@ -63,10 +63,11 @@ While my education spanned Statistics and Computer engineering, my primary inter
 
 ▶ **Information Behavior**   
 
-- Information behavior of individuals with low literacy levels ( mental illness, limited education, non-native language speakers, etc. )
-- Identify information behaviors that critically impact decision-making / problem-solving 
+- Information behavior of individuals with low level of information literacy    
+     &nbsp;&nbsp;&nbsp;&nbsp;( mental illness, limited education, non-native language speakers, etc. )
+- Identify information behaviors that critically impact decision-making / problem-solving   
 
-▶ **User Experience or User study**
+▶ **User Experience or User study**  
 
 - User Emotion Analysis
 - Multimodal User Analysis 
