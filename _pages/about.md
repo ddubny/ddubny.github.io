@@ -52,7 +52,7 @@ To enhance data-driven research, I studied analytical technologies like **Natura
 ◾ **Data Curation** (Microdgree)  
 While my education spanned Statistics and Computer engineering, my primary interest lies not in developing algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
 
-=> My ultimate goal is to use these competencies **to study users’ behaviors** and contribute to **sociotechnical solutions for user-centric information systems.** 
+=> My ultimate goal is to use these competencies **to study users’ behaviors** and contribute to developing **sociotechnical solutions**. 
 
 <br><br>
 
