@@ -112,7 +112,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3> Visiting the U.S. Library</h3>
+  <h3> Visiting the U.S. Libraries</h3>
   <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries. This experience revealed the community support role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences. </justify>
 </div>
 
@@ -120,8 +120,8 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <div>
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Engineering workshop  </h3> 
-  My latest experience, the Engineering Workshop Program at the University of Nevada, Las Vegas, provided me with the opportunity to strengthen my professional skills in information technologies.
+  <h3> Machine Learning workshop  </h3> 
+  My latest experience, the Machine Learning Engineering Workshop Program at the University of Nevada, Las Vegas, provided me with the opportunity to strengthen my professional skills in information technologies.
 </div>
 
 <br>  
