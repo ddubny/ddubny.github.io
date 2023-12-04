@@ -70,8 +70,7 @@ While my education spanned Statistics and Computer engineering, my primary inter
 ▶ **Sociotechnical information systems**  
 
 - Sociotechnical solutions for all   
-     &nbsp;&nbsp;&nbsp;&nbsp;( mental health issues, limited education, non-native language speakers, etc. )  
-- Decision-making by enhancing information literacy  
+     &nbsp;&nbsp;&nbsp;&nbsp;( mental health issues, limited education, non-native language speakers, etc. )   
 
 ▶ **Applying Machine learning (ML) and Natural language processing (NLP)**
 
