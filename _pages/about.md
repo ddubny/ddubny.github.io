@@ -63,16 +63,16 @@ While my education spanned Statistics and Computer engineering, my primary inter
 
 ▶ **Information Behavior** and **User study**  
 
-- Information behavior interacting with information systems
-     &nbsp;&nbsp;&nbsp;&nbsp;( Generative AI, Social meida, Multimeda, etc. )
-- User Emotion Analysis
-- Multimodal User Analysis    
+- Information behavior interacting with information systems    
+     &nbsp;&nbsp;&nbsp;&nbsp;( Generative AI, Social meida, Multimeda, etc. )    
+- User Emotion Analysis    
+- Multimodal User Analysis        
 
 ▶ **Sociotechnical information systems**  
 
-- Sociotechnical solutions for all 
-     &nbsp;&nbsp;&nbsp;&nbsp;( mental health issues, limited education, non-native language speakers, etc. )
-- Decision-making by enhancing information literacy
+- Sociotechnical solutions for all   
+     &nbsp;&nbsp;&nbsp;&nbsp;( mental health issues, limited education, non-native language speakers, etc. )  
+- Decision-making by enhancing information literacy  
 
 ▶ **Applying Machine learning (ML) and Natural language processing (NLP)**
 
