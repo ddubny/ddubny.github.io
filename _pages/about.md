@@ -63,7 +63,7 @@ While my education spanned Statistics and Computer engineering, my primary inter
 
 ▶ **Information Behavior** and **User study**  
 
-- Information behavior interacting with information systems ( Generative AI, Social meida, Multimeda, etc. )    
+- Information behavior interacting with information systems ( Generative AI, Social meida, Multimeda, etc.)    
 - User Emotion Analysis    
 - Multimodal User Analysis        
 
