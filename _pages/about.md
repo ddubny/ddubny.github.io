@@ -42,7 +42,7 @@ permalink: /about/
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 ◾ **Library and Information Science**    
-As a first Area of study, I am interested in **Information Behavior** and how information behavior affects **decision-making and problem-solving.**
+As a first Area of study, I am interested in **Information Behavior**  of users interacting with information systems. 
 
 ◾ **Psychology**    
 Through my studies in Psychology, I have gained an understanding of human minds and cognition, which aids in researching **User experience (UX)**.
@@ -61,22 +61,23 @@ While my education spanned Statistics and Computer engineering, my primary inter
 
 <br>  
 
-▶ **Information Behavior**   
+▶ **Information Behavior** and **User study**  
 
-- Information behavior of individuals with low level of information literacy    
-     &nbsp;&nbsp;&nbsp;&nbsp;( mental illness, limited education, non-native language speakers, etc. )
-- Identify information behaviors that critically impact decision-making / problem-solving   
-
-▶ **User Experience or User study**  
-
+- Information behavior interacting with information systems
+     &nbsp;&nbsp;&nbsp;&nbsp;( Generative AI, Social meida, Multimeda, etc. )
 - User Emotion Analysis
-- Multimodal User Analysis 
-- Text-based interaction between user and information systems 
+- Multimodal User Analysis    
+
+▶ **Sociotechnical information systems**  
+
+- Sociotechnical solutions for all 
+     &nbsp;&nbsp;&nbsp;&nbsp;( mental health issues, limited education, non-native language speakers, etc. )
+- Decision-making by enhancing information literacy
 
 ▶ **Applying Machine learning (ML) and Natural language processing (NLP)**
 
-- Social media analysis
-- Classify and predict decision-making processes based on user behavior 
+- Text information analysis
+- Classify and predict user behavior  
 
 ---- 
 
