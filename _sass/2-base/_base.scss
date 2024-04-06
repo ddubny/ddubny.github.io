@@ -113,18 +113,19 @@ img + em {
   color:  $gray;
 }
 
-r {
-    text-decoration: none;
-    color: $red;
-    font-weight: bold;
-    transition: $global-transition;
-    &:hover {
-      color: darken($red, 10%);
-    }
-    &:active {
-      color: darken($red, 50%);
-    }
+
+a {
+  text-decoration: none;
+  color: $link-color;
+  transition: $global-transition;
+  &:hover {
+    color: darken($link-color, 10%);
+  }
+  &:active {
+    color: darken($link-color, 20%);
+  }
 }
+
 
 b {
   text-decoration: none;
@@ -136,6 +137,19 @@ b {
   &:active {
     color: darken($blue, 50%);
    }
+}
+
+r {
+  text-decoration: none;
+  color: $red;
+  font-weight: bold;
+  transition: $global-transition;
+  &:hover {
+    color: darken($red, 10%);
+  }
+  &:active {
+    color: darken($red, 50%);
+  }
 }
 
 hr {
