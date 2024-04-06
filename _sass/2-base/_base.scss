@@ -116,6 +116,7 @@ img + em {
 r {
     text-decoration: none;
     color: $red;
+    font-weight: bold;
     transition: $global-transition;
     &:hover {
       color: darken($red, 10%);
