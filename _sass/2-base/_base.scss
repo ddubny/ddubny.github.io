@@ -115,13 +115,13 @@ img + em {
 
 r {
     text-decoration: none;
-    color: $orange;
+    color: $red;
     transition: $global-transition;
     &:hover {
-      color: darken($orange, 10%);
+      color: darken($red, 10%);
     }
     &:active {
-      color: darken($orange, 50%);
+      color: darken($red, 50%);
     }
 }
 
@@ -134,18 +134,6 @@ b {
    }
   &:active {
     color: darken($blue, 50%);
-   }
-}
-
-p {
-  text-decoration: none;
-  color: $purple;
-  transition: $global-transition;
-  &:hover {
-    color: darken($purple, 10%);
-   }
-  &:active {
-    color: darken($purple, 50%);
    }
 }
 
