@@ -113,7 +113,7 @@ img + em {
   color:  $gray;
 }
 
-a {
+r {
     text-decoration: none;
     color: $orange;
     transition: $global-transition;
@@ -134,6 +134,18 @@ b {
    }
   &:active {
     color: darken($blue, 50%);
+   }
+}
+
+p {
+  text-decoration: none;
+  color: $purple;
+  transition: $global-transition;
+  &:hover {
+    color: darken($purple, 10%);
+   }
+  &:active {
+    color: darken($purple, 50%);
    }
 }
 
