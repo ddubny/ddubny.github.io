@@ -166,3 +166,66 @@
 .screen-reader-text {
 	@include screen-reader();
 }
+
+// buttom style - bubble box
+.goo {
+	filter: url(#goo);
+  }
+  
+  .button--bubble__container {
+	display: inline-block;
+	position: relative;
+  }
+  
+  .button--bubble {
+	background-color: #3498db; /* 버튼 배경색 */
+	color: white; /* 버튼 텍스트 색상 */
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 16px;
+  }
+  
+  .button--bubble__effect-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	border-radius: 5px;
+  }
+  
+  .circle {
+	position: absolute;
+	background-color: rgba(52, 152, 219, 0.5); /* 원 색상 */
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	opacity: 0;
+	transition: transform 0.5s, opacity 0.5s;
+  }
+  
+  .top-left {
+	top: -10px;
+	left: -10px;
+  }
+  
+  .bottom-right {
+	right: -10px;
+	bottom: -10px;
+  }
+  
+  .button--bubble:hover .circle {
+	opacity: 1;
+	transform: scale(2.5);
+  }
+  
+  .button--bubble:hover .circle.top-left {
+	transform: translate(10px, 10px) scale(2.5);
+  }
+  
+  .button--bubble:hover .circle.bottom-right {
+	transform: translate(-10px, -10px) scale(2.5);
+  }
+  
