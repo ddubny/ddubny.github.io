@@ -167,11 +167,10 @@
 	@include screen-reader();
 }
 
-// buttom style - bubble box
+// buttom style 
 * {
 	box-sizing: border-box;
   }
-  
   body {
 	margin: 0;
 	background: #eaedf1;
@@ -192,14 +191,14 @@
 	font-size: 13px; 
   }
   
-  .btn.red {
-	background-color: #fa5a5a;
-	box-shadow: 0 4px #cc4747;
+  .btn.green {
+	background-color: #66e970;
+	box-shadow: 0 4px #0ea300;
   }
   
-  .btn.red:active {
+  .btn.green:active {
 	top: 2px;
-	box-shadow: 0 2px #cc4747;
+	box-shadow: 0 2px #0d8802;
   }
   
   
