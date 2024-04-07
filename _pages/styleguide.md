@@ -8,7 +8,7 @@ permalink: /cv/
 
 # <center> Subin Seo </center>  
   
-<center>subinseo@umd.edu</center>
+<center><strong> subinseo@umd.edu </strong></center>
 
 <div class="notice--pink">
    <span style="font-size: 15px; font: normal helvetica, font-family: sans-serif ;">
@@ -18,7 +18,7 @@ permalink: /cv/
 
 <br> 
 <center> Additionaly, you can check what I've been studying lately,  </center>
-<center> Please visit <button type="button" onclick="location.href='https://ddubny.tistory.com/'">Tistory blog</button> !! </center>
+<center> Please visit <button type="button" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> !! </center>
         
 
 -----
