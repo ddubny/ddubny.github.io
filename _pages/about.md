@@ -81,7 +81,7 @@ While my education spanned Statistics and Computer engineering, my primary inter
    </span>
 </div>
 
-
+<br> 
 
 ▶ **Applying Data-driven research methods**
 
