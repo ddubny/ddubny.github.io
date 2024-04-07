@@ -17,7 +17,6 @@ Feel free to reach out via email anytime, for anything you need. I am waiting fo
     Additionally, you can check what I've been studying lately. <br>  
     Please visit here!!!
     <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> 
-    </center>>
 </div>
 
 
