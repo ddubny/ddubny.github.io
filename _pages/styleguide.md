@@ -6,7 +6,7 @@ permalink: /cv/
   
     
 <a href='mailto:subinseo@umd.edu' title="Send email to subinseo@umd.edu">subinseo@umd.edu</a>   
-Feel free to reach out via email anytime, for anything you need.    
+Feel free to reach out via email anytime, for anything.    
 I am waiting for you!!       
    
 <div class="center-content">
