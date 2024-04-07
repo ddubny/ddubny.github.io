@@ -8,6 +8,7 @@ permalink: /about/
 <center> 🖐️ Hello! Welcome to my Page!</center>         
 <center> Thank you for your visit!</center>         
 <center> This page will help you understand my story and hopefully fascinate you.🤗</center>      
+
    
 <br><br><br>
 
@@ -80,11 +81,14 @@ While my education spanned Statistics and Computer engineering, my primary inter
    </span>
 </div>
 
-▶ **Applying Machine learning (ML) and Natural language processing (NLP)**
 
-- Text analysis
+
+▶ **Applying Data-driven research methods**
+
+- Text analysis 
 - Scalable data processing for Big-data as on Social media
-- Classifying and predicting user behavior through ML  
+- Classifying and predicting user behavior through Machine learning(ML)
+- Other Statistical methods...
 
 ---- 
 
