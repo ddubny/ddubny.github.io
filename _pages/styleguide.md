@@ -8,8 +8,7 @@ permalink: /cv/
 
 # <center> Subin Seo </center>  
   
-<center> Bachelor in Jeonbuk National University, Jeonju, Korea </center>   
-<center>subin99seo@gmail.com </center>     
+<center>subinseo@umd.edu </center>     
 <br> 
 <center><strong> I have been interested in </strong> </center>    
 <center><strong>Information Behaviors & User Studies.</strong></center> 
