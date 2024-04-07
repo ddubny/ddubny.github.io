@@ -8,7 +8,7 @@ permalink: /cv/
 
 # <center> Subin Seo </center>  
   
-<center><strong> subinseo@umd.edu </strong></center>
+<center> **subinseo@umd.edu** </center>
 
 <div class="notice--pink">
    <span style="font-size: 15px; font: normal helvetica, font-family: sans-serif ;">
