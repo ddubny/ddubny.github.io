@@ -6,17 +6,17 @@ permalink: /cv/
  
 &nbsp;  
 
-# <center> Subin Seo </center>  
+## Subin Seo
   
-<center> <strong>subinseo@umd.edu </strong> 
-Feel free to reach out via email anytime, for anything you need. I am waiting for you!! </center>
+<strong>subinseo@umd.edu </strong>     
+Feel free to reach out via email anytime, for anything you need. I am waiting for you!!   
 
 
 <br> 
 <div class="center-content">
-    Additionally, you can check what I've been studying lately,   
+    Additionally, you can check what I've been studying lately. <br>  
     Please visit here!!!
-    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button>
+    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> 
     </center>>
 </div>
 

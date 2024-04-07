@@ -181,29 +181,28 @@
   /* 기본 버튼 스타일 */
   .btn {
 	position: relative;
-	border: 0;
+	border: none;
 	display: inline-block;
 	text-align: center;
 	color: white;
 	transition: background-color 0.3s, top 0.1s;
 	cursor: pointer;
-  }
-  
-  /* 미니 버튼 스타일 */
-  .btn.mini {
-	padding: 4px 12px;  
-	font-size: 12px;
+	text-decoration: none;
+	user-select: none;
+	padding: 8px 18px; /* small 버튼의 기본 패딩 */
+	font-size: 14px; /* small 버튼의 기본 글꼴 크기 */
   }
   
   /* 빨간색 버튼 스타일 */
   .btn.red {
 	background-color: #fa5a5a;
-	box-shadow: 0px 4px #E04342;
+	box-shadow: 0 4px #cc4747;
   }
   
   .btn.red:active {
-	top: 2px; /* 약간 눌리는 효과를 줍니다 */
-	box-shadow: 0 2px #E04342;
+	top: 2px;
+	box-shadow: 0 2px #cc4747;
   }
+  
   
   
