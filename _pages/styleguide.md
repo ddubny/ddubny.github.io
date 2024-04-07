@@ -3,15 +3,10 @@ layout: page
 title: CV
 permalink: /cv/
 ---
- 
-&nbsp;  
-
 
 <strong>subinseo@umd.edu </strong>     
-Feel free to reach out via email anytime, for anything you need. I am waiting for you!!   
-
-
-<br> 
+Feel free to reach out via email anytime, for anything you need. I am waiting for you!!     
+   
 <div class="center-content">
     Additionally, you can check what I've been studying lately. <br>  
     Please visit 
