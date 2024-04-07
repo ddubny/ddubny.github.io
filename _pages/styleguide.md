@@ -17,7 +17,7 @@ permalink: /cv/
 </div>
 
 <br> 
-<center> Additionaly, you can check what I've been studying lately,  </center>
+<center> Additionally, you can check what I've been studying lately,  </center>
 <center> Please visit <button type="button" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> !! </center>
         
 
