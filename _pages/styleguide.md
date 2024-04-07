@@ -11,8 +11,8 @@ I am waiting for you!!
    
 <div class="center-content">
     Additionally, Please visit  
-    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> <br>  
-    you can check what I've been studying. !!! 
+    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button>
+    you can check what I've been studying ! 
 </div>
 
 
