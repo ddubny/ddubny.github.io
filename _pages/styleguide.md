@@ -12,12 +12,13 @@ permalink: /cv/
 
 <div class="notice--pink">
    <span style="font-size: 15px; font: normal helvetica, font-family: sans-serif ;">
-      <justify> Feel free to reach out via email anytime, for anything you need. </justify>
+      <center> Feel free to reach out via email anytime, for anything you need. I am waiting for you!! </center>
    </span>
 </div>
 
-Additionaly, you can check what I've been studying lately,  
-Please visit <button type="button" onclick="location.href='https://ddubny.tistory.com/'">Tistory blog</button> !!
+<br> 
+<center> Additionaly, you can check what I've been studying lately,  </center>
+<center> Please visit <button type="button" onclick="location.href='https://ddubny.tistory.com/'">Tistory blog</button> !! </center>
         
 
 -----
