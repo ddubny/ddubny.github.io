@@ -53,7 +53,7 @@ To enhance data-driven research, I learned analytical technologies like **Natura
 ◾ **Data Curation** (Microdgree)  
 While my education spanned Statistics and Computer engineering, my primary interest lies not in developing algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
 
-=> My ultimate goal is to use these competencies **to study users’ behaviors** and contribute to developing **sociotechnical solutions**. 
+=> My ultimate goal is to use these competencies **to study users’ behaviors** and contribute to improving **accessibility** for marginalized groups. 
 
 <br><br>
 
@@ -75,12 +75,10 @@ While my education spanned Statistics and Computer engineering, my primary inter
 - Sociotechnical solutions
 
 <div class="notice--blue">
-   <span style="font-size: 18px; font:  normal helvetica, font-family: sans-serif ;">
-      <center> I am particularly interested in exploring information behavior of individuals who face challenges in accessing information <strong> due to mental or emotional challenges</strong>, utilizing a psychological foundation. From emotional issues like depression and anxiety to severe mental conditions such as dementia, intellectual disabilities, and autism, I aim to study the information behavior of these individuals and propose accessible services and systems that are accessible to all. </center>
+   <span style="font-size: 15px; font:  normal helvetica, font-family: sans-serif ;">
+      <justify> I am particularly interested in exploring information behavior of individuals who face challenges in accessing information <strong> due to mental or emotional challenges</strong>, utilizing a psychological foundation. From emotional issues like depression and anxiety to severe mental conditions such as dementia, intellectual disabilities, and autism, I aim to study the information behavior of these individuals and propose accessible services and systems that are accessible to all. </justify>
    </span>
 </div>
-
-     &nbsp;&nbsp;&nbsp;&nbsp;( mental health issues, limited education, non-native language speakers, etc. )   
 
 ▶ **Applying Machine learning (ML) and Natural language processing (NLP)**
 
