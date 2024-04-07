@@ -4,13 +4,14 @@ title: CV
 permalink: /cv/
 ---
 
-<strong>subinseo@umd.edu </strong>     
+
+<strong> <a href='mailto:subinseo@umd.edu '></a> </strong>     
 Feel free to reach out via email anytime, for anything you need. I am waiting for you!!     
    
 <div class="center-content">
-    Additionally, you can check what I've been studying lately. <br>  
-    Please visit 
-    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> !!! 
+    ++ Please visit  
+    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> <br>  
+    you can check what I've been studying.  !!! 
 </div>
 
 
