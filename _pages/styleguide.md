@@ -6,8 +6,7 @@ permalink: /cv/
  
 &nbsp;  
 
-## Subin Seo
-  
+
 <strong>subinseo@umd.edu </strong>     
 Feel free to reach out via email anytime, for anything you need. I am waiting for you!!   
 
@@ -15,12 +14,10 @@ Feel free to reach out via email anytime, for anything you need. I am waiting fo
 <br> 
 <div class="center-content">
     Additionally, you can check what I've been studying lately. <br>  
-    Please visit here!!!
-    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> 
+    Please visit 
+    <button type="button" class="btn red mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button> !!! 
 </div>
 
-
-        
 
 -----
 
