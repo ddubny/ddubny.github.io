@@ -8,7 +8,15 @@ permalink: /cv/
 
 # <center> Subin Seo </center>  
   
-<center>subinseo@umd.edu </center>     
+<center>subinseo@umd.edu</center>
+Feel free to reach out via email anytime, for anything you need.
+
+<div class="notice--pink">
+   <span style="font-size: 15px; font: normal helvetica, font-family: sans-serif ;">
+      <justify> Feel free to reach out via email anytime, for anything you need. </justify>
+   </span>
+</div>
+
 <br> 
 <center><strong> I have been interested in </strong> </center>    
 <center><strong>Information Behaviors & User Studies.</strong></center> 
