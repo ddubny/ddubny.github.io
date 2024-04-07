@@ -7,7 +7,7 @@ permalink: /about/
 
 <center> 🖐️ Hello! Welcome to my Page!</center>         
 <center> Thank you for your visit!</center>         
-<center> This page will help you understand my story and hopefully fascinate you.🤗</center>      
+<center> This page will help you understand me and hopefully fascinate you.🤗</center>      
 
    
 <br><br><br>

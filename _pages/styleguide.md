@@ -9,7 +9,6 @@ permalink: /cv/
 # <center> Subin Seo </center>  
   
 <center>subinseo@umd.edu</center>
-Feel free to reach out via email anytime, for anything you need.
 
 <div class="notice--pink">
    <span style="font-size: 15px; font: normal helvetica, font-family: sans-serif ;">
@@ -17,12 +16,9 @@ Feel free to reach out via email anytime, for anything you need.
    </span>
 </div>
 
-<br> 
-<center><strong> I have been interested in </strong> </center>    
-<center><strong>Information Behaviors & User Studies.</strong></center> 
-<center> In this regard, my competencies for Data Analysis and  </center>  
-<center> understanding of human factors will help me study more extensively. </center>  
-&nbsp;            
+Additionaly, you can check what I've been studying lately,  
+Please visit <button type="button" onclick="location.href='https://ddubny.tistory.com/'">Tistory blog</button> !!
+        
 
 -----
 
