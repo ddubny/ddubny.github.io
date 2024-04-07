@@ -98,5 +98,12 @@ $(document).ready(function() {
     }
   });
 
+  /* =======================
+  // Scroll Top Button
+  ======================= */
+  
+  $('a').click(function(event){
+    event.preventDefault(); 
+  });
 
 });
