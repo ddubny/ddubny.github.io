@@ -6,14 +6,7 @@ permalink: /cv/
   
     
 <a href='mailto:subinseo@umd.edu' title="Send email to subinseo@umd.edu">subinseo@umd.edu</a>   
-Feel free to reach out via email anytime, for anything.    
-I am waiting for you!!       
-   
-<div class="center-content">
-    Additionally, Please visit  
-    <button type="button" class="btn green mini" onclick="window.open('https://ddubny.tistory.com/')">Tistory blog</button>
-    you can check what I've been studying ! 
-</div>
+Please feel free to reach out via email anytime, for anything.    
 
 
 -----
