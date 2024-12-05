@@ -26,6 +26,6 @@ explanation.</u>
 ### How Unexpected Encounters Impact Users Negatively on Social Media
 
 <iframe src="https://drive.google.com/file/d/1c_uL_nT06KyZEVTRxcK4L06KMKRbCX8p/preview" 
-width="800" height="400" type="application/pdf">
+width="800" height="450" type="application/pdf">
 <iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
 
