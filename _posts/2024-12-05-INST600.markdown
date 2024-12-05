@@ -2,7 +2,7 @@
 layout: post
 title:  "How Unexpected Encounters Impact Users Negatively on Social Media"
 date:   2024-12-05 18:05:55 +0300
-image:  post_5_0.png
+image:  post_9-0.jpg
 tags:   Data_analysis   
 ---
 
@@ -26,8 +26,6 @@ explanation.</u>
 ### How Unexpected Encounters Impact Users Negatively on Social Media
 
 <iframe src="https://drive.google.com/file/d/1c_uL_nT06KyZEVTRxcK4L06KMKRbCX8p/preview" 
-width="1040" height="760" type="application/pdf">
+width="800" height="400" type="application/pdf">
 <iframe src="/assets/test.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe>
 
-
-[data]: https://github.com/ddubny/INST600
