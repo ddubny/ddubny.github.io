@@ -13,7 +13,6 @@ The data used for this project was collected for the
 <a href="https://ddubny.github.io/2024/12/05/INST600/" target="_blank">INST600 class project</a>.
 </p>
 <br>
-<br>
 
 
 <justify>  
