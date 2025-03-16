@@ -20,8 +20,8 @@ tags:   social_media
 
 
 <justify>  
-explanation.</u>
- </justify>e
+
+ </justify>
 
 ---
 ### Unwanted Encounters: The Negative Emotional Changes on Social Media Users
