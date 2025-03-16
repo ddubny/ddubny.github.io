@@ -7,14 +7,11 @@ tags:   social_media
 ---
 
 
-<div class="notice--gray">
-   <span style="font-size: 18px; font-family: Open Sans;">
-      📢 Notice !!    <br>
-      This project was done at the University of Maryland for the MLIS Showcase event.
-      The data used for this project is the one that collected for [INST600 class project](https://ddubny.github.io/2024/12/05/INST600/).     
-   </span>
-</div>
-
+<p>📢 <strong>Notice !!</strong> <br>
+This project was done at the University of Maryland for the MLIS Showcase event. <br>
+The data used for this project was collected for the 
+<a href="https://ddubny.github.io/2024/12/05/INST600/" target="_blank">INST600 class project</a>.
+</p>
 <br>
 <br>
 
