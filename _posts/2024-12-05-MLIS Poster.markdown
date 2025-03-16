@@ -2,7 +2,7 @@
 layout: post
 title:  "Unwanted Encounters: The Negative Emotional Changes on Social Media Users "
 date:   2025-03-11 18:05:55 +0300
-image:  post_9-0.jpg
+image:  post_10-0.jpg
 tags:   social_media    
 ---
 
