@@ -64,31 +64,28 @@ While my education spanned Statistics and Computer engineering, my primary inter
 
 ▶ **Information Behavior** and **User study**  
 
-- Information behavior through Text analysis 
-- Information behavior interacting with information systems (Generative AI, Social meida, Multimeda )    
-- User Emotion Analysis    
+- Information behavior (search as learning, seeking model)
+- User behavior on Digital libraries 
+<!-- - Information behavior interacting with information systems (Generative AI, Social meida, Multimeda )    
+- User Emotion Analysis -->
+
         
 
 ▶ **Information for all**  
 
 - Including Marginalized populations 
-- Increasing accessibility for people with Disabilities
+- Increasing accessibility for people with any disabilities
 - Sociotechnical solutions
-
-<div class="notice--blue">
-   <span style="font-size: 15px; font:  normal helvetica, font-family: sans-serif ;">
-      <justify> I am particularly interested in exploring information behavior of individuals who face challenges in accessing information <strong> due to mental or emotional challenges</strong>, utilizing a psychological foundation. From emotional issues like depression and anxiety to severe mental conditions such as dementia, intellectual disabilities, and autism, I aim to study the information behavior of these individuals and propose accessible services and systems that are accessible to all. </justify>
-   </span>
-</div>
 
 <br> 
 
 ▶ **Applying Data-driven research methods**
 
+- User Experience (UX)--Mixed methods
 - Text analysis 
-- Scalable data processing for Big-data as on Social media
-- Classifying and predicting user behavior through Machine learning(ML)
-- Other Statistical methods...
+<!--- Scalable data processing for Big-data as on Social media-->
+<!-- - Classifying and predicting user behavior through Machine learning(ML) -->
+<!--- Other Statistical methods... --> 
 
 ---- 
 
