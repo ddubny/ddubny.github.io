@@ -77,7 +77,6 @@ While my education spanned Statistics and Computer engineering, my primary inter
 - Increasing accessibility for people with any disabilities
 - Sociotechnical solutions
 
-<br> 
 
 ▶ **Applying Data-driven research methods**
 
