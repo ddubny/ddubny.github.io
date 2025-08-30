@@ -52,7 +52,7 @@ With this interdisciplinary background, I stand at the intersection of the human
 
 ▶ **Information Behavior**
 
-- Information behavior 
+- Information behavior <br>
 (search as learning, Information seeking, Information encountering, and etc.)
 
 ▶ **Human-AI interaction**  
