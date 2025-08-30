@@ -60,7 +60,6 @@ With this interdisciplinary background, I stand at the intersection of the human
 - Generative AI 
 - Future Information systems / Libraries with AI
 
-
 ---- 
 
 <br> 
