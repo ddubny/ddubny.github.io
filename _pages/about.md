@@ -52,8 +52,9 @@ With this interdisciplinary background, I stand at the intersection of the human
 
 ▶ **Information Behavior**
 
-- Information behavior <br>
-(search as learning, Information seeking, Information encountering, and etc.)
+- Search
+- Information Seeking
+- Information Encountering / Serendipity  => ✨My master thesis's subject !!✨
 
 ▶ **Human-AI interaction**  
 
