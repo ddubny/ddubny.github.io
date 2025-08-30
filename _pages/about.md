@@ -17,9 +17,6 @@ permalink: /about/
     <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750">
   </div> 
   <div class="speech-bubble" style="flex: 2;">
-     <br>
-     <h2><center>Subin Seo</center></h2>
-     <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Master student at University of Maryland<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail: <a href='mailto:subinseo@umd.edu' title="Send email to subinseo@umd.edu">subinseo@umd.edu</a> <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in Library and Information Science<br>
@@ -42,7 +39,7 @@ permalink: /about/
 
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
-With this interdisciplinary background, I stand at the intersection of the humanities and technology (information systems). Over the next five years, I anticipate that rapid technological advances will widen disparities—not only in access to information but in everyday life—driven by uneven AI literacy and technical skills. In this context, the shaping of information systems will become even more consequential. I therefore aim to investigate information behavior as foundation for shaping these systems responsibly. Methodologically, I will employ computational approaches—including NLP/ML analyses and experiment designs—and, where appropriate, integrate them with qualitative methods. My goal is to help move beyond a paradigm in which users must search for information, toward systems that proactively and interactively deliver trustworthy information to people when and where it is needed. 
+With this interdisciplinary background, I stand at the intersection of the humanities and technology (information systems). Over the next five years, I anticipate that rapid technological advances will widen disparities—not only in access to information but in everyday life—driven by uneven AI literacy and technical skills. In this context, the shaping of information systems will become even more consequential. I therefore aim to investigate information behavior as foundation for shaping these systems responsibly. Methodologically, I want to employ computational approaches—including NLP/ML analyses and experiment designs. My goal is to help move beyond a paradigm in which users must search for information, toward systems that proactively and interactively deliver trustworthy information to people when and where it is needed. 
 
 <br><br>
 
@@ -54,7 +51,7 @@ With this interdisciplinary background, I stand at the intersection of the human
 
 - Search
 - Information Seeking
-- Information Encountering / Serendipity  => ✨My master thesis's subject !!✨
+- Information Encountering / Serendipity  => ✨My master thesis's subject!!✨
 
 ▶ **Human-AI interaction**  
 
@@ -126,7 +123,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <br> 
 # <center> Personality <center> 
 
-<br> <br>
+Let me introduce my personality. I am ...
 
 <h4> 🤝 Many hands make light work. </h4>
 
@@ -140,11 +137,11 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 <br> 
 
-<h4> 🔥  No pain No gain </h4>
+<h4> 🔥 Go-getter person </h4>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-<justify> After completing my term as a Vice President, I went through a bit of a slump due to concerns about my career path. At that moment, I needed to find a source of power to overcome. For this reason, I climbed Hallasan, the highest mountain in South Korea, once a week for a while. As I made my way to the top of the mountain, the cold and hunger I endured gave me a new appreciation for the value of not giving up!! I realized "I can try everything!".     
-</justify>
-
+<justify>  I thrive on hard work, embrace ambitious projects and remain committed to learning. As I enter a PhD program, I am prepared to undergo the most challenging period of my life. I expect that technologies will change rapidly during the five years I spend pursuing the PhD. Therefore, when I step out into the world after earning my degree, I hope to take on roles that will truly be of help to society. </justify>
+<br>
+<justify>When I have a clear goal, I won’t stop running.</justify>
 <br> 
 
 <h4> 🍀 Where there’s a will, there’s a way.  </h4>
