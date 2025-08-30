@@ -5,8 +5,8 @@ permalink: /about/
 ---
 <br><br>
 
-<center> 🖐️ Hello! Welcome to my Page!</center>         
-<center> Thank you for your visit!</center>         
+<center> 🖐️ Hello!</center>         
+<center> I am Subin Seo, a second year Master student at University of Maryland.</center>         
 <center> This page will help you understand me and hopefully fascinate you.🤗</center>      
 
    
@@ -20,15 +20,15 @@ permalink: /about/
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Republic of Korea<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　Master student at University of Maryland<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▶ 　E-mail: <a href='mailto:subinseo@umd.edu' title="Send email to subinseo@umd.edu">subinseo@umd.edu</a> <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in Library and Information Science<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　B.A. in  Psychology<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　Minor in  Statistics<br>     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎓　Big-data curation Micro degree<br>    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Interdisciplinary perspective</strong><br>  
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Data Analysis Contest Awards</strong><br>  
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Leadership Experience</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Search and Information Behavior</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⭐　<strong>Human-AI interaction</strong><br>  
   </div>
 </div>
 
@@ -37,54 +37,29 @@ permalink: /about/
 
 <br>
 
-# <center> Academic history </center> 
+# <center> Academic Backgrounds </center> 
   
 
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
-◾ **Library and Information Science**    
-As a first Area of study, I am interested in **Information Behavior**  of users interacting with information systems. 
-
-◾ **Psychology**    
-Through my studies in Psychology, I have gained an understanding of human minds and cognition, which aids in researching **User experience (UX)**.
-
-◾ **Statistics**  
-To enhance data-driven research, I learned analytical technologies like **Natural Language Processing, Machine Learning, and Big-data processing.**    
-
-◾ **Data Curation** (Microdgree)  
-While my education spanned Statistics and Computer engineering, my primary interest lies not in developing algorithms but in 'Data curation’ - a unique approach I believe is best learned within the domain of LIS.   
-
-=> My ultimate goal is to use these competencies **to study users’ behaviors** and contribute to improving **accessibility** for marginalized groups. 
+Combining all these interdisciplinary backgrounds, I aim to research 
 
 <br><br>
 
-## <center> 🖋 Areas of Interest </center>
+# <center> Areas of Interest </center>
 
 <br>  
 
-▶ **Information Behavior** and **User study**  
+▶ **Information Behavior**
 
-- Information behavior (search as learning, seeking model)
-- User behavior on Digital libraries 
-<!-- - Information behavior interacting with information systems (Generative AI, Social meida, Multimeda )    
-- User Emotion Analysis -->
+- Information behavior 
+(search as learning, Information seeking, Information encountering, and etc.)
 
-        
+▶ **Human-AI interaction**  
 
-▶ **Information for all**  
+- Generative AI 
+- Future Information systems / Libraries with AI
 
-- Including Marginalized populations 
-- Increasing accessibility for people with any disabilities
-- Sociotechnical solutions
-
-
-▶ **Applying Data-driven research methods**
-
-- User Experience (UX)--Mixed methods
-- Text analysis 
-<!--- Scalable data processing for Big-data as on Social media-->
-<!-- - Classifying and predicting user behavior through Machine learning(ML) -->
-<!--- Other Statistical methods... --> 
 
 ---- 
 
