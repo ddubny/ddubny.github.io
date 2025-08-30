@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-<br><br>
+<br>
 
 <center> 🖐️ Hello!</center>         
 <center> I am Subin Seo, a second year Master student at University of Maryland.</center>         
