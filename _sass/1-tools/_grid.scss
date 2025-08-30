@@ -2,6 +2,7 @@ $columns: 12;
 $container-base-width: 1200px;
 $container-offset: $base-spacing-unit;
 
+
 $desktop: 992px;
 $tablet:  768px;
 $mobile:  576px;
@@ -10,6 +11,13 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 .container {
   max-width: $container-base-width;
+  padding-left: $container-offset;
+  padding-right: $container-offset;
+  margin: 0 auto;
+}
+
+.page, .post, .page-content, .site-content, .post-content, .content {
+  max-width: 1200px;
   padding-left: $container-offset;
   padding-right: $container-offset;
   margin: 0 auto;
