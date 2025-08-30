@@ -125,9 +125,15 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 Let me introduce my personality. I am ...
 
+<h4> 🔥 Go-getter person </h4>
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/studylog.gif?raw=true" style="height: auto; width: 60%;" ></center> 
+<justify>  I thrive on hard work, embrace ambitious projects and remain committed to learning. As I enter a PhD program, I am prepared to undergo the most challenging period of my life. I expect that technologies will change rapidly during the five years I spend pursuing the PhD. Therefore, when I step out into the world after earning my degree, I hope to take on roles that will truly be of help to society. </justify>
+<br>
+<justify>When I have a clear goal, I won’t stop running.</justify>
+<br> 
+
+
 <h4> 🤝 Many hands make light work. </h4>
-
-
 <figure style="text-align: center;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;">
   <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em>Running a program with student government members in the Book Festival</em></figcaption>
@@ -135,13 +141,6 @@ Let me introduce my personality. I am ...
 
 <justify> Over the last 2 years, participating in 20+ team activities has reinforced this for me. Embracing diverse viewpoints and leveraging each member's unique skills, I’ve learned the power of collective effort in overcoming challenges and achieving shared goals, enhancing my inclusive and collaborative leadership style. </justify>
 
-<br> 
-
-<h4> 🔥 Go-getter person </h4>
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;" ></center> 
-<justify>  I thrive on hard work, embrace ambitious projects and remain committed to learning. As I enter a PhD program, I am prepared to undergo the most challenging period of my life. I expect that technologies will change rapidly during the five years I spend pursuing the PhD. Therefore, when I step out into the world after earning my degree, I hope to take on roles that will truly be of help to society. </justify>
-<br>
-<justify>When I have a clear goal, I won’t stop running.</justify>
 <br> 
 
 <h4> 🍀 Where there’s a will, there’s a way.  </h4>
