@@ -16,13 +16,6 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   margin: 0 auto;
 }
 
-.page, .post, .page-content, .site-content, .post-content, .content {
-  max-width: 1200px;
-  padding-left: $container-offset;
-  padding-right: $container-offset;
-  margin: 0 auto;
-}
-
 .container-full {
   max-width: 100%;
   padding-left: $container-offset;
