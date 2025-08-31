@@ -158,11 +158,9 @@
 
 @media (max-width: 768px) {
   .speech-bubble {
-    padding: 0.6rem 0.8rem; 
-    border-radius: .45em;
-    font-size: 0.85rem;
-    margin: 0.5rem auto;
-    max-width: 100%;
+    padding: 0.1rem 0.1rem;
+    border-radius: .5em;
+    font-size: 0.8rem;
   }
   .speech-bubble:after {
     top: -10px;
@@ -174,6 +172,22 @@
 @media (prefers-reduced-motion: reduce) {
   .speech-bubble { transition: none; }
   .speech-bubble:after { transition: none; }
+}
+
+.avatar-wrapper {
+  margin-left: 90px; 
+}
+
+@media (max-width: 1024px
+  .avatar-wrapper {
+    margin-left: 40px  
+  }
+}
+
+@media (max-width: 768px) {
+  .avatar-wrapper {
+    margin-left: 0;      
+  }
 }
 
 //quote 
