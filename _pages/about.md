@@ -58,7 +58,10 @@ permalink: /about/
 <br>
 With this interdisciplinary background, I stand at the intersection of the humanities and technology (information systems). Over the next five years, I anticipate that rapid technological advances will widen disparities—not only in access to information but in everyday life—driven by uneven AI literacy and technical skills. In this context, the shaping of information systems will become even more consequential. I therefore aim to investigate information behavior as foundation for shaping these systems responsibly. Methodologically, I want to employ computational approaches—including NLP/ML analyses and experiment designs. My goal is to help move beyond a paradigm in which users must search for information, toward systems that proactively and interactively deliver trustworthy information to people when and where it is needed. 
 <br>
+
+
 ---- 
+
 
 <br> 
 # <center> Experience <center> 
