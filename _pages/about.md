@@ -68,8 +68,8 @@ With this interdisciplinary background, I stand at the intersection of the human
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
    <h3>Leadership</h3>
    <justify>       
-    - Graduate Student Advisory Council [2025]
-    - Vice-President of Student Government in Department of Library and Information Science [2020]
+    - Graduate Student Advisory Council [2025] <br>
+    - Vice-President of Student Government in Department of Library and Information Science [2020] <br>
    </justify>  
 </div>
 <br>
@@ -77,9 +77,9 @@ With this interdisciplinary background, I stand at the intersection of the human
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3>Work</h3>
    <justify>       
-    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ]
-    - Business Internship [May 2022 – Aug 2022]
-    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] 
+    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ] <br>
+    - Business Internship [May 2022 – Aug 2022] <br>
+    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] <br>
    </justify>  
 </div>
 <br>
@@ -87,9 +87,9 @@ With this interdisciplinary background, I stand at the intersection of the human
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
   <h3> Honor and Awards</h3>
    <justify>       
-    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ]
-    - Business Internship [May 2022 – Aug 2022]
-    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] 
+    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ] <br>
+    - Business Internship [May 2022 – Aug 2022] <br>
+    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] <br>
    </justify>  
 </div>
 <br>  
@@ -106,7 +106,7 @@ Let me introduce my personality. I am a/an...
 <justify>  I thrive on hard work, embrace ambitious projects and remain committed to learning. As I enter a PhD program, I am prepared to undergo the most challenging period of my life. I expect that technologies will change rapidly during the five years I spend pursuing the PhD. Therefore, when I step out into the world after earning my degree, I hope to take on roles that will truly be of help to society. </justify>
 <br>
 
-<h4> 🫱🏾‍🫲🏼 Team player </h4>
+<h3> 🫱🏾‍🫲🏼 Team player </h3>
 <figure style="text-align: center;">
   <center><img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;"></center>
   <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em> 2025 ALA annual conference </em></figcaption>
@@ -114,7 +114,7 @@ Let me introduce my personality. I am a/an...
 <justify> I grow most in team environments, where I learn from alternative viewpoints and draw on others’ strengths. These experiences have shown me the power of collective effort in overcoming challenges and achieving shared goals. I always learn from advisors and colleagues, gaining both practical knowledge and effective work practices. </justify>
 <br> 
 
-<h4> 👩🏻‍💻 Office person  </h4>
+<h3> 👩🏻‍💻 Office person  </h3>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality4.jpg?raw=true"  style="height: auto; width: 60%;" ></center> 
 <justify> I’m definitely an office person — I feel more productive and connected when I’m on-site. In addition, working together with colleagues in the office allows me to perform at my most productive.</justify>
 
