@@ -119,24 +119,57 @@
 }
 
 .speech-bubble {
-	position: relative;
-	background: #ededed;
-	border-radius: .4em;
+  position: relative;
+  background: #ededed;
+  border-radius: .6em;
+  padding: 1.25rem 1.5rem;
+  line-height: 1.6;
+  max-width: 60ch;
 }
 
 .speech-bubble:after {
-	content: '';
-	position: absolute;
-	left: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 89px solid transparent;
-	border-right-color: #ededed;
-	border-left: 0;
-	border-bottom: 0;
-	margin-top: -44.5px;
-	margin-left: -89px;
+  content: '';
+  position: absolute;
+  left: -20px;
+  top: 24px;
+  width: 0;
+  height: 0;
+  border: 12px solid transparent;
+  border-right-color: #ededed;
+}
+
+@media (max-width: 1024px) {
+  .speech-bubble {
+    padding: 1rem 1.25rem;
+    border-radius: .55em;
+    font-size: 0.975rem;
+    max-width: 100%;
+  }
+  .speech-bubble:after {
+    left: 50%;
+    top: -12px;
+    transform: translateX(-50%);
+    border-width: 12px;
+    border-color: transparent transparent #ededed transparent;
+  }
+}
+
+@media (max-width: 768px) {
+  .speech-bubble {
+    padding: .9rem 1rem;
+    border-radius: .5em;
+    font-size: 0.95rem;
+  }
+  .speech-bubble:after {
+    top: -10px;
+    border-width: 10px;
+    border-color: transparent transparent #ededed transparent;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .speech-bubble { transition: none; }
+  .speech-bubble:after { transition: none; }
 }
 
 //quote 
