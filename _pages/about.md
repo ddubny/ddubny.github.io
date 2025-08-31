@@ -90,9 +90,15 @@ With this interdisciplinary background, I stand at the intersection of the human
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
   <h3> Honor and Awards</h3>
    <justify>       
-    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ] <br>
-    - Business Internship [May 2022 – Aug 2022] <br>
-    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] <br>
+    - Dr. Frank G. Burke Research Award, University of Maryland, College Park ($975) [2025]  <br>
+    - Merit-based Government scholarship, Jeonnam Institute for Talent & Lifelong Education (Study Abroad Scholarship, $80,000) [2024] <br>
+        -> Related Article: http://www.kwangju.co.kr/article.php?aid=1720654200770806028 
+    - Merit-based University Scholarship for Alumni, Jeonbuk National University (Study Abroad Scholarship, $15,000) [2024]  <br>
+    - Undergraduate Student Travel Grants—US library tour ($1,150) [2023] <br>
+    - Library Services Improvement Contest, 2nd place, Jeonbuk National University [2023] <br>
+    - Local Community Problem-solving with Public Data (Data science competition), 3rd place, Jeonju, Korea ($385) [2022] <br>
+    - Financial Service Proposals Based on User Payment Information (Big-data hackathon, user data), 4th place, Shinhan Financial group [2022] <br>
+    - Dean’s list and Full tuition scholarship, Jeonbuk National University [2021] <br>
    </justify>  
 </div>
  
