@@ -126,17 +126,14 @@ Let me introduce my personality. I am ...
 
 <h4> 🫱🏾‍🫲🏼 Team player </h4>
 <figure style="text-align: center;">
-  <center><img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality3.jpg?raw=true" style="height: auto; width: 60%;"></center>
+  <center><img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;"></center>
   <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em>Running a program with student government members in the Book Festival</em></figcaption>
 </figure>
-<justify> I grow most in team environments, where I learn from alternative viewpoints and draw on others’ strengths. These experiences have shown me the power of collective effort in overcoming challenges and achieving shared goals. I always learn from advisors and colleagues, gaining both practical knowledge and effective work practices.”
-
-
-participating in 20+ team activities has reinforced this for me. Embracing others' viewpoints and leveraging each member's unique skills, I’ve learned the power of collective effort in overcoming challenges and achieving shared goals, enhancing my collaborative leadership style. </justify>
+<justify> I grow most in team environments, where I learn from alternative viewpoints and draw on others’ strengths. These experiences have shown me the power of collective effort in overcoming challenges and achieving shared goals. I always learn from advisors and colleagues, gaining both practical knowledge and effective work practices. </justify>
 <br> 
 
 <h4> 👩🏻‍💻 Office person  </h4>
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality1.jpg?raw=true"  style="height: auto; width: 60%;" ></center> 
+<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality4.jpg?raw=true"  style="height: auto; width: 60%;" ></center> 
 <justify> I’m definitely an office person — I feel more productive and connected when I’m on-site. In addition, working together with colleagues in the office allows me to perform at my most productive.</justify>
 
 
