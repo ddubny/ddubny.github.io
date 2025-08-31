@@ -141,7 +141,7 @@
 
 @media (max-width: 1024px) {
   .speech-bubble {
-    padding: 1rem 1.25rem;
+    padding: 0.5rem 0.5rem;
     border-radius: .55em;
     font-size: 0.9rem;
     max-width: 100%;
@@ -157,9 +157,9 @@
 
 @media (max-width: 768px) {
   .speech-bubble {
-    padding: .9rem 1rem;
+    padding: 0.5rem 0.5rem;
     border-radius: .5em;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
   }
   .speech-bubble:after {
     top: -10px;
