@@ -128,13 +128,10 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 
 Let me introduce my personality. I am ...
 
-<h4> 🔥 Go-getter person </h4>
+<h3> 🔥 Go-getter person </h3>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/studylog.gif?raw=true" style="height: auto; width: 60%;" ></center> 
 <justify>  I thrive on hard work, embrace ambitious projects and remain committed to learning. As I enter a PhD program, I am prepared to undergo the most challenging period of my life. I expect that technologies will change rapidly during the five years I spend pursuing the PhD. Therefore, when I step out into the world after earning my degree, I hope to take on roles that will truly be of help to society. </justify>
 <br>
-<justify>When I have a clear goal, I won’t stop running.</justify>
-<br> 
-
 
 <h4> 🤝 Many hands make light work. </h4>
 <figure style="text-align: center;">
