@@ -99,8 +99,8 @@ With this interdisciplinary background, I stand at the intersection of the human
     - Merit-based Study Abroad Scholarship for Alumni, Jeonbuk National University ($15,000) [2024] <br>
     - Undergraduate Student Travel Grants—US library tour ($1,150) [2023] <br>
     - Library Services Improvement Contest, 2nd place, Jeonbuk National University [2023] <br>
-    - Local Community Problem-solving with Public Data (Data science competition), 3rd place, Jeonju, Korea ($385) [2022] <br>
-    - Financial Service Proposals Based on User Payment Information (Big-data hackathon, user data), 4th place, Shinhan Financial group [2022] <br>
+    - Local Community Problem-solving with Public Data, 3rd place, Jeonju, Korea ($385) [2022] <br>
+    - Financial Service Proposals Based on User Payment Information (Big-data hackathon), 4th place, Shinhan Financial group [2022] <br>
     - Dean’s list and Full tuition scholarship, Jeonbuk National University [2021] <br>
    </justify>  
 </div>
