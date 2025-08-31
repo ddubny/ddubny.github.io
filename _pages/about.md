@@ -34,11 +34,12 @@ permalink: /about/
 
 
 ---- 
-<br><br><br>
+
+
+<br>
 
 # <center> Academic Backgrounds </center> 
   
-
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
 <br>
@@ -64,7 +65,9 @@ With this interdisciplinary background, I stand at the intersection of the human
 
 
 <br> 
-# <center> Experience <center> 
+
+# <center> Experience </center> 
+
 <br>
 
 <div style="overflow: auto;">
