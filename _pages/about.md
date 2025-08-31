@@ -64,51 +64,36 @@ With this interdisciplinary background, I stand at the intersection of the human
 <br> 
 # <center> Experience <center> 
 <br>
-I had a lot of diverse experiences over the years, each of which led me to my current career path. 
-
-<br>
 
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/student-government.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-   <h3>Vice-president of student council</h3>
+   <h3>Leadership</h3>
    <justify>       
-    My deep love for the major, Library and information science, came from being a part of the student government.  </justify>  
+    - Graduate Student Advisory Council [2025]
+    - Vice-President of Student Government in Department of Library and Information Science [2020]
+   </justify>  
 </div>
-
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
-
+<br>
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3>Internship</h3>
-  <justify> I worked as a business intern at Trost, a startup offering digital mental health services. <u>There, I identified a critical need: people living with mental illnesses often face significant challenges in seeking and interpreting information.</u> Recognizing these challenges, I became passionate about designing accessible information systems for those struggling with low literacy.</justify>  
+  <h3>Work</h3>
+   <justify>       
+    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ]
+    - Business Internship [May 2022 – Aug 2022]
+    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] 
+   </justify>  
 </div>
-
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
-
+<br>
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Awards in Data Utilization Contest</h3>
-   After learning data analysis through statistics, I participated in 6 competitions, winning awards in 3 of them. My involvement in real-world projects has sharpened <u>my skills in applying machine learning, natural language processing, and big data processing techniques to extract bright insights from raw data.</u> I plan to continue leveraging these technical skills in my future research. 
+  <h3> Honor and Awards</h3>
+   <justify>       
+    - Graduate Research Assistant, Echo Chambers to Empowerment Project (NSF granted) [Jun 2025 –  ]
+    - Business Internship [May 2022 – Aug 2022]
+    - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] 
+   </justify>  
 </div>
-
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
-
-<div style="overflow: auto;">
-  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/uslibrary.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
-  <h3> Visiting the U.S. Libraries</h3>
-  <justify> During my visit to the U.S. under my school's 'Global Expedition' program, I explored various libraries. This experience revealed the community support role of American libraries, contrasting with Korea's study-focused libraries. This inspired me to transform Korean libraries by adopting the inclusive, community-engaged approach. My goal is to study user-centric systems for diverse audiences. </justify>
-</div>
-
-<center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/down.png?raw=true" width="70" height="70" ></center> 
-
-<div>
-  <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/unlv.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
-  <h3> Machine Learning workshop  </h3> 
-  My latest experience, the Machine Learning Engineering Workshop Program at the University of Nevada, Las Vegas, provided me with the opportunity to strengthen my professional skills in information technologies.
-</div>
-
 <br>  
-
 
 ---- 
 
