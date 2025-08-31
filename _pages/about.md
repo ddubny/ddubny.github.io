@@ -72,7 +72,7 @@ With this interdisciplinary background, I stand at the intersection of the human
     - Vice-President of Student Government in Department of Library and Information Science [2020] <br>
    </justify>  
 </div>
-<br>
+
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital-mental.png?raw=true" width="200" height="200" style="float: right; margin-left: 30px;">
   <h3>Work</h3>
@@ -82,7 +82,7 @@ With this interdisciplinary background, I stand at the intersection of the human
     - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] <br>
    </justify>  
 </div>
-<br>
+
 <div style="overflow: auto;">
   <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/digital.png?raw=true" width="200" height="200" style="float: left; margin-right: 30px;">
   <h3> Honor and Awards</h3>
@@ -92,7 +92,7 @@ With this interdisciplinary background, I stand at the intersection of the human
     - Undergraduate Researcher, EmoLab (Affective Neuroscience) [Aug 2021 – Dec 2022] <br>
    </justify>  
 </div>
-<br>  
+ 
 
 ---- 
 
