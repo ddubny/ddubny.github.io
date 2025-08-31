@@ -148,10 +148,8 @@
     max-width: 100%;
   }
   .speech-bubble:after {
-    left: 50%;
-    top: -12px;
-    transform: translateX(-50%);
-    border-width: 12px;
+    top: -10px;
+    border-width: 10px;
     border-color: transparent transparent #ededed transparent;
   }
 }
