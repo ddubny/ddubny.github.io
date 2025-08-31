@@ -152,6 +152,20 @@ r {
   }
 }
 
+y {
+  text-decoration: none;
+  color: $brand-color;  
+  font-weight: bold;
+  transition: $global-transition;
+  &:hover {
+    color: darken($brand-color, 10%);
+  }
+  &:active {
+    color: darken($brand-color, 20%);
+  }
+}
+
+
 hr {
   display: block;
   height: 1px;
