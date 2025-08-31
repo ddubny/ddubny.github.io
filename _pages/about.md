@@ -14,7 +14,7 @@ permalink: /about/
 
 <div style="display: flex;">
   <div style="flex: 1; ">
-    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750" style="margin-left:20px;">
+    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750" style="margin-left:60px;">
   </div> 
   <div class="speech-bubble" style="flex: 2;">
      <br>
