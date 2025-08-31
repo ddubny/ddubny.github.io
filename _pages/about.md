@@ -34,8 +34,7 @@ permalink: /about/
 
 
 ---- 
-
-<br>
+<br><br><br>
 
 # <center> Academic Backgrounds </center> 
   
