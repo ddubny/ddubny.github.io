@@ -132,7 +132,7 @@
 	top: 50%;
 	width: 0;
 	height: 0;
-	border: 89px solid transparent;
+	border: 10px solid transparent;
 	border-right-color: #ededed;
 	border-left: 0;
 	border-bottom: 0;
@@ -148,8 +148,10 @@
     max-width: 100%;
   }
   .speech-bubble:after {
-    top: -10px;
-    border-width: 10px;
+    left: 50%;
+    top: -12px;
+    transform: translateX(-50%);
+    border-width: 12px;
     border-color: transparent transparent #ededed transparent;
   }
 }
