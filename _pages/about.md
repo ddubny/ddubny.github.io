@@ -93,8 +93,10 @@ With this interdisciplinary background, I stand at the intersection of the human
    <justify>       
     - Dr. Frank G. Burke Research Award, University of Maryland, College Park ($975) [2025]  <br>
     - Merit-based Government scholarship, Jeonnam Institute for Talent & Lifelong Education (Study Abroad Scholarship, $80,000) [2024] <br>
-       [-> Related Article: “I aim to pursue research that helps bridge the digital divide.” (July 11, 2024)](http://www.kwangju.co.kr/article.php?aid=1720654200770806028)<br>
-    - Merit-based Study Abroad Scholarship for Alumni, Jeonbuk National University ($15,000) [2024]  <br>
+      <a href="http://www.kwangju.co.kr/article.php?aid=1720654200770806028" target="_blank">
+      → Related Article: “I aim to pursue research that helps bridge the digital divide.” (July 11, 2024) <br>
+      </a> 
+    - Merit-based Study Abroad Scholarship for Alumni, Jeonbuk National University ($15,000) [2024] <br>
     - Undergraduate Student Travel Grants—US library tour ($1,150) [2023] <br>
     - Library Services Improvement Contest, 2nd place, Jeonbuk National University [2023] <br>
     - Local Community Problem-solving with Public Data (Data science competition), 3rd place, Jeonju, Korea ($385) [2022] <br>
