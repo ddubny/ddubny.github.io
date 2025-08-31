@@ -14,21 +14,21 @@ permalink: /about/
 
 <div style="display: flex;">
   <div style="flex: 1; ">
-    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750" style="margin-left:60px;">
+    <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/Avatar1.png?raw=true" width="150" height="750" style="margin-left:90px;">
   </div> 
   <div class="speech-bubble" style="flex: 2;">
      <br>
      <h2><center>Subin Seo</center></h2>
      <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶ Master student at University of Maryland<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶ E-mail: <a href='mailto:subinseo@umd.edu' title="Send email to subinseo@umd.edu">subinseo@umd.edu</a> <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓B.A. in Library and Information Science<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓B.A. in  Psychology<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓Minor in  Statistics<br>     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓Big-data curation Micro degree<br>    
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐<strong>Interdisciplinary perspective</strong><br>  
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐<strong>Search and Information Behavior</strong><br>  
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐<strong>Human-AI interaction</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶  Master student at University of Maryland<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶  E-mail: <a href='mailto:subinseo@umd.edu' title="Send email to subinseo@umd.edu">subinseo@umd.edu</a> <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 B.A. in Library and Information Science<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 B.A. in  Psychology<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Minor in  Statistics<br>     
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Big-data curation Micro degree<br>    
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ <strong>Interdisciplinary perspective</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ <strong>Search and Information Behavior</strong><br>  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ <strong>Human-AI interaction</strong><br>  
   </div>
 </div>
 
