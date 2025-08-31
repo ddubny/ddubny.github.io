@@ -42,14 +42,9 @@ permalink: /about/
 
 <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/knowlege.JPG?raw=true" style="height: auto; width: 100%;" >
 
-With this interdisciplinary background, I stand at the intersection of the humanities and technology (information systems). Over the next five years, I anticipate that rapid technological advances will widen disparities—not only in access to information but in everyday life—driven by uneven AI literacy and technical skills. In this context, the shaping of information systems will become even more consequential. I therefore aim to investigate information behavior as foundation for shaping these systems responsibly. Methodologically, I want to employ computational approaches—including NLP/ML analyses and experiment designs. My goal is to help move beyond a paradigm in which users must search for information, toward systems that proactively and interactively deliver trustworthy information to people when and where it is needed. 
-
-<br><br>
-
+<br>
 # <center> Areas of Interest </center>
-
 <br>  
-
 ▶ **Information Behavior**
 
 - Search
@@ -61,6 +56,9 @@ With this interdisciplinary background, I stand at the intersection of the human
 - Generative AI 
 - Future Information systems / Libraries with AI
 
+<br>
+With this interdisciplinary background, I stand at the intersection of the humanities and technology (information systems). Over the next five years, I anticipate that rapid technological advances will widen disparities—not only in access to information but in everyday life—driven by uneven AI literacy and technical skills. In this context, the shaping of information systems will become even more consequential. I therefore aim to investigate information behavior as foundation for shaping these systems responsibly. Methodologically, I want to employ computational approaches—including NLP/ML analyses and experiment designs. My goal is to help move beyond a paradigm in which users must search for information, toward systems that proactively and interactively deliver trustworthy information to people when and where it is needed. 
+<br>
 ---- 
 
 <br> 
@@ -117,7 +115,7 @@ I had a lot of diverse experiences over the years, each of which led me to my cu
 <br> 
 # <center> Personality <center> 
 
-Let me introduce my personality. I am ...
+Let me introduce my personality. I am a/an...
 
 <h3> 🔥 Go-getter person </h3>
 <center> <img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/studylog.gif?raw=true" style="height: auto; width: 60%;" ></center> 
@@ -127,7 +125,7 @@ Let me introduce my personality. I am ...
 <h4> 🫱🏾‍🫲🏼 Team player </h4>
 <figure style="text-align: center;">
   <center><img src="https://github.com/ddubny/ddubny.github.io/blob/main/images/aboutme/personality2.jpg?raw=true" style="height: auto; width: 60%;"></center>
-  <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em>Running a program with student government members in the Book Festival</em></figcaption>
+  <figcaption style="color: gray; font-family: Segoe UI; font-size:16px"><em> 2025 ALA annual conference </em></figcaption>
 </figure>
 <justify> I grow most in team environments, where I learn from alternative viewpoints and draw on others’ strengths. These experiences have shown me the power of collective effort in overcoming challenges and achieving shared goals. I always learn from advisors and colleagues, gaining both practical knowledge and effective work practices. </justify>
 <br> 
