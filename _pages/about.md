@@ -56,7 +56,7 @@ permalink: /about/
 
 - Search Engines
 - Generative AI 
-- Future Information systems or Libraries (Proactive and Interactive systems)
+- Future Information systems or Libraries (Proactive and Interactive Systems)
 
 <br>
 With this interdisciplinary background, I stand at the intersection of the humanities and technology (information systems). Over the next five years, I anticipate that rapid technological advances will give rise to both utopian prospects and dystopian challenges. In this context, to lessen dystopian consequences, the human-centered shaping of information systems will become all the more critical. **I therefore aim to investigate information behavior as foundation for shaping proactive, responsible, interactive, and safe information systems.** Methodologically, I want to employ computational approaches—including NLP/ML analyses and experiment designs. My goal is to help move beyond a paradigm in which users must search for information, toward systems that proactively and interactively deliver trustworthy information to people when and where it is needed. 
